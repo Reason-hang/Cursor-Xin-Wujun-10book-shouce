@@ -1,0 +1,25 @@
+{
+  "unit_id": "SX-U0004",
+  "book_code": "SX",
+  "title": "01｜导论：数学通识课的体系和学习攻略",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0004-K01",
+      "speaker": "吴军本人",
+      "claim": "课程按几何、代数、分析、应用四模块递进，先建立地图再深入。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

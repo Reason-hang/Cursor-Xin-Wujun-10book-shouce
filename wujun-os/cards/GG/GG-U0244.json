@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0244",
+  "book_code": "GG",
+  "title": "答读者问36丨个人收入水平被什么因素影响？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0244-K01",
+      "speaker": "吴军本人",
+      "claim": "收入受技能稀缺性、行业周期、地域与议价能力共同影响。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

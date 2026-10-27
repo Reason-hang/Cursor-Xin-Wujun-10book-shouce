@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0048",
+  "book_code": "SX",
+  "title": "44｜非零和博弈（纳什均衡）：真的存在共赢吗？",
+  "batch": "B-P3a-SX-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0048-K01",
+      "speaker": "吴军本人",
+      "claim": "纳什均衡：非零和博弈中各方策略相互最优，共赢需结构配合。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

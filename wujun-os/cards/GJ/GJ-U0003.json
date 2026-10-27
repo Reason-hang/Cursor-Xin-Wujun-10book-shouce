@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0003",
+  "book_code": "GJ",
+  "title": "前言 从“态度”到“格局”",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "格局是在认清位置与方向后，用正确方法、节奏追求可叠加式进步；要做减法、懂得放弃。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

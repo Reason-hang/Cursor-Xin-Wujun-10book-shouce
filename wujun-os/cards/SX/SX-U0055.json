@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0055",
+  "book_code": "SX",
+  "title": "50｜当今的七大千禧数学难题",
+  "batch": "B-P3a-SX-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0055-K01",
+      "speaker": "吴军本人",
+      "claim": "千禧难题标示数学前沿未知；未证命题提醒知识的边界。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

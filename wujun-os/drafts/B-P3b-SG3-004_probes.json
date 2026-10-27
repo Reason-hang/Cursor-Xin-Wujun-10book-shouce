@@ -1,0 +1,65 @@
+{
+  "batch_id": "B-P3b-SG3-004",
+  "units": [
+    {
+      "unit_id": "SG3-U0297",
+      "title": "答读者问46 “既要又要”，什么时候可以，什么时候不应该？",
+      "probe": "答回答三个问题，主要和个",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0303",
+      "title": "答读者问47 孩子要不要在很小的时候，就接受学前教育？",
+      "probe": "答回答三个问题，分别和教",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0314",
+      "title": "答读者问49 什么时候要“较真”，什么时候要“讲道理”？",
+      "probe": "【编者注：当前PDF的目",
+      "words": "编者注,：当前",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0315",
+      "title": "答读者问50 当世界是一片火海时，我们该怎么办？",
+      "probe": "这次我们要聊的是：当世界",
+      "words": "这次我,们要聊",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0316",
+      "title": "答读者问51 富养孩子好，还是穷养孩子好？",
+      "probe": "这次我选了两个比较重要的",
+      "words": "这次我,选了两",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0317",
+      "title": "答读者问52 想让孩子上更好的学校，又想每天陪伴他，我要怎么选择呢？",
+      "probe": "学校，又想每天陪伴他，做",
+      "words": "想让孩,子上更",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

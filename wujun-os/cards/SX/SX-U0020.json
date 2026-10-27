@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0020",
+  "book_code": "SX",
+  "title": "17｜无穷小（三）：用动态和极限的眼光看世界",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0020-K01",
+      "speaker": "吴军本人",
+      "claim": "极限与动态视角：用无穷小刻画瞬时变化，回应贝克莱对微积分的质疑。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

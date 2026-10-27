@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0158",
+  "book_code": "GG",
+  "title": "第089封信丨20世纪最伟大的发明——集成电路",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

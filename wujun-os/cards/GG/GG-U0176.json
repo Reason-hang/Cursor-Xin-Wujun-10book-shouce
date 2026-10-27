@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0176",
+  "book_code": "GG",
+  "title": "答读者问25丨用“递归”做事有哪些缺点？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0176-K01",
+      "speaker": "吴军本人",
+      "claim": "递归思维优雅但可能有栈深、性能与可读性代价，需知何时不用。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

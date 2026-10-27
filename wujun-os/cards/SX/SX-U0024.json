@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0024",
+  "book_code": "SX",
+  "title": "21｜公理体系：几何的系统理论从何而来？",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0024-K01",
+      "speaker": "吴军本人",
+      "claim": "欧几里得公理体系：从少量公理演绎出整套几何，奠定严格证明范式。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

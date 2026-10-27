@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0008",
+  "book_code": "JJ",
+  "title": "我们何以能够认识世界、获得新知",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0008-K01",
+      "speaker": "吴军本人",
+      "claim": "知识来自可触碰的经验；不能只读书不实践，管理公司与爱情皆须亲身验证。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

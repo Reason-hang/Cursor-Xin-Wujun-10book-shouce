@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0081",
+  "book_code": "JS",
+  "title": "63.巴菲特午餐：人生的智慧",
+  "batch": "B-P3a-JS-005",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0081-K01",
+      "speaker": "吴军本人",
+      "claim": "巴菲特午餐启示：价值投资与人生节制、复利思维。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

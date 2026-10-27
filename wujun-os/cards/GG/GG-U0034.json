@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0034",
+  "book_code": "GG",
+  "title": "答读者问05丨留学生怎样更好地融入美国？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0034-K01",
+      "speaker": "吴军本人",
+      "claim": "融入新环境靠主动社交、尊重规则与长期信誉积累。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D07-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

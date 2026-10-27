@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0046",
+  "book_code": "GJ",
+  "title": "36. 为什么悲观主义会盛行",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0046-K01",
+      "speaker": "吴军本人",
+      "claim": "悲观主义盛行因传媒偏好坏消息、社会焦虑与「先唱衰再套现」激励等。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

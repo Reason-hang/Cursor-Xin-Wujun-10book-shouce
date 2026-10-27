@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0003",
+  "book_code": "JJ",
+  "title": "前言 什么是境界",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "境界首在看得远、看得透、看得开；向先哲学习是提高境界的入门路径。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

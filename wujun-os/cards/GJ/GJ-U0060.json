@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0060",
+  "book_code": "GJ",
+  "title": "48. 免费时代的赢家和输家",
+  "batch": "B-P3a-GJ-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0060-K01",
+      "speaker": "吴军本人",
+      "claim": "免费时代赢家靠独特有用信息；复制无价值的免费模式让多数互联网公司死亡。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

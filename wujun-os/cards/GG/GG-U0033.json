@@ -1,0 +1,22 @@
+{
+  "unit_id": "GG-U0033",
+  "book_code": "GG",
+  "title": "第020封信丨是否该出国读书：中美教育全面比较",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-GG-U0033-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

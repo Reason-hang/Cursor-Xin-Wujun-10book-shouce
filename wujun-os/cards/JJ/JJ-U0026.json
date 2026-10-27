@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0026",
+  "book_code": "JJ",
+  "title": "何时使用经验，何时相信理性",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0026-K01",
+      "speaker": "吴军本人",
+      "claim": "日常规则靠理性，异常靠经验；跟成功者学必要条件，勿在未发生假设上空想因果。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

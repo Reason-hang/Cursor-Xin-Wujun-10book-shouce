@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0026",
+  "book_code": "JS",
+  "title": "第四章拒绝伪工作",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0026-K01",
+      "speaker": "吴军本人",
+      "claim": "第四章主张：区分真工作与伪工作，效率来自做对的事。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

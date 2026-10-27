@@ -1,0 +1,22 @@
+{
+  "unit_id": "SG3-U0012",
+  "book_code": "SG3",
+  "title": "第009 封信丨在线教育能不能替代线下教育？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-SG3-U0012-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

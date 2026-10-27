@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0007",
+  "book_code": "GJ",
+  "title": "03. 分享利益，独立决定",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0007-K01",
+      "speaker": "吴军本人",
+      "claim": "合作可分享利益，但关键决策须独立做出，避免集体绑架个人判断。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D03-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

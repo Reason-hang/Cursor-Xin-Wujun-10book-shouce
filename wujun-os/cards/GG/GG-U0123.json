@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0123",
+  "book_code": "GG",
+  "title": "特别加餐丨我所了解的拉里∙佩奇",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3b-SG3-001",
+  "units": [
+    {
+      "unit_id": "SG3-U0014",
+      "title": "答读者问01 为什么我们必须与他人沟通、讨论？",
+      "probe": "这一次问答的前两个问题，",
+      "words": "这一次,问答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0020",
+      "title": "答读者问02 为什么不是所有人都会投资指数基金？",
+      "probe": "耶律达石我有一个疑问，苏",
+      "words": "耶律达,石我有",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0027",
+      "title": "答读者问03 加州的治理有些什么问题？",
+      "probe": "这次的周末我们有两部分内",
+      "words": "这次的,周末我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0033",
+      "title": "答读者问04 有了B 计划，还要C 计划、D 计划吗？",
+      "probe": "专栏的周末问答时间。这周",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0039",
+      "title": "答读者问05 言行不一致的人讲的道理，要不要听？",
+      "probe": "周末问答时间。这次问答，",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0045",
+      "title": "答读者问06 固执的背后是什么？",
+      "probe": "周末问答时间。这一次的内",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0051",
+      "title": "答读者问07 经常总结经验就是经验主义吗？",
+      "probe": "们专栏的周末问答时间。在",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0057",
+      "title": "答读者问08 什么样的心态称得上是“企业主人公”心态？",
+      "probe": "问答时间。这次问答回答4",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0063",
+      "title": "答读者问09 做电商遇到无理客户怎么办？",
+      "probe": "栏的周末问答时间。这次内",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0075",
+      "title": "答读者问10 说话容易得罪别人，怎么办？",
+      "probe": "答时间。这次的问答回答两",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0081",
+      "title": "答读者问11 怎么开发孩子的智力和天赋？",
+      "probe": "末问答时间。这次问答的第",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0087",
+      "title": "答读者问12 为什么说真正让人吸取教训的是行动？",
+      "probe": "末问答时间。这次问答的内",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0093",
+      "title": "答读者问13 搜索引擎很强大，还需要自己思考答案吗？",
+      "probe": "的周末问答时间。这一次问",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0099",
+      "title": "答读者问14 暂时难以得到的权益要不要维护？",
+      "probe": "的周末问答时间。这次的内",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0105",
+      "title": "答读者问15 什么时候不需要道歉？",
+      "probe": "这次的问答回答三个问题。",
+      "words": "这次的,问答回",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

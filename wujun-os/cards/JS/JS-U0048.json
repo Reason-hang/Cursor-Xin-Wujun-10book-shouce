@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0048",
+  "book_code": "JS",
+  "title": "35.这个世界没有欠你什么",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0048-K01",
+      "speaker": "吴军本人",
+      "claim": "世界不欠任何人回报；抱怨不如提升见识与行动力。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

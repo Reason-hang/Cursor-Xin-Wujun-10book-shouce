@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0181",
+  "book_code": "WJ2",
+  "title": "周末问答29｜专业人士是怎么做工作记录的？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0181-K01",
+      "speaker": "吴军本人",
+      "claim": "专业记录：决策日志、数据与复盘，便于协作与传承。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

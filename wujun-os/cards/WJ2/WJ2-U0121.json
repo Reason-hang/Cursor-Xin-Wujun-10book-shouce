@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0121",
+  "book_code": "WJ2",
+  "title": "周末问答19｜赚钱是不是得先挣到第一桶金？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0121-K01",
+      "speaker": "吴军本人",
+      "claim": "第一桶金重要但非唯一；能力与信誉可持续创造财富。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-1",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

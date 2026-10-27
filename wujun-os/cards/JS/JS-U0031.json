@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0031",
+  "book_code": "JS",
+  "title": "22.做好最后的1%",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0031-K01",
+      "speaker": "吴军本人",
+      "claim": "最后百分之一的细节与闭环，往往决定交付品质与用户信任。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

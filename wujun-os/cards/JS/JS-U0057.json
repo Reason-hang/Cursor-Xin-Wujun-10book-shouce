@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0057",
+  "book_code": "JS",
+  "title": "43.我们一定比18世纪的人过得好吗？",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0057-K01",
+      "speaker": "吴军本人",
+      "claim": "幸福不唯物质增长：与时代比较要看得分与结构，非单指标。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

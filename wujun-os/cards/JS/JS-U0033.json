@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0033",
+  "book_code": "JS",
+  "title": "23.年轻人第一份工作不要太在乎工资",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0033-K01",
+      "speaker": "吴军本人",
+      "claim": "首份工作应优先平台与成长曲线，不宜唯工资论。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

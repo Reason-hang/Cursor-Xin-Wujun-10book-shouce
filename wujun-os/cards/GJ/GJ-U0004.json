@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0004",
+  "book_code": "GJ",
+  "title": "第一章 人生的格局",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0004-K01",
+      "speaker": "吴军本人",
+      "claim": "提升格局先承认超出个人能力的力量（天/命运），勿因自恃才华而限制天花板。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

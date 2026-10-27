@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0205",
+  "book_code": "WJ2",
+  "title": "周末问答33｜垄断会造成哪四大长期危害？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0205-K01",
+      "speaker": "吴军本人",
+      "claim": "垄断长期危害：创新停滞、消费者剩余损失、寻租与质量下降。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

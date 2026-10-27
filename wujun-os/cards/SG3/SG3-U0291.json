@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0291",
+  "book_code": "SG3",
+  "title": "答读者问45 下属能力比自己强，做领导的该怎么办？",
+  "batch": "B-P3b-SG3-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0291-K01",
+      "speaker": "吴军本人",
+      "claim": "强下属是领导资产，要放权与对齐目标。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

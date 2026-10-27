@@ -1,0 +1,135 @@
+{
+  "batch_id": "B-P3b-WJ2-004",
+  "units": [
+    {
+      "unit_id": "WJ2-U0232",
+      "title": "第190封信｜回同学信07：学术的道路不好走",
+      "probe": "今天这封信是回应“Kua",
+      "words": "今天这,封信是",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0233",
+      "title": "第191封信｜回同学信08：什么专业在美国不好找工作？",
+      "probe": "今天这封信是回应“嘻嘻哈",
+      "words": "今天这,封信是",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0234",
+      "title": "第192封信｜回同学信09：读书怡情挺好的",
+      "probe": "今天这封信是回复“Jin",
+      "words": "今天这,封信是",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0235",
+      "title": "周末问答38｜普通人去硅谷发展，该注意什么？",
+      "probe": "人加入学习（2025-0",
+      "words": "470,01 ",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0241",
+      "title": "周末问答39｜为什么说通勤太久是贫困的重要原因？",
+      "probe": "天要回答的第一个问题，是",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0247",
+      "title": "周末问答40｜身处夕阳行业，还应该坚持吗？",
+      "probe": "答的第一个问题，来自“寻",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0253",
+      "title": "周末问答41｜为什么读同一本书，每个人的收获不同？",
+      "probe": "答的第一个问题，来自“罗",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0259",
+      "title": "周末问答42｜怎么判断孩子真的学懂了？",
+      "probe": "答的第一类问题，来自“T",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0265",
+      "title": "周末问答43｜生物专业的就业前景和去向怎么样？",
+      "probe": "答的第一个问题，来自“涅",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0267",
+      "title": "第219封信｜回同学信10：为什么要生孩子？",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0268",
+      "title": "第220封信｜回同学信11：谈谈中国企业的出海问题",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0270",
+      "title": "第222封信｜回同学信12：AI时代的机会并非属于每一个人",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0271",
+      "title": "周末问答44｜为什么经常觉得领导很平庸？",
+      "probe": "答的第一个问题，来自“等",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

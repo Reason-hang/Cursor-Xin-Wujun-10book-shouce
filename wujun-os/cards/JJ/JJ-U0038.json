@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0038",
+  "book_code": "JJ",
+  "title": "后记",
+  "batch": "B-P3a-JJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0038-K01",
+      "speaker": "吴军本人",
+      "claim": "黑格尔三层历史观；读经典与传记是浓缩文明智慧、指导实践的工具。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

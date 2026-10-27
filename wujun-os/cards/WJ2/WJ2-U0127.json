@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0127",
+  "book_code": "WJ2",
+  "title": "周末问答20｜当下和未来之间存在矛盾吗？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0127-K01",
+      "speaker": "吴军本人",
+      "claim": "当下与未来可冲突；长期主义要付短期机会成本。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-1",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

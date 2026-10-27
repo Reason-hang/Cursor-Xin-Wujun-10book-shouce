@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0034",
+  "book_code": "GJ",
+  "title": "26. 见小利，则大事不成",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0034-K01",
+      "speaker": "吴军本人",
+      "claim": "张先生教「大气」：开眼界优于给小钱；见小利则难做百万级大单。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

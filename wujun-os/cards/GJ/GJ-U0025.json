@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0025",
+  "book_code": "GJ",
+  "title": "18. 三种好公司和三种职场聪明人",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0025-K01",
+      "speaker": "吴军本人",
+      "claim": "好公司须在员工、顾客、投资人之间取舍；职场宜发挥特长，对领导、同事或公司负主责一端。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

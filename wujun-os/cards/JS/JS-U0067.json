@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0067",
+  "book_code": "JS",
+  "title": "51.我们和天才相差有多远",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0067-K01",
+      "speaker": "吴军本人",
+      "claim": "天才存在但差距可被方法与积累部分弥补。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0242",
+  "book_code": "GG",
+  "title": "紧急加餐丨为什么苹果公司值一万亿美元？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

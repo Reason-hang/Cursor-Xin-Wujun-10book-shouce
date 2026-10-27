@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0039",
+  "book_code": "JS",
+  "title": "第六章理性的投资观",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0039-K01",
+      "speaker": "吴军本人",
+      "claim": "第六章：投资需理性框架，与消费和投机区分。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

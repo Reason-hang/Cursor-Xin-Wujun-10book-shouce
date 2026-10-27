@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0036",
+  "book_code": "SX",
+  "title": "32｜积分：如何从微观趋势了解宏观变化？",
+  "batch": "B-P3a-SX-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0036-K01",
+      "speaker": "吴军本人",
+      "claim": "积分累加微观变化得到宏观总量，与微分构成互逆视角。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

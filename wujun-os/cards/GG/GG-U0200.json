@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0200",
+  "book_code": "GG",
+  "title": "答读者问29丨怎样证明人类进入了文明社会？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0200-K01",
+      "speaker": "吴军本人",
+      "claim": "文明社会标志包括规则、协作分工与知识传承，而非仅物质丰富。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

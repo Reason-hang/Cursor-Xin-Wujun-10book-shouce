@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0217",
+  "book_code": "WJ2",
+  "title": "周末问答35｜怎样听懂弦外之音？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0217-K01",
+      "speaker": "吴军本人",
+      "claim": "听懂弦外之音靠语境、利益与反复确认，勿过度解读。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

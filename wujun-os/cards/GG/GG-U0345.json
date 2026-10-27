@@ -1,0 +1,22 @@
+{
+  "unit_id": "GG-U0345",
+  "book_code": "GG",
+  "title": "第211封信丨帮助你和青春叛逆期孩子沟通的书",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-GG-U0345-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

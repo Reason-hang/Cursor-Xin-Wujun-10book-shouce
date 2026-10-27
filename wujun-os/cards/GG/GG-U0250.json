@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0250",
+  "book_code": "GG",
+  "title": "答读者问37丨为什么在中国矩阵式管理难以实施",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0250-K01",
+      "speaker": "吴军本人",
+      "claim": "矩阵管理在中国难在汇报线与权责文化，需配套激励与信任。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

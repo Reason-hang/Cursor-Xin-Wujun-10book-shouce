@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0136",
+  "book_code": "GG",
+  "title": "答读者问19丨Google的服务器集群和Space X的火箭集群有哪些不同？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0136-K01",
+      "speaker": "吴军本人",
+      "claim": "服务器集群与火箭集群同属冗余与并行思想，场景与约束不同。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

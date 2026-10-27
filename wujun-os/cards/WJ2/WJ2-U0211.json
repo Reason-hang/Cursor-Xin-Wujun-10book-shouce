@@ -1,18 +1,26 @@
 {
   "unit_id": "WJ2-U0211",
+  "book_code": "WJ2",
+  "title": "周末问答34｜房价走势的主要影响因素有哪些？",
+  "batch": "B-P3b-WJ2-003",
   "disposition_unit": "K",
-  "speaker_note": "读者提问+吴军回答；K卡仅收吴军宏观判断",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P1-WJ2-U0211-K01",
+      "card_id": "P3b-WJ2-U0211-K01",
       "speaker": "吴军本人",
-      "claim": "房价长期走势的首要宏观因素是当地经济增长（10年以上视角）。",
-      "type": "判断",
+      "claim": "房价受供需、利率、政策与人口结构多重影响，非单因子。",
+      "type": "原理",
       "disposition": "K",
-      "pillar_hints": ["D09-1"],
-      "capability_tags": ["思"],
-      "stable": "条件化",
-      "mapping_note": "映射·非原著：不构成投资建议"
+      "pillar_hints": [
+        "D09-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
     }
   ]
 }

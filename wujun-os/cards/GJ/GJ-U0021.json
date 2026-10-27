@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0021",
+  "book_code": "GJ",
+  "title": "15. 幸福的蓝色地带",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0021-K01",
+      "speaker": "吴军本人",
+      "claim": "长寿幸福社区（蓝色地带）启示：社交、意义感与节制习惯重于物质堆砌。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

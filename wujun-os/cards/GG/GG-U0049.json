@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0049",
+  "book_code": "GG",
+  "title": "答读者问07丨聪明人和笨人（内含第二届摄影大赛流程）",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0049-K01",
+      "speaker": "吴军本人",
+      "claim": "聪明与笨常是灰度标签；持续学习比天赋标签更重要。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

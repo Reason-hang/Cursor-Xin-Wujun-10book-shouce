@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0012",
+  "book_code": "JJ",
+  "title": "伊壁鸠魯学派宣扬的是纸醉金迷的享乐吗",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "伊壁鸠鲁的快乐是静态、理性、趋善避恶；降物欲、不惧死，方能长久幸福。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

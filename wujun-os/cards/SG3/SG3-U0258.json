@@ -1,0 +1,22 @@
+{
+  "unit_id": "SG3-U0258",
+  "book_code": "SG3",
+  "title": "第214 封信丨第斯多惠：曾经让德国崛起的教育理念，为什么不适用了？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-SG3-U0258-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0020",
+  "book_code": "JS",
+  "title": "第三章以小博大的颠覆式创新",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0020-K01",
+      "speaker": "吴军本人",
+      "claim": "第三章论颠覆式创新：小公司凭不对称优势改写产业格局。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

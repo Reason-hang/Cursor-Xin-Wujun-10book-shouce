@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0017",
+  "book_code": "JJ",
+  "title": "何为逻辑的预见性",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0017-K01",
+      "speaker": "吴军本人",
+      "claim": "逻辑预见性让人在不实验的情况下发现矛盾；哈维血液循环亦由逻辑推算再验证。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

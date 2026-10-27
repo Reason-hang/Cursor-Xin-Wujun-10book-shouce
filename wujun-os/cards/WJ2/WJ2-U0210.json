@@ -1,0 +1,22 @@
+{
+  "unit_id": "WJ2-U0210",
+  "book_code": "WJ2",
+  "title": "第172封信｜资产的估值：海湖庄园的历史",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-WJ2-U0210-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X4：来信默认→C",
+      "type": "判断",
+      "disposition": "X4",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0252",
+  "book_code": "GG",
+  "title": "第151封信丨通信中使用最多的算法——维特比算法",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -82,9 +82,22 @@ def s09_test():
     n = sum(1 for ln in open(path, encoding='utf-8') if ln.startswith('| ') and '-U' in ln)
     rec('s09：unit_cards 1697 张', n == 1697, f'实际 {n}')
 
+def p3a_lint_test():
+    rc, out = run(['scripts/p3a_batch.py', 'lint', '--batch', 'B-P3a-GJ-002'])
+    rec('p3a：批次卡面 lint（GJ-002）', rc == 0, out.splitlines()[-1] if out else '')
+
+def p4_concept_keys_test():
+    path = os.path.join(ROOT, 'rules', 'concept_keys.csv')
+    if not os.path.isfile(path):
+        rec('p4：concept_keys 已生成', False, '先 make p4-concept-keys'); return
+    rc, out = run(['scripts/p4_lint_concept_keys.py'])
+    rec('p4：概念键 lint（AC-4.2）', rc == 0, out.splitlines()[-1] if out else '')
+
 def other_tests():
     s09_test()
     triage_test()
+    p3a_lint_test()
+    p4_concept_keys_test()
     rc, out = run(['scripts/status.py'])
     rec('status：能渲染 STATE.md', rc == 0, out.splitlines()[0] if out else '')
     if os.path.exists('MANIFEST.sha256'):

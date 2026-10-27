@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0187",
+  "book_code": "WJ2",
+  "title": "周末问答30｜为什么说餐饮业整体“不挣钱”？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0187-K01",
+      "speaker": "吴军本人",
+      "claim": "餐饮业毛利薄、人工与租金高，规模与周转决定盈利。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

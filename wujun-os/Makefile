@@ -94,3 +94,65 @@ p3a-plan:
 
 p3a-verify-anchors:
 	$(PY) scripts/anchor_tool.py verify --ledger ledger/锚点表_P3a.md --books-dir src_frozen
+
+# P3a 加速：探针草稿 → 编辑 manifest claim → commit → lint → 既有 test/pack
+p3a-probes:
+	@test -n "$(BATCH)" || (echo "用法: make p3a-probes BATCH=B-P3a-GJ-003"; exit 1)
+	$(PY) scripts/p3a_batch.py probes --batch $(BATCH) -o drafts/$(BATCH)_probes.json
+
+p3a-commit:
+	@test -n "$(MANIFEST)" || (echo "用法: make p3a-commit MANIFEST=drafts/B-P3a-xxx.json"; exit 1)
+	$(PY) scripts/p3a_batch.py commit --manifest $(MANIFEST)
+
+p3a-lint:
+	@if [ -n "$(BATCH)" ]; then $(PY) scripts/p3a_batch.py lint --batch $(BATCH); else $(PY) scripts/p3a_batch.py lint; fi
+
+p3a-close:
+	@test -n "$(BATCH)" || (echo "用法: make p3a-close BATCH=B-P3a-xxx [MANIFEST=drafts/....json]"; exit 1)
+	@if [ -n "$(MANIFEST)" ]; then $(MAKE) p3a-commit MANIFEST=$(MANIFEST); fi
+	$(MAKE) p3a-lint BATCH=$(BATCH)
+	$(MAKE) p3a-verify-anchors
+	$(MAKE) pack
+	$(MAKE) test
+
+p3b-plan:
+	$(PY) scripts/p3b_plan_batches.py
+
+p3b-verify-anchors:
+	$(PY) scripts/anchor_tool.py verify --ledger ledger/锚点表_P3b.md --books-dir src_frozen
+
+p3b-probes:
+	@test -n "$(BATCH)" || (echo "用法: make p3b-probes BATCH=B-P3b-GG-001"; exit 1)
+	$(PY) scripts/p3b_batch.py probes --batch $(BATCH) -o drafts/$(BATCH)_probes.json
+
+p3b-commit:
+	@test -n "$(MANIFEST)" || (echo "用法: make p3b-commit MANIFEST=drafts/B-P3b-xxx.json"; exit 1)
+	$(PY) scripts/p3b_batch.py commit --manifest $(MANIFEST)
+
+p3b-lint:
+	@test -n "$(BATCH)" || (echo "用法: make p3b-lint BATCH=B-P3b-GG-001"; exit 1)
+	$(PY) scripts/p3b_batch.py lint --batch $(BATCH)
+
+p3b-close:
+	@test -n "$(BATCH)" || (echo "用法: make p3b-close BATCH=B-P3b-xxx"; exit 1)
+	@if [ -n "$(MANIFEST)" ]; then $(MAKE) p3b-commit MANIFEST=$(MANIFEST); fi
+	$(MAKE) p3b-lint BATCH=$(BATCH)
+	$(MAKE) p3b-verify-anchors
+	$(MAKE) pack
+	$(MAKE) test
+
+p3c-apply:
+	$(PY) scripts/p3c_apply_triage.py
+
+p4-freeze-p3:
+	$(PY) scripts/p4_freeze_p3.py
+
+p4-concept-keys:
+	$(PY) scripts/p4_build_concept_keys.py
+	$(PY) scripts/p4_lint_concept_keys.py
+
+p4-lint-concept-keys:
+	$(PY) scripts/p4_lint_concept_keys.py
+
+p4-similar-pairs:
+	$(PY) scripts/p4_similar_pairs.py

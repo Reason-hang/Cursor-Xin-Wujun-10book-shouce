@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0018",
+  "book_code": "WJ2",
+  "title": "周末问答02｜选大学，应该选名校还是选城市？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0018-K01",
+      "speaker": "吴军本人",
+      "claim": "名校与城市：城市生态与实习机会有时比牌子更影响起步。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

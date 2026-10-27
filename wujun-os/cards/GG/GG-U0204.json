@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0204",
+  "book_code": "GG",
+  "title": "第120封信丨打车软件匹配人和车是否比下围棋还复杂？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

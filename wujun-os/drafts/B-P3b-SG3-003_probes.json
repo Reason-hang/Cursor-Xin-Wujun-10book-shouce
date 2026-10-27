@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3b-SG3-003",
+  "units": [
+    {
+      "unit_id": "SG3-U0207",
+      "title": "答读者问31 完成工作之余想用工作时间学习，怎么办？",
+      "probe": "末问答时间。这封信回答两",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0213",
+      "title": "答读者问32 认识的人多，朋友却很少，怎么改变这种状况？",
+      "probe": "时间。这次问答我们回答两",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0219",
+      "title": "答读者问33 希望寻找合适的伴侣，应该怎么办？",
+      "probe": "问答时间。这次回答两个比",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0225",
+      "title": "答读者问34 一个人工作努力却得不到晋升，为什么？",
+      "probe": "间。这次回答三个问题，不",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0231",
+      "title": "答读者问35 一个人怎么树立自己的权威？",
+      "probe": "答回答四个问题，主要和教",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0237",
+      "title": "答读者问36 为什么说“攀高枝”是不可行的？",
+      "probe": "间。这次回答两个问题，主",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0243",
+      "title": "答读者问37 怎样和活在自己剧本中的人相处？",
+      "probe": "。这封信回答三个问题，和",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0249",
+      "title": "答读者问38 “成绩好”和“能力强”究竟是怎样的关系？",
+      "probe": "答回答三个问题，主要和我",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0255",
+      "title": "答读者问39 怎么判断要不要指出别人的错误？",
+      "probe": "。这封信回答三个问题，分",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0261",
+      "title": "答读者问40 教育孩子需要符合“家长的天性”吗？",
+      "probe": "周末问答时间。这次回答四",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0267",
+      "title": "答读者问41 怎么理解孩子未来可能进入职业教育发展？",
+      "probe": "次回答三个问题，主要和教",
+      "words": "这次回,答三个",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0273",
+      "title": "答读者问42 能用“能否快速上手”判断一项技能是否适合自己吗？",
+      "probe": "次回答三个问题，主要和自",
+      "words": "这次回,答三个",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0279",
+      "title": "答读者问43 怎么拓展思维的深度？",
+      "probe": "这次问答回答三个问题，和",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0285",
+      "title": "答读者问44 新员工容易犯低级错误，怎么办？",
+      "probe": "的周末问答时间。这封信我",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0291",
+      "title": "答读者问45 下属能力比自己强，做领导的该怎么办？",
+      "probe": "答回答三个问题，分别和管",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

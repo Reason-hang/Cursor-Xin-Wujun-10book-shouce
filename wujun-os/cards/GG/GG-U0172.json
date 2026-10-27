@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0172",
+  "book_code": "GG",
+  "title": "第098封信丨你的计算机为什么死机了？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

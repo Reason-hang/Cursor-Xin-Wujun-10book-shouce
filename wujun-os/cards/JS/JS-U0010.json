@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0010",
+  "book_code": "JS",
+  "title": "04.共享经济的本质",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0010-K01",
+      "speaker": "吴军本人",
+      "claim": "共享经济核心是提高资产利用率，而非简单租赁标签。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

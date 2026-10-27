@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0036",
+  "book_code": "JS",
+  "title": "26.职业员工和管理者要注意的两件事",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0036-K01",
+      "speaker": "吴军本人",
+      "claim": "员工与管理者各有两件要务：执行透明与用人所长。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

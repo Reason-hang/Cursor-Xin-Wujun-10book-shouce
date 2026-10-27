@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0093",
+  "book_code": "SG3",
+  "title": "答读者问13 搜索引擎很强大，还需要自己思考答案吗？",
+  "batch": "B-P3b-SG3-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0093-K01",
+      "speaker": "吴军本人",
+      "claim": "搜索是工具；思考与验证不可替代。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

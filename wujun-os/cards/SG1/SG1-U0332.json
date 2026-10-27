@@ -1,0 +1,22 @@
+{
+  "unit_id": "SG1-U0332",
+  "book_code": "SG1",
+  "title": "第320 封信丨犹太人的教育方式Chavrusa 和苏格拉底对勇气的看法",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-SG1-U0332-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0104",
+  "book_code": "GG",
+  "title": "答读者问15丨年轻人该如何平衡“多做事”和“做减法”两者关系？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0104-K01",
+      "speaker": "吴军本人",
+      "claim": "多做事与做减法：先聚焦主目标，再削减低价值事项。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

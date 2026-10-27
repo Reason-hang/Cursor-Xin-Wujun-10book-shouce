@@ -1,0 +1,145 @@
+{
+  "batch_id": "B-P3b-WJ2-003",
+  "units": [
+    {
+      "unit_id": "WJ2-U0157",
+      "title": "周末问答25｜本科、硕士和博士阶段，如何选择学校？",
+      "probe": "答的第一个问题，来自“阳",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0163",
+      "title": "周末问答26｜为什么薪酬不会成为共享信息？",
+      "probe": "答的第一个问题，来自“攻",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0169",
+      "title": "周末问答27｜出国留学，美国和英国各有什么优势？",
+      "probe": "问答时间。今天要回答的前",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0175",
+      "title": "周末问答28｜为什么有的“善行”放大后反而有害？",
+      "probe": "答的第一个问题，来自“D",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0181",
+      "title": "周末问答29｜专业人士是怎么做工作记录的？",
+      "probe": "的第一个问题，来自“lu",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0187",
+      "title": "周末问答30｜为什么说餐饮业整体“不挣钱”？",
+      "probe": "答的第一个问题，来自“N",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0193",
+      "title": "周末问答31｜遇到困境，及时止损还是继续坚持？",
+      "probe": "答的第一个问题，来自“b",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0199",
+      "title": "周末问答32｜为什么很多企业要求员工忠诚？",
+      "probe": "答的第一个问题，来自“不",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0205",
+      "title": "周末问答33｜垄断会造成哪四大长期危害？",
+      "probe": "答的第一个问题，来自“程",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0211",
+      "title": "周末问答34｜房价走势的主要影响因素有哪些？",
+      "probe": "，这里是问答时间。今天的",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0217",
+      "title": "周末问答35｜怎样听懂弦外之音？",
+      "probe": "答的第一个问题，来自“江",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0223",
+      "title": "周末问答36｜为什么市场不做初学者的数据库？",
+      "probe": "学，他的留言比较长，我这",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0229",
+      "title": "周末问答37｜投资品和消费品，有什么区别？",
+      "probe": "答的第一个问题，来自“H",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0231",
+      "title": "第189封信｜回同学信06：给非普娃的四点建议",
+      "probe": "吴军来信》第二季。这周接",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

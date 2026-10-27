@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0254",
+  "book_code": "SG1",
+  "title": "第244 封信丨凡事都要专注——AlphaGo 的核心芯片TPU 解析",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

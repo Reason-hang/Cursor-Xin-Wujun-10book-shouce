@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0151",
+  "book_code": "WJ2",
+  "title": "周末问答24｜养狗让我有了哪些观察和体悟？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0151-K01",
+      "speaker": "吴军本人",
+      "claim": "养宠物观察责任与无条件陪伴，映射人际关系耐心。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

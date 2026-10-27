@@ -1,20 +1,26 @@
 {
   "unit_id": "GG-U0098",
   "book_code": "GG",
-  "title": "答读者问14丨如果给你1000万欧元…",
-  "speaker_default": "吴军本人",
+  "title": "答读者问14丨如果给你1000万欧元，你会买一栋五星级酒店还是5个小旅馆？",
+  "batch": "B-P3b-GG-001",
   "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P1-GG-U0098-K01",
+      "card_id": "P3b-GG-U0098-K01",
       "speaker": "吴军本人",
-      "claim": "面试类开放题要超越常规三视角，从情怀、责任、兴趣、流动性等别人少用的出发点作答以脱颖而出。",
+      "claim": "资产配置看现金流、风险分散与运营能力，非单看资产形态。",
       "type": "方法",
       "disposition": "K",
-      "pillar_hints": ["D03-1", "D06-3"],
-      "capability_tags": ["思", "沟"],
-      "stable": "稳定",
-      "note": "单元内含读者留言转述，本卡仅收吴军方法论评述"
+      "pillar_hints": [
+        "D09-2",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
     }
   ]
 }

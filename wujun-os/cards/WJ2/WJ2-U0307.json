@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0307",
+  "book_code": "WJ2",
+  "title": "周末问答50｜计算机产业，还有前景吗？",
+  "batch": "B-P3b-WJ2-005",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0307-K01",
+      "speaker": "吴军本人",
+      "claim": "计算机产业仍前景广阔，但岗位结构向系统与AI迁移。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

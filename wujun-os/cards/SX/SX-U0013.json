@@ -1,0 +1,25 @@
+{
+  "unit_id": "SX-U0013",
+  "book_code": "SX",
+  "title": "10｜数列和级数（三）：藏在利息和月供里的秘密",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0013-K01",
+      "speaker": "吴军本人",
+      "claim": "利息、复利与月供背后是级数；弄懂可避免借贷陷阱。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D09-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

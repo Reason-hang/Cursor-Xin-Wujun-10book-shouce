@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0043",
+  "book_code": "JS",
+  "title": "32.投资中的误区",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0043-K01",
+      "speaker": "吴军本人",
+      "claim": "常见投资误区：追涨杀跌、杠杆、把运气当能力。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

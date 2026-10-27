@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0013",
+  "book_code": "GJ",
+  "title": "08. 好牌为什么会打烂",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0013-K01",
+      "speaker": "吴军本人",
+      "claim": "资源与起点优越仍可能打烂牌：傲慢、不知边界、把偶然成功当必然。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

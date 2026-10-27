@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0040",
+  "book_code": "GJ",
+  "title": "31. 仰望星空，脚踏实地",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0040-K01",
+      "speaker": "吴军本人",
+      "claim": "代沟源于少年英雄梦与成人梦碎；宜设可行目标而非空许大饼。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

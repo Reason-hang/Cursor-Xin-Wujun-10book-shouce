@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0015",
+  "book_code": "SX",
+  "title": "12｜三次方程：数学史上著名的发明权之争",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0015-K01",
+      "speaker": "吴军本人",
+      "claim": "三次方程史说明数学发现与保密、优先权之争如何塑造知识传播。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0344",
+  "book_code": "GG",
+  "title": "精彩回信丨如何给飞机“看病”？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

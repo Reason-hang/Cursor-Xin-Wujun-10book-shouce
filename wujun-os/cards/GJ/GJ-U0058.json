@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0058",
+  "book_code": "GJ",
+  "title": "46. 寻找快速变化中的永恒",
+  "batch": "B-P3a-GJ-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0058-K01",
+      "speaker": "吴军本人",
+      "claim": "快变时代要抓不变之理：技术是手段，降本增效与真需求才是目的（如服务本质）。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

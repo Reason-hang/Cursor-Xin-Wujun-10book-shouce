@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0033",
+  "book_code": "GJ",
+  "title": "25. 我的5位恩师",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0033-K01",
+      "speaker": "吴军本人",
+      "claim": "五位恩师从不同维度塑造能力；把导师当引路人而非应付的上级。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

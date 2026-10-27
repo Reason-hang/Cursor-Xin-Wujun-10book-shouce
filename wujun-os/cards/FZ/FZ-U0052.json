@@ -1,0 +1,25 @@
+{
+  "unit_id": "FZ-U0052",
+  "book_code": "FZ",
+  "title": "40. 学会用系统思维看问题",
+  "batch": "B-P3a-FZ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0052-K01",
+      "speaker": "吴军本人",
+      "claim": "系统思维：拆耦弱关联、保留强关联；靠迭代与负熵输入，偏好开放自进化系统。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

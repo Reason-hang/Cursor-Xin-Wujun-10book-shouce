@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0036",
+  "book_code": "GJ",
+  "title": "28. 人最重要的是生活着，快乐着",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0036-K01",
+      "speaker": "吴军本人",
+      "claim": "第欧根尼式精神自由：自立、轻物质、平等合作，生活与快乐平衡。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-4"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

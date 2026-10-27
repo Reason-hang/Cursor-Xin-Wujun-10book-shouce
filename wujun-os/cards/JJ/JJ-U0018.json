@@ -1,0 +1,25 @@
+{
+  "unit_id": "JJ-U0018",
+  "book_code": "JJ",
+  "title": "有没有系统发现真理的方法",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0018-K01",
+      "speaker": "吴军本人",
+      "claim": "笛卡尔科学方法五要点：不盲从、大胆假设小心求证、化繁为简、先易后难、综合答案。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

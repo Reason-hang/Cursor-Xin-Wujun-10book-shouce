@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0028",
+  "book_code": "SG1",
+  "title": "第024 封信丨美国大选2:驴象决战关键州",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

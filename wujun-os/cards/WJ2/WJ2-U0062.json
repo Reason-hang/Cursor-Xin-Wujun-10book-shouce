@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0062",
+  "book_code": "WJ2",
+  "title": "第050封信｜回用户信03：为什么智能时代来了，大厂反而在裁员？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0062-K01",
+      "speaker": "吴军本人",
+      "claim": "智能时代大厂裁员是组织重构，不等于行业末日。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

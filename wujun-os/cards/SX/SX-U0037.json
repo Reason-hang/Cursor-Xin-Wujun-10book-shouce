@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0037",
+  "book_code": "SX",
+  "title": "33｜用变化的眼光看最大值和最小值",
+  "batch": "B-P3a-SX-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0037-K01",
+      "speaker": "吴军本人",
+      "claim": "极值问题用导数找临界点：变化率为零处可能是峰谷。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

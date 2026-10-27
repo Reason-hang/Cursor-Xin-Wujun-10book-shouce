@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0195",
+  "book_code": "SG3",
+  "title": "答读者问29 脑机接口技术能够让人变聪明吗？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0195-K01",
+      "speaker": "吴军本人",
+      "claim": "脑机接口或增效但聪明仍靠学习与思考。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0023",
+  "book_code": "JJ",
+  "title": "第三篇 什么是有用的经验",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0023-K01",
+      "speaker": "吴军本人",
+      "claim": "经验与理性如同纸两面，须兼修两种认识论工具。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

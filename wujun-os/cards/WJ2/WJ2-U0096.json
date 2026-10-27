@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0096",
+  "book_code": "WJ2",
+  "title": "周末问答15｜非理性对我们有什么价值？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0096-K01",
+      "speaker": "吴军本人",
+      "claim": "非理性有时提供动力与社交信号，但决策仍要校正。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

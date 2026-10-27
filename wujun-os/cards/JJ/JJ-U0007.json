@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0007",
+  "book_code": "JJ",
+  "title": "如何审视自己和他人",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0007-K01",
+      "speaker": "吴军本人",
+      "claim": "用质料/形式/动力/目的四因分析人与事，才能认识自己并判断他人可否托付。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

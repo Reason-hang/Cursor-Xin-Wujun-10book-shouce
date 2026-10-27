@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0021",
+  "book_code": "JJ",
+  "title": "牛顿如何开启了西方近代社会",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0021-K01",
+      "speaker": "吴军本人",
+      "claim": "牛顿以《原理》仿《几何原本》建力学体系，确立简单性、确定性与预见性，融合科学与技术。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

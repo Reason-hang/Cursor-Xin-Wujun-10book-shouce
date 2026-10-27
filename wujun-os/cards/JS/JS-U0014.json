@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0014",
+  "book_code": "JS",
+  "title": "第二章创业不等于从0到1",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0014-K01",
+      "speaker": "吴军本人",
+      "claim": "创业不等于神话式从0到1，规模化与商业闭环同样关键。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

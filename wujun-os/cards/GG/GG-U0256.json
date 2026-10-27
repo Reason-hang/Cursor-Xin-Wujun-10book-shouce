@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0256",
+  "book_code": "GG",
+  "title": "答读者问38丨如何平衡产品的体验与快速迭代的需求",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0256-K01",
+      "speaker": "吴军本人",
+      "claim": "产品体验与快迭代靠分层发布、数据反馈与优先级裁剪平衡。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

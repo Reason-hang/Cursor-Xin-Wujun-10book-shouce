@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0304",
+  "book_code": "GG",
+  "title": "答读者问46丨如何培养自己的原创能力？",
+  "batch": "B-P3b-GG-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0304-K01",
+      "speaker": "吴军本人",
+      "claim": "原创来自问题驱动与跨界组合，而非凭空发明。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

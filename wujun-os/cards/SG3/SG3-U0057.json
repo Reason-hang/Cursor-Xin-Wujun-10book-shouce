@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0057",
+  "book_code": "SG3",
+  "title": "答读者问08 什么样的心态称得上是“企业主人公”心态？",
+  "batch": "B-P3b-SG3-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0057-K01",
+      "speaker": "吴军本人",
+      "claim": "主人公心态：对结果负责、主动补位而非打工心态。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

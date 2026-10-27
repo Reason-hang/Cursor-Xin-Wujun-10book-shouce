@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0066",
+  "book_code": "JS",
+  "title": "第十章谈谈见识",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0066-K01",
+      "speaker": "吴军本人",
+      "claim": "第十章点题：见识决定格局，努力需配对方向与认知。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

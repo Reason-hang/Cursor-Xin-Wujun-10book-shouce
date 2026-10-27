@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0016",
+  "book_code": "JS",
+  "title": "09.给初创公司创始人的建议",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0016-K01",
+      "speaker": "吴军本人",
+      "claim": "创始人要懂销售与现金流，单靠技术背景不足以带队商业化。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

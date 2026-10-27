@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0061",
+  "book_code": "GG",
+  "title": "第036封信丨事倍功半 vs 事半功倍",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

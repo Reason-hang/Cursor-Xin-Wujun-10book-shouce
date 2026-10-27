@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0236",
+  "book_code": "GG",
+  "title": "来信补充丨为什么好的投资人从来不画K线",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

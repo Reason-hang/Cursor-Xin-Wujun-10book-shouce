@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0019",
+  "book_code": "GJ",
+  "title": "13. 懂得休息，才能更好地生活",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0019-K01",
+      "speaker": "吴军本人",
+      "claim": "休息是可持续高性能的一部分，非懒惰；会休息才能长期出力。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

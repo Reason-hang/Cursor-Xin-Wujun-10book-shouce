@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0174",
+  "book_code": "GG",
+  "title": "第100封信丨递归算法、管理授权和系统论",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

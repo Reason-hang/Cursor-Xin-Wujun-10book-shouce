@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0254",
+  "book_code": "GG",
+  "title": "第153封信丨Google面试题——如何实现拼写纠错功能和拼写提示功能",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0271",
+  "book_code": "WJ2",
+  "title": "周末问答44｜为什么经常觉得领导很平庸？",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0271-K01",
+      "speaker": "吴军本人",
+      "claim": "觉得领导平庸常因信息不对称或标准差异，亦可能是真瓶颈。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D07-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

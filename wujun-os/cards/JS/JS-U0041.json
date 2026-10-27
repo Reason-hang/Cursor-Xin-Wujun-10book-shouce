@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0041",
+  "book_code": "JS",
+  "title": "30.风险意识",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0041-K01",
+      "speaker": "吴军本人",
+      "claim": "投资前先建立风险意识：识别尾部与不可逆损失，而非只看收益。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

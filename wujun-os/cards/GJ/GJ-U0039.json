@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0039",
+  "book_code": "GJ",
+  "title": "30. 如何成为精神上的自由人",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0039-K01",
+      "speaker": "吴军本人",
+      "claim": "精神自由人靠博雅/经典修养，非仅刷题；经典反映不变的人性。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-4"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

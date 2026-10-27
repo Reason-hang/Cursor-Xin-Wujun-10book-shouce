@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3a-JS-003",
+  "units": [
+    {
+      "unit_id": "JS-U0041",
+      "title": "30.风险意识",
+      "probe": "“风险意识”这个词大家一",
+      "words": "风险意,识”这",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0042",
+      "title": "31.投资",
+      "probe": "对于“投资”这两个字，大",
+      "words": "这两个,字，大",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0043",
+      "title": "32.投资中的误区",
+      "probe": "投资大师巴菲特一直在强调",
+      "words": "投资大,师巴菲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0044",
+      "title": "33.围绕投资目的进行资产配置",
+      "probe": "在前几节中，我们介绍了投",
+      "words": "在前几,节中，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0047",
+      "title": "34.人生是一条河",
+      "probe": "由于一直坚持成功只是手段",
+      "words": "由于一,直坚持",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0048",
+      "title": "35.这个世界没有欠你什么",
+      "probe": "自从我开通了订阅专栏《硅",
+      "words": "自从我,开通了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0049",
+      "title": "36.人生最重要的投资",
+      "probe": "很多人希望通过投资获得财",
+      "words": "很多人,希望通",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0050",
+      "title": "37.先让父母成熟起来",
+      "probe": "看到这个题目大家可能感到",
+      "words": "看到这,个题目",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0051",
+      "title": "38.向死而生",
+      "probe": "我知道这个话题有点儿沉重",
+      "words": "我知道,这个话",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0053",
+      "title": "39.不做选择的幸福",
+      "probe": "我在前面的一章聊了幸福的",
+      "words": "我在前,面的一",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0054",
+      "title": "40.做人与作诗：我们需要林黛玉",
+      "probe": "中国人对林黛玉并不陌生，",
+      "words": "中国人,对林黛",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0055",
+      "title": "41.西瓜与芝麻",
+      "probe": "我在商学院讲课时，常常讲",
+      "words": "我在商,学院讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0056",
+      "title": "42.生也有涯，知也无涯",
+      "probe": "在中国的思想家中，庄子是",
+      "words": "在中国,的思想",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0057",
+      "title": "43.我们一定比18世纪的人过得好吗？",
+      "probe": "今天的大部分人花了至少1",
+      "words": "今天的,大部分",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0058",
+      "title": "第九章大学之道",
+      "probe": "论是在中国还是在美国，本",
+      "words": "无论是,在中国",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

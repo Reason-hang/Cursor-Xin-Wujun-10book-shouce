@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0377",
+  "book_code": "SG1",
+  "title": "特别来信丨千字解析人工智能阿尔法元",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

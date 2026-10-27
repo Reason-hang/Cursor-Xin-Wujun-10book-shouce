@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0035",
+  "book_code": "GJ",
+  "title": "27. 一张纸决定我们的高度",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0035-K01",
+      "speaker": "吴军本人",
+      "claim": "勿为省小钱牺牲大事漂亮；草稿与合同皆同——格局在细节取舍。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

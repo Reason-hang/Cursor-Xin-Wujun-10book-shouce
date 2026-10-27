@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0022",
+  "book_code": "SG1",
+  "title": "第019 封信丨有小聪明没有智慧的人",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

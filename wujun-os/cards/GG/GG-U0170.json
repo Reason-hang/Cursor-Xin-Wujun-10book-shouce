@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0170",
+  "book_code": "GG",
+  "title": "答读者问24丨美国名校录取到底要看什么因素？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0170-K01",
+      "speaker": "吴军本人",
+      "claim": "美校录取综合学术、特长、品格与社区贡献，非单一分数。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

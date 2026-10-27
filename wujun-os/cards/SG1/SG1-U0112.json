@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0112",
+  "book_code": "SG1",
+  "title": "第103 封信丨火山口湖之旅",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

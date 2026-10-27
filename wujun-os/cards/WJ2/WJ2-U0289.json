@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0289",
+  "book_code": "WJ2",
+  "title": "周末问答47｜一个现代人，需要掌握哪些领域的知识？",
+  "batch": "B-P3b-WJ2-005",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0289-K01",
+      "speaker": "吴军本人",
+      "claim": "现代人需通识：逻辑、经济、科技素养与沟通。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

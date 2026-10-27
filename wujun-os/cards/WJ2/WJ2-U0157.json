@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0157",
+  "book_code": "WJ2",
+  "title": "周末问答25｜本科、硕士和博士阶段，如何选择学校？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0157-K01",
+      "speaker": "吴军本人",
+      "claim": "选校看阶段目标：本科通识、硕士专业、博士导师与课题匹配。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

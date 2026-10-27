@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0090",
+  "book_code": "WJ2",
+  "title": "周末问答14｜面对他人的求助，是伸出援手还是明哲保身？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0090-K01",
+      "speaker": "吴军本人",
+      "claim": "助人看能力与边界；明哲保身不等于冷漠，避免被拖垮。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

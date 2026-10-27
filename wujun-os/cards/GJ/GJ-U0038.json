@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0038",
+  "book_code": "GJ",
+  "title": "第六章 心智的成长",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0038-K01",
+      "speaker": "吴军本人",
+      "claim": "心智成长首看家庭与朋友圈，再在边界内挑战舒适区、控失败频率。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

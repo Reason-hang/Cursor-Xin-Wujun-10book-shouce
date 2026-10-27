@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0003",
+  "book_code": "SX",
+  "title": "发刊词｜数学到底应该怎么学？",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "学数学重在通识与思维，而非刷题应试；数学帮助理解世界底层规律。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

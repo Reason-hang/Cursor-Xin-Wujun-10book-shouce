@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0064",
+  "book_code": "WJ2",
+  "title": "第052封信｜回用户信05：生命如此短暂，意义究竟何在？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0064-K01",
+      "speaker": "吴军本人",
+      "claim": "生命意义在贡献与连接，非单一世俗成就刻度。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

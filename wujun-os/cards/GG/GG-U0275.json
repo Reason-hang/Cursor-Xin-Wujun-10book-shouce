@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0275",
+  "book_code": "GG",
+  "title": "第166封信丨递归和死循环",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

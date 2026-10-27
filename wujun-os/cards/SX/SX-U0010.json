@@ -1,18 +1,24 @@
 {
   "unit_id": "SX-U0010",
   "book_code": "SX",
-  "title": "华罗庚与优化",
-  "speaker_default": "吴军本人",
+  "title": "07｜数学应用：华罗庚化繁为简的神来之笔",
+  "batch": "B-P3a-SX-001",
   "disposition_unit": "K",
   "cards": [
     {
-      "card_id": "P1-SX-U0010-K01",
+      "card_id": "P3a-SX-U0010-K01",
       "speaker": "吴军本人",
-      "claim": "华罗庚率数学家走出象牙塔走向应用，以化繁为简的优化思想服务国家建设。",
+      "claim": "华罗庚示范数学化繁为简：抽象工具可解决复杂现实问题。",
       "type": "案例",
       "disposition": "K",
-      "pillar_hints": ["D04-1", "D05-1"],
-      "capability_tags": ["思", "做"],
+      "pillar_hints": [
+        "D04-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
   ]

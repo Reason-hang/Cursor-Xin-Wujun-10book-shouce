@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0006",
+  "book_code": "JS",
+  "title": "第一章商业的本质",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0006-K01",
+      "speaker": "吴军本人",
+      "claim": "第一章总论：商业规律随技术与社会变迁而迭代，需更新认知框架。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0050",
+  "book_code": "SX",
+  "title": "45｜数学和哲学：一头一尾的两门学科",
+  "batch": "B-P3a-SX-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0050-K01",
+      "speaker": "吴军本人",
+      "claim": "数学与哲学互为首尾：哲学追问意义，数学提供可推演结构。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

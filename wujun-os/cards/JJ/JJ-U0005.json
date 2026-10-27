@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0005",
+  "book_code": "JJ",
+  "title": "我们如何知道自己所见非虚",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0005-K01",
+      "speaker": "吴军本人",
+      "claim": "眼见与内心皆可误；须借教育、讨论与他人经验验证感知，未经审视的生活不值得过。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

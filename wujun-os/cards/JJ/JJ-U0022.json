@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0022",
+  "book_code": "JJ",
+  "title": "为什么理性主义不是万能的",
+  "batch": "B-P3a-JJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0022-K01",
+      "speaker": "吴军本人",
+      "claim": "理性局限：体系无法自证完备、量子不确定、未发生之事难推演；须与经验主义互补。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0029",
+  "book_code": "JJ",
+  "title": "第四篇 超越庸常生活，成为“更高的人”",
+  "batch": "B-P3a-JJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0029-K01",
+      "speaker": "吴军本人",
+      "claim": "工业化后哲学转向人的价值；本篇以尼采回应精神虚无与个性压抑。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

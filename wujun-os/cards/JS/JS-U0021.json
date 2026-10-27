@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0021",
+  "book_code": "JS",
+  "title": "13.创业是件苦差事",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0021-K01",
+      "speaker": "吴军本人",
+      "claim": "创业是长期苦差事，需承受不确定与反复失败，非光鲜叙事。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

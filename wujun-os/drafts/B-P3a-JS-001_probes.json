@@ -1,0 +1,185 @@
+{
+  "batch_id": "B-P3a-JS-001",
+  "units": [
+    {
+      "unit_id": "JS-U0003",
+      "title": "【书籍简介与出版信息】",
+      "probe": "《见识一一商业的本质和人",
+      "words": "见识一,一商业",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0004",
+      "title": "序言“命”和“运”决定人的一生",
+      "probe": "看到这个标题，你可能会想",
+      "words": "看到这,个标题",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0006",
+      "title": "第一章商业的本质",
+      "probe": "世界上每过一段时间，就会",
+      "words": "世界上,每过一",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0007",
+      "title": "01.商业的本质是让人多花钱，而不是省钱",
+      "probe": "当网购节省了我们大量的时",
+      "words": "当网购,节省了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0008",
+      "title": "02.经营和管理的秘诀：没有选择的好处",
+      "probe": "你一定注意过这样一个现象",
+      "words": "你一定,注意过",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0009",
+      "title": "03.“第三眼美女新产品”在市场上成功的三个阶段",
+      "probe": "2016年年底，有朋友和",
+      "words": "201,6年年",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0010",
+      "title": "04.共享经济的本质",
+      "probe": "未来商业的第一个特点是共",
+      "words": "未来商,业的第",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0011",
+      "title": "05.未来经济的走向：跟踪经济",
+      "probe": "未来商业的第二个特点是跟",
+      "words": "未来商,业的第",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0012",
+      "title": "06.合作经济：合作比颠覆更重要",
+      "probe": "未来商业的第三个特点是合",
+      "words": "未来商,业的第",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0013",
+      "title": "07.众筹经济：未来时代新的生产关系",
+      "probe": "未来商业的第四个特点是众",
+      "words": "未来商,业的第",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0014",
+      "title": "第二章创业不等于从0到1",
+      "probe": "创新中的从0到1只是完成",
+      "words": "创新中,的从0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0015",
+      "title": "08.硅谷的N+1创新法",
+      "probe": "有一次我在和《硅谷百年史",
+      "words": "有一次,我在和",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0016",
+      "title": "09.给初创公司创始人的建议",
+      "probe": "一个公司的创始人，常常是",
+      "words": "一个公,司的创",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0017",
+      "title": "10.期望值最大化原理：设置好收益函数",
+      "probe": "在第二次世界大战期间，由",
+      "words": "在第二,次世界",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0018",
+      "title": "11.什么是好的产品",
+      "probe": "我常常用苏联的米格-25",
+      "words": "我常常,用苏联",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0019",
+      "title": "12.缪贤的误区：为什么从知名企业和单位出来的明星创业会失败",
+      "probe": "在谈这个话题之前，先讲讲",
+      "words": "在谈这,个话题",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0020",
+      "title": "第三章以小博大的颠覆式创新",
+      "probe": "在每一次技术革命中，现有",
+      "words": "在每一,次技术",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0021",
+      "title": "13.创业是件苦差事",
+      "probe": "我在《浪潮之巅》中讲过两",
+      "words": "浪潮之,巅》中",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

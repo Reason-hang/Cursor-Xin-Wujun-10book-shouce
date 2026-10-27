@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0023",
+  "book_code": "SX",
+  "title": "20｜几何学：为什么是数学中最古老的分支？",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0023-K01",
+      "speaker": "吴军本人",
+      "claim": "几何学源于测量与证明需求，是数学中最古老且可视化的分支。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

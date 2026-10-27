@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0225",
+  "book_code": "GG",
+  "title": "答读者问33丨如何成为一个优秀的国际化人才？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0225-K01",
+      "speaker": "吴军本人",
+      "claim": "国际化人才需跨文化沟通、专业深度与适应不确定。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D07-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

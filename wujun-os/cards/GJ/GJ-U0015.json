@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0015",
+  "book_code": "GJ",
+  "title": "10. 舍得止损，才能斩断厄运",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0015-K01",
+      "speaker": "吴军本人",
+      "claim": "沉没成本与厄运链需果断止损；小亏离场优于越陷越深。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D03-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0139",
+  "book_code": "WJ2",
+  "title": "周末问答22｜AI时代，孩子还需要学习少儿编程吗？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0139-K01",
+      "speaker": "吴军本人",
+      "claim": "少儿编程价值在思维训练；AI时代更要理解问题而非语法。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

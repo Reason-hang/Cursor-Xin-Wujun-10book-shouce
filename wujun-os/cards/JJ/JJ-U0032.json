@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0032",
+  "book_code": "JJ",
+  "title": "主人道德和奴隶道德是什么",
+  "batch": "B-P3a-JJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0032-K01",
+      "speaker": "吴军本人",
+      "claim": "主人/奴隶道德指心态非身份：主动原则 vs 被动算计；宜取主人心态。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

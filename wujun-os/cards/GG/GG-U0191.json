@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0191",
+  "book_code": "GG",
+  "title": "第111封信丨勿因人之短护己之短，勿以人之短炫己之长",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

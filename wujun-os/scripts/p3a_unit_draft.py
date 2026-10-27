@@ -35,11 +35,13 @@ def main():
     if not ids:
         print("用法: p3a_unit_draft.py TD-U0009 ...")
         sys.exit(1)
-    cat = wu.build_catalog(os.path.join(ROOT, "src_frozen"))
-    by_id = {u["unit_id"]: u for u in cat["units"]}
+    import json
+    idx = json.loads(open(os.path.join(ROOT, "data/units_index.json"), encoding="utf-8").read())
+    by_id = {u["unit_id"]: u for u in idx["units"]}
     for uid in ids:
         u = by_id[uid]
-        text = cat["per_book_units"]["TD"][u["seq"] - 1]["text"]
+        lines = open(os.path.join(ROOT, "src_frozen", u["file"]), encoding="utf-8").read().splitlines()
+        text = "\n".join(lines[u["line_start"] - 1 : u["line_end"]])
         book = os.path.join(ROOT, "src_frozen", u["file"])
         pr = pick_probe(text)
         print(uid, u["title"][:35], "probe:", pr)

@@ -1,0 +1,65 @@
+{
+  "batch_id": "B-P3a-GJ-004",
+  "units": [
+    {
+      "unit_id": "GJ-U0058",
+      "title": "46. 寻找快速变化中的永恒",
+      "probe": "在我们都认可未来世界会快",
+      "words": "在我们,都认可",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GJ-U0059",
+      "title": "47. 优质的才是稀缺的",
+      "probe": "我们都知道金钱很重要。但",
+      "words": "我们都,知道金",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GJ-U0060",
+      "title": "48. 免费时代的赢家和输家",
+      "probe": "在个人计算机出现之后，“",
+      "words": "在个人,计算机",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GJ-U0061",
+      "title": "49. 超越免费的5个法则",
+      "probe": "当今人们的学历普遍比上一",
+      "words": "当今人,们的学",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GJ-U0062",
+      "title": "50. 信息时代的定律",
+      "probe": "提到信息时代的规律，人们",
+      "words": "提到信,息时代",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GJ-U0063",
+      "title": "致谢 致读者的一封信",
+      "probe": "从2016年到2018年",
+      "words": "从20,16年",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

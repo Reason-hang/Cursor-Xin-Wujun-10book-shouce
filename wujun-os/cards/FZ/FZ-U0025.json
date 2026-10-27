@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0025",
+  "book_code": "FZ",
+  "title": "17. 经历不等于经验",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0025-K01",
+      "speaker": "吴军本人",
+      "claim": "经历人人有，经验需主动提炼；重复、失败与无用经历难以转化为有效经验。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

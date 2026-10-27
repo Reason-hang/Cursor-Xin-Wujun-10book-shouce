@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG3-U0245",
+  "book_code": "SG3",
+  "title": "第203 封信丨写给初入社会的年轻人的第一封信",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

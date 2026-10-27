@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0041",
+  "book_code": "GJ",
+  "title": "32. 成就的量级之差",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0041-K01",
+      "speaker": "吴军本人",
+      "claim": "成就≈成功率×影响力×速度；后两者常有量级差，宜聚焦高影响一事。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0235",
+  "book_code": "GG",
+  "title": "第141封信丨如何下载整个互联网上的全部网页？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0111",
+  "book_code": "SG3",
+  "title": "答读者问16 一个组织内部如何统一行动？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0111-K01",
+      "speaker": "吴军本人",
+      "claim": "组织统一行动靠清晰目标、节奏与信息透明。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

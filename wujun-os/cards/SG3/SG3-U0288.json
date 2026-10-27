@@ -1,0 +1,22 @@
+{
+  "unit_id": "SG3-U0288",
+  "book_code": "SG3",
+  "title": "第239 封信丨罗森塔尔效应1：鼓励孩子真的能让孩子表现更好吗？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-SG3-U0288-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

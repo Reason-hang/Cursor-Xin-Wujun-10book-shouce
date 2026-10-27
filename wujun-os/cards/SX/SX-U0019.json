@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0019",
+  "book_code": "SX",
+  "title": "16｜无穷小（二）：牛顿和贝克莱在争什么？",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0019-K01",
+      "speaker": "吴军本人",
+      "claim": "牛顿流数与贝克莱批评推动无穷小严格化，奠定现代分析基础。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

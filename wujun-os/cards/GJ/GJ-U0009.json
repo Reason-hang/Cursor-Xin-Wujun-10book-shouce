@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0009",
+  "book_code": "GJ",
+  "title": "05. 勿因人之短护己之短，勿以人之短炫己之长",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "专业竞争力来自深耕长项，而非以他人短处衬托自己；半瓶子醋难获长期信任。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

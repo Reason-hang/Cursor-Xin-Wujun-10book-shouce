@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0030",
+  "book_code": "WJ2",
+  "title": "周末问答04｜物流行业是否还有很大提升空间？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0030-K01",
+      "speaker": "吴军本人",
+      "claim": "物流提升空间在数字化、柔性网络与最后一公里效率。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

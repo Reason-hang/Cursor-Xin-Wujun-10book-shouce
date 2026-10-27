@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0035",
+  "book_code": "SX",
+  "title": "31｜微分（下）：搞懂“奇点”，理解“连续性”",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0035-K01",
+      "speaker": "吴军本人",
+      "claim": "奇点与连续性：函数在何处不可导揭示结构突变与边界。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

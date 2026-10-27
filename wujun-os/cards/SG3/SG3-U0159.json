@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0159",
+  "book_code": "SG3",
+  "title": "答读者问23 怎么理解“无私”和“边界”的关系？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0159-K01",
+      "speaker": "吴军本人",
+      "claim": "无私要有边界，避免被消耗或道德绑架。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

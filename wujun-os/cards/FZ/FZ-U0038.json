@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0038",
+  "book_code": "FZ",
+  "title": "28. 把钱变成知识和把知识变成钱的区别",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0038-K01",
+      "speaker": "吴军本人",
+      "claim": "科学求知、技术变现，二者目标不同；混淆则难出大师与可持续创新。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

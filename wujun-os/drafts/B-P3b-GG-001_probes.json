@@ -1,0 +1,205 @@
+{
+  "batch_id": "B-P3b-GG-001",
+  "units": [
+    {
+      "unit_id": "GG-U0007",
+      "title": "答读者问01丨什么是计算机思维",
+      "probe": "吴老师，计算机思维的真谛",
+      "words": "读者高,腾：*",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0014",
+      "title": "答读者问02丨如何用计算机思维解决问题",
+      "probe": "我碰到问题时，曾试图站在",
+      "words": "Sha,nks",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0020",
+      "title": "答读者问03丨敢于承认傻，才是自信的表现",
+      "probe": "吴军老师，成长不是应该变",
+      "words": "吴军老,师，成",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0027",
+      "title": "答读者问04丨教会徒弟，会饿死师父吗？",
+      "probe": "**读者@antkill",
+      "words": "ant,kil",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0034",
+      "title": "答读者问05丨留学生怎样更好地融入美国？",
+      "probe": "吴老师您好，希望您能谈谈",
+      "words": "忧忧问,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0041",
+      "title": "答读者问06丨怎样锻炼成为一个决策者？",
+      "probe": "吴军老师，我有去美国留学",
+      "words": "幡彻问,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0049",
+      "title": "答读者问07丨聪明人和笨人（内含第二届摄影大赛流程）",
+      "probe": "灰度的世界，重点还需要学",
+      "words": "小姜问,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0055",
+      "title": "答读者问08丨为什么发明的荣誉总是给予最后一个发明家？",
+      "probe": "本周的问答，我先回答本周",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0063",
+      "title": "答读者问09丨如何锻炼差异化思维？",
+      "probe": "**读者@Cynthia",
+      "words": "Cyn,thi",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0070",
+      "title": "答读者问10丨为什么要学会服从？",
+      "probe": "今天的内容“学会服从与合",
+      "words": "晓添才,\n今天",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0076",
+      "title": "答读者问11丨成年后如何进行通识教育？",
+      "probe": "中学时，由于自己逻辑能力",
+      "words": "Mav,eri",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0084",
+      "title": "答读者问12丨为什么要学会一项技能？",
+      "probe": "现在人很忙，没有时间休长",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0091",
+      "title": "答读者问13丨为什么有大量资金涌入风投？",
+      "probe": "低风险、高回报的投资机会",
+      "words": "dao,ked",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0098",
+      "title": "答读者问14丨如果给你1000万欧元，你会买一栋五星级酒店还是5个小旅馆？",
+      "probe": "第一个问题是我在周三晚上",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0104",
+      "title": "答读者问15丨年轻人该如何平衡“多做事”和“做减法”两者关系？",
+      "probe": "今天的第一个问题，来自本",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0113",
+      "title": "答读者问16丨如何平衡计算机的“内存空间”和“运算时间”？",
+      "probe": "谷歌给网页建索引是由电脑",
+      "words": "春回大,地\n谷",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0120",
+      "title": "答读者问17丨渐变与突变是什么关系？",
+      "probe": "本周的一道思考题是：请你",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0129",
+      "title": "答读者问18丨如何看待系统学习的重要性？",
+      "probe": "本周有一道思考题，如何看",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0136",
+      "title": "答读者问19丨Google的服务器集群和Space X的火箭集群有哪些不同？",
+      "probe": "这个问题其实是我留给大家",
+      "words": "这个问,题其实",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0143",
+      "title": "答读者问20丨计算机数据结构的出现与计算机本身的关系",
+      "probe": "吴老师，这些数据结构之所",
+      "words": "Jac,k 吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

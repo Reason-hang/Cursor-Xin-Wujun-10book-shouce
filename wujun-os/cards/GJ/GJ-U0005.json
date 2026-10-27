@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0005",
+  "book_code": "GJ",
+  "title": "01. 上帝只垂青主动的人",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0005-K01",
+      "speaker": "吴军本人",
+      "claim": "奇迹能否出现取决于主动性：主动沟通、创造条件、管理上级，而非被动等待。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

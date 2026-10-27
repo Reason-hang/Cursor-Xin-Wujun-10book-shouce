@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0223",
+  "book_code": "WJ2",
+  "title": "周末问答36｜为什么市场不做初学者的数据库？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0223-K01",
+      "speaker": "吴军本人",
+      "claim": "市场缺「初学者数据库」因商业要利润与规模，开源/教育补位。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

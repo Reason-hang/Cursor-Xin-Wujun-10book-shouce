@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0056",
+  "book_code": "GG",
+  "title": "来信补充丨Google文化的最大特色之一：TGIF",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

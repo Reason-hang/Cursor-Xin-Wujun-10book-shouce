@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0231",
+  "book_code": "WJ2",
+  "title": "第189封信｜回同学信06：给非普娃的四点建议",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0231-K01",
+      "speaker": "吴军本人",
+      "claim": "非普娃建议：扎实基础、特长深耕、视野与自律并重。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

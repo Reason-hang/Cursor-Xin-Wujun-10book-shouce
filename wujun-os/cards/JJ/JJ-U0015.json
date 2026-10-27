@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0015",
+  "book_code": "JJ",
+  "title": "我们该选择理性还是经验",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0015-K01",
+      "speaker": "吴军本人",
+      "claim": "理性主义与经验主义各有成功案例；须选定一套方法论并坚持，而非来回换队。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

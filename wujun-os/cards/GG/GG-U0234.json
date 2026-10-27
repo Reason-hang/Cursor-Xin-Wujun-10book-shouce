@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0234",
+  "book_code": "GG",
+  "title": "第140封信丨图论和计算机科学",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

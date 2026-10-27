@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0056",
+  "book_code": "SX",
+  "title": "数学结课｜只是开始：通识课系列第一门，",
+  "batch": "B-P3a-SX-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0056-K01",
+      "speaker": "吴军本人",
+      "claim": "数学通识是系列起点：建立思维地图比记住公式更重要。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

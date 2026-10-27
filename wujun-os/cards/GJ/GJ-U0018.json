@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0018",
+  "book_code": "GJ",
+  "title": "12. 不要成为积极的废人",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0018-K01",
+      "speaker": "吴军本人",
+      "claim": "忙碌若未指向可叠加进步，只是积极废人；要忙在关键杠杆上。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

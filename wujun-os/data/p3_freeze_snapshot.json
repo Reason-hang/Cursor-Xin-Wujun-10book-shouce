@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-27",
+  "ticket": "T-P4-01",
+  "cards_json_count": 1647,
+  "anchors_p3a": 315,
+  "anchors_p3b": 170,
+  "sha256_p3a_ledger": "4e84fb1c5bd23e058f8f6dbc73f9011c7353555552bbcd0d43cce6027ab71560",
+  "sha256_p3b_ledger": "8b50d34acecd4816e38ec1cbbd91e0e5c16a1556d784353da1db071d0c407e66",
+  "sha256_triage": "bacb4e563aa1c7ef511b8acc402f047abcc924b336e28b1d62069db2064018e0",
+  "state_units_done": 498,
+  "state_step": "B-P3b-SG3-004 已收口；P3b B 层 170/170 锚点完结"
+}

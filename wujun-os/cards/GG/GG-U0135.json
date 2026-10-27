@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0135",
+  "book_code": "GG",
+  "title": "来信补充丨计算机领域大人物：艾伦·图灵牛在哪？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0028",
+  "book_code": "FZ",
+  "title": "20. 不要轻视常识",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0028-K01",
+      "speaker": "吴军本人",
+      "claim": "常识是世界的粗糙轮廓，违反常识的经验多可疑；但须区分细节争论与宏观判定。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

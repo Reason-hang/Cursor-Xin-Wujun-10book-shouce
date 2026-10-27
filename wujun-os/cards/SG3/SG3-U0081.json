@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0081",
+  "book_code": "SG3",
+  "title": "答读者问11 怎么开发孩子的智力和天赋？",
+  "batch": "B-P3b-SG3-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0081-K01",
+      "speaker": "吴军本人",
+      "claim": "开发孩子智力靠兴趣、反馈与适度挑战，非填鸭。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

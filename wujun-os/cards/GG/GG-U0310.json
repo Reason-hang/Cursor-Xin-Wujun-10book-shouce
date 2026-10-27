@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0310",
+  "book_code": "GG",
+  "title": "答读者问47丨团队中有人要离职，工作受影响怎么办？",
+  "batch": "B-P3b-GG-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0310-K01",
+      "speaker": "吴军本人",
+      "claim": "成员离职用文档交接、冗余备份与过渡期，降低单点依赖。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

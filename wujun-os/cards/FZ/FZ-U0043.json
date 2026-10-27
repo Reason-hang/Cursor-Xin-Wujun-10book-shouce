@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0043",
+  "book_code": "FZ",
+  "title": "33. 人生算法能够改变吗",
+  "batch": "B-P3a-FZ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0043-K01",
+      "speaker": "吴军本人",
+      "claim": "人生算法框架多在幼岁形成，仍可通过大量练习用新习惯覆盖旧潜意识模式。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

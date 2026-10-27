@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0023",
+  "book_code": "JS",
+  "title": "15.把公司大小之争变成新旧时代之争",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0023-K01",
+      "speaker": "吴军本人",
+      "claim": "竞争框架应从规模之争转为新旧技术时代更替之争。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

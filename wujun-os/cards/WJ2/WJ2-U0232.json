@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0232",
+  "book_code": "WJ2",
+  "title": "第190封信｜回同学信07：学术的道路不好走",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0232-K01",
+      "speaker": "吴军本人",
+      "claim": "学术路漫长且窄，需真兴趣与耐受不确定性。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

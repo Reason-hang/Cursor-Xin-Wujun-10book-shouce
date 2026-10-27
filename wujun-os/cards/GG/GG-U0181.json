@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0181",
+  "book_code": "GG",
+  "title": "来信补充丨从马斯克的“天价”薪酬，为你提供分析财经新闻的思路",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

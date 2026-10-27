@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0037",
+  "book_code": "GJ",
+  "title": "29. 拥有智慧，更要拥有勇气",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0037-K01",
+      "speaker": "吴军本人",
+      "claim": "智慧须配行动勇气；班超「不入虎穴」式担当胜于空谈。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

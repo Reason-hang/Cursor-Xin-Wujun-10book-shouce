@@ -1,0 +1,22 @@
+{
+  "unit_id": "GG-U0270",
+  "book_code": "GG",
+  "title": "第163封信丨“大苹果”里的袖珍名校——哥伦比亚大学（下）",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-GG-U0270-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X5：来信默认→C",
+      "type": "判断",
+      "disposition": "X5",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

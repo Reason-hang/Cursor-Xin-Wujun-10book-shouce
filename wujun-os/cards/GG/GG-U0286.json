@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0286",
+  "book_code": "GG",
+  "title": "答读者问43丨上了年纪的工程师有哪些出路？",
+  "batch": "B-P3b-GG-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0286-K01",
+      "speaker": "吴军本人",
+      "claim": "资深工程师出路：架构、管理、创业或领域专家，非只能写代码。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

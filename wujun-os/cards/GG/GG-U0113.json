@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0113",
+  "book_code": "GG",
+  "title": "答读者问16丨如何平衡计算机的“内存空间”和“运算时间”？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0113-K01",
+      "speaker": "吴军本人",
+      "claim": "算法设计常在存储与计算时间之间权衡，无免费午餐。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

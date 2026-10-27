@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0102",
+  "book_code": "WJ2",
+  "title": "周末问答16｜总是被骗，如何避免再次上当？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0102-K01",
+      "speaker": "吴军本人",
+      "claim": "防骗靠怀疑基率、核实渠道与不贪反常回报。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

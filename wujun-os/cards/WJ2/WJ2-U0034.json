@@ -1,0 +1,22 @@
+{
+  "unit_id": "WJ2-U0034",
+  "book_code": "WJ2",
+  "title": "第026封信｜中国在世界历史中的地位如何？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-WJ2-U0034-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X4：来信默认→C",
+      "type": "判断",
+      "disposition": "X4",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

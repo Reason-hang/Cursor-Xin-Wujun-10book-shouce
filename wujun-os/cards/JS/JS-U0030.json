@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0030",
+  "book_code": "JS",
+  "title": "21.OKR：谷歌的目标管理法",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0030-K01",
+      "speaker": "吴军本人",
+      "claim": "OKR 对齐目标与关键结果，使组织聚焦可验证进展。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

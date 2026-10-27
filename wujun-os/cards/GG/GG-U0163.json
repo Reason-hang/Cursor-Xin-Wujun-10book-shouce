@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0163",
+  "book_code": "GG",
+  "title": "答读者问23丨温饱不愁和激烈竞争的生活，你会怎么选？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0163-K01",
+      "speaker": "吴军本人",
+      "claim": "温饱与竞争是权衡；高竞争环境往往伴随更多成长与机会成本。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D03-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

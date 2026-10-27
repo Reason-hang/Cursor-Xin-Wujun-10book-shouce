@@ -1,0 +1,105 @@
+{
+  "batch_id": "B-P3a-SX-004",
+  "units": [
+    {
+      "unit_id": "SX-U0050",
+      "title": "45｜数学和哲学：一头一尾的两门学科",
+      "probe": "在最后一个模块里，我们讲",
+      "words": "在最后,一个模",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0051",
+      "title": "46｜数学与自然科学：数学如何改造科学？",
+      "probe": "你好，欢迎来的我的《数学",
+      "words": "欢迎来,的我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0052",
+      "title": "47｜数学和逻辑学：为什么逻辑是一切的基础？",
+      "probe": "我们在课程中多次讲到，数",
+      "words": "我们在,课程中",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0053",
+      "title": "48｜数学和其它学科：为什么数学是更底层的工具？",
+      "probe": "数学和自然科学、哲学的关",
+      "words": "数学和,自然科",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0054",
+      "title": "49｜伽罗瓦和古典数学难题：难题给我们的启发",
+      "probe": "我们接下来两讲说说那些数",
+      "words": "我们接,下来两",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0055",
+      "title": "50｜当今的七大千禧数学难题",
+      "probe": "这一讲我们帮助大家了解今",
+      "words": "这一讲,我们帮",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0056",
+      "title": "数学结课｜只是开始：通识课系列第一门，",
+      "probe": "到这讲为止，我们已经讲完",
+      "words": "到这讲,为止，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0057",
+      "title": "课外阅读｜著名数学家希尔伯特退休前的讲演",
+      "probe": "讲《当今数学七大难题》中",
+      "words": "我们在,第50",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0058",
+      "title": "新书推荐｜谷歌前CEO 施密特的管理精髓",
+      "probe": "我非常有幸能够为施密特博",
+      "words": "我非常,有幸能",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0062",
+      "title": "元旦彩蛋| 2019《第十二夜》——莎士比亚所描写的单恋",
+      "probe": "又到了新年，首先祝你新年",
+      "words": "又到了,新年，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

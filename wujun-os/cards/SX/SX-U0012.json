@@ -1,0 +1,25 @@
+{
+  "unit_id": "SX-U0012",
+  "book_code": "SX",
+  "title": "09｜数列和级数（二）：传销骗局的数学原理",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "传销骗局依赖指数型人数增长不可持续，可用级数模型识破。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

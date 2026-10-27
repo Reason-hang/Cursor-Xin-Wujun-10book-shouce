@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0012",
+  "book_code": "GG",
+  "title": "第007封信丨苹果成功的奥秘：从科学和技术的区别说起",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

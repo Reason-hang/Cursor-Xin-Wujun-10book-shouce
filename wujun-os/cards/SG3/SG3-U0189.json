@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0189",
+  "book_code": "SG3",
+  "title": "答读者问28 大学专业不喜欢，怎么提升竞争力？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0189-K01",
+      "speaker": "吴军本人",
+      "claim": "专业不喜欢可叠技能与项目经验转轨。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

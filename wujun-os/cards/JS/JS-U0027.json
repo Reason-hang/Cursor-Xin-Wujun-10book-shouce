@@ -2,17 +2,22 @@
   "unit_id": "JS-U0027",
   "book_code": "JS",
   "title": "18.伪工作者究竞“伪”在哪里",
-  "speaker_default": "吴军本人",
+  "batch": "B-P3a-JS-002",
   "disposition_unit": "K",
   "cards": [
     {
-      "card_id": "P1-JS-U0027-K01",
+      "card_id": "P3a-JS-U0027-K01",
       "speaker": "吴军本人",
-      "claim": "伪工作者忙而不产出效果；IT 公司里伪工作堆积会让组织在竞争中处于下风。",
-      "type": "判断",
+      "claim": "伪工作：忙碌却不产出可衡量价值，常源于目标不清与流程空转。",
+      "type": "原理",
       "disposition": "K",
-      "pillar_hints": ["D06-2"],
-      "capability_tags": ["做"],
+      "pillar_hints": [
+        "D02-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
       "stable": "稳定"
     }
   ]

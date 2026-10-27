@@ -1,0 +1,175 @@
+{
+  "batch_id": "B-P3a-SX-001",
+  "units": [
+    {
+      "unit_id": "SX-U0003",
+      "title": "发刊词｜数学到底应该怎么学？",
+      "probe": "年代，国内流行过一句口号",
+      "words": "在上个,世纪8",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0004",
+      "title": "01｜导论：数学通识课的体系和学习攻略",
+      "probe": "这一讲算是数学通识课的学",
+      "words": "这一讲,算是数",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0005",
+      "title": "02｜勾股定理：为什么在西方叫毕达哥拉斯定理？",
+      "probe": "我们的第一个模块，会为大",
+      "words": "我们的,第一个",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0006",
+      "title": "03｜数学的预见性：如何用推理走出认知盲区？",
+      "probe": "上一讲，我们通过毕达哥拉",
+      "words": "上一讲,，我们",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0007",
+      "title": "04｜数学思维：数学家如何从逻辑出发想问题？",
+      "probe": "这一讲就来举一个发生在我",
+      "words": "这一讲,就来举",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0008",
+      "title": "05｜数学边界：从毕达哥拉斯定理到费马大定理",
+      "probe": "我们前面讲了数学的预见性",
+      "words": "我们前,面讲了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0009",
+      "title": "06｜黄金分割：毕达哥拉斯如何连接数学和美学？",
+      "probe": "今天大家对毕达哥拉斯的了",
+      "words": "今天大,家对毕",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0010",
+      "title": "07｜数学应用：华罗庚化繁为简的神来之笔",
+      "probe": "我们前面讲过，由于数学是",
+      "words": "我们前,面讲过",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0011",
+      "title": "08｜数列和级数（一）：当下很重要，但趋势更重要",
+      "probe": "讲》。这一讲的主题是：数",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0012",
+      "title": "09｜数列和级数（二）：传销骗局的数学原理",
+      "probe": "今天，我们来讲讲数列的求",
+      "words": "我们来,讲讲数",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0013",
+      "title": "10｜数列和级数（三）：藏在利息和月供里的秘密",
+      "probe": "今天我们讲述两方面的内容",
+      "words": "今天我,们讲述",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0014",
+      "title": "11｜鸡兔同笼：方程这个数学工具为什么很强大？",
+      "probe": "讲》。从这讲开始，我们进",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0015",
+      "title": "12｜三次方程：数学史上著名的发明权之争",
+      "probe": "我们上一讲说了方程是一个",
+      "words": "我们上,一讲说",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0016",
+      "title": "13｜虚数：虚构这个工具有什么用？",
+      "probe": "我们上一讲讲了一元三次方",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0017",
+      "title": "14｜无穷：我们为什么难以理解无限的世界？",
+      "probe": "我们在前几讲的课程中讲了",
+      "words": "我们在,前几讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0018",
+      "title": "15｜无穷小（一）：如何说服“杠精”芝诺？",
+      "probe": "上一讲我们讲了无穷大，主",
+      "words": "上一讲,我们讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0019",
+      "title": "16｜无穷小（二）：牛顿和贝克莱在争什么？",
+      "probe": "我们上一讲知道了芝诺提出",
+      "words": "我们上,一讲知",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

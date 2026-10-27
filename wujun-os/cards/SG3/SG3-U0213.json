@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0213",
+  "book_code": "SG3",
+  "title": "答读者问32 认识的人多，朋友却很少，怎么改变这种状况？",
+  "batch": "B-P3b-SG3-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0213-K01",
+      "speaker": "吴军本人",
+      "claim": "熟人多朋友少因缺深度互动与共同价值。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

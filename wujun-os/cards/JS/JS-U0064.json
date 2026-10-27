@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0064",
+  "book_code": "JS",
+  "title": "49.西点军校精英法则",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0064-K01",
+      "speaker": "吴军本人",
+      "claim": "西点军校强调品格、团队与执行力，是精英教育案例。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

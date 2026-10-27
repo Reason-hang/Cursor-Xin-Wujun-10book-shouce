@@ -1,0 +1,145 @@
+{
+  "batch_id": "B-P3b-WJ2-002",
+  "units": [
+    {
+      "unit_id": "WJ2-U0071",
+      "title": "周末问答11｜为什么学了很多知识，却用不上？",
+      "probe": "答的第一个问题，来自“麦",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0077",
+      "title": "周末问答12｜个人应该如何有效提升财商？",
+      "probe": "，这里是问答时间。今天我",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0083",
+      "title": "周末问答13｜追求目标时，怎样平衡不同的利益和需求？",
+      "probe": "题，来自“咚咚锵”同学。",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0090",
+      "title": "周末问答14｜面对他人的求助，是伸出援手还是明哲保身？",
+      "probe": "答的第一个问题，来自“奇",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0096",
+      "title": "周末问答15｜非理性对我们有什么价值？",
+      "probe": "答的第一类问题，来自“咚",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0102",
+      "title": "周末问答16｜总是被骗，如何避免再次上当？",
+      "probe": "答的第一个问题，来自“酱",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0109",
+      "title": "周末问答17｜现代农业发展到哪一步了？",
+      "probe": "答的第一个问题，来自“朴",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0115",
+      "title": "周末问答18｜怎样平衡个人兴趣和谋生的需求？",
+      "probe": "答的第一个问题，来自“钱",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0121",
+      "title": "周末问答19｜赚钱是不是得先挣到第一桶金？",
+      "probe": "答的第一类问题，来自“高",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0127",
+      "title": "周末问答20｜当下和未来之间存在矛盾吗？",
+      "probe": "的第一个问题，来自“FR",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0133",
+      "title": "周末问答21｜全球化浪潮下，各地区的文化会趋向统一吗？",
+      "probe": "答的第一个问题，来自“耿",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0139",
+      "title": "周末问答22｜AI时代，孩子还需要学习少儿编程吗？",
+      "probe": "，这里是问答时间。今天我",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0145",
+      "title": "周末问答23｜怎样定义成功？",
+      "probe": "答的第一个问题，来自“伯",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0151",
+      "title": "周末问答24｜养狗让我有了哪些观察和体悟？",
+      "probe": "，这里是问答时间。今天的",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

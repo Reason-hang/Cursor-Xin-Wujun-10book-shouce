@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0040",
+  "book_code": "JS",
+  "title": "29.金钱观",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0040-K01",
+      "speaker": "吴军本人",
+      "claim": "金钱观：钱是工具与自由手段，需与人生目标匹配而非终点。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-1",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

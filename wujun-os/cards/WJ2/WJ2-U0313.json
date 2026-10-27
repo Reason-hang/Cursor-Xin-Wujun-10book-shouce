@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0313",
+  "book_code": "WJ2",
+  "title": "周末问答51｜一个人的认知层次，可以无限优化吗？",
+  "batch": "B-P3b-WJ2-005",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0313-K01",
+      "speaker": "吴军本人",
+      "claim": "认知可迭代优化，但有生理与时间边界，要聚焦。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

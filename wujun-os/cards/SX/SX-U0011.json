@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0011",
+  "book_code": "SX",
+  "title": "08｜数列和级数（一）：当下很重要，但趋势更重要",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0011-K01",
+      "speaker": "吴军本人",
+      "claim": "数列与级数：看趋势比看当下单点更重要（增长与收敛直觉）。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

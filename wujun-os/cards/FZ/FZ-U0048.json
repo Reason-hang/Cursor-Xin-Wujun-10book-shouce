@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0048",
+  "book_code": "FZ",
+  "title": "36. 精英永远是少数人",
+  "batch": "B-P3a-FZ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0048-K01",
+      "speaker": "吴军本人",
+      "claim": "社会应让多数人靠教育过好一生；通识像多根矮柱，技能像高柱先搭实用楼。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

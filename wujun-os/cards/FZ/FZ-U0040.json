@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0040",
+  "book_code": "FZ",
+  "title": "30. 大众需求与小众需求",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0040-K01",
+      "speaker": "吴军本人",
+      "claim": "勿把身边小众偏好当大众市场；亦须承认小众市场的合理溢价与存在。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

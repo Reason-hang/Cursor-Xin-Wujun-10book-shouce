@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0082",
+  "book_code": "JS",
+  "title": "64.司马迁的智慧：东方最早的经济学综合论文",
+  "batch": "B-P3a-JS-005",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0082-K01",
+      "speaker": "吴军本人",
+      "claim": "司马迁货殖列传：早的经济观察，强调规律与周期。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

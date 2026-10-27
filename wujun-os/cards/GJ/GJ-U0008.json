@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0008",
+  "book_code": "GJ",
+  "title": "04. 不要因为小恶而忘记大善",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0008-K01",
+      "speaker": "吴军本人",
+      "claim": "评价人与事要看净收益：勿因小瑕疵否定整体大善，亦勿纵容大恶。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

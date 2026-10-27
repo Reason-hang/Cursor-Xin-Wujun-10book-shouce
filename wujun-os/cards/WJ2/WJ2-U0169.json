@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0169",
+  "book_code": "WJ2",
+  "title": "周末问答27｜出国留学，美国和英国各有什么优势？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0169-K01",
+      "speaker": "吴军本人",
+      "claim": "美研宽深、英研专精快；按职业路径选体系。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

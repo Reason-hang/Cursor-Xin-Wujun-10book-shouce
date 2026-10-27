@@ -1,0 +1,22 @@
+{
+  "unit_id": "SG3-U0172",
+  "book_code": "SG3",
+  "title": "第142 封信丨有效的战术：拿破仑为什么能赢得奥斯特利茨战役？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-SG3-U0172-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X4：来信默认→C",
+      "type": "判断",
+      "disposition": "X4",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

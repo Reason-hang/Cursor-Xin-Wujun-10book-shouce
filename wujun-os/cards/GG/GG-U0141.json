@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0141",
+  "book_code": "GG",
+  "title": "第080封信丨Google面试题：如何设计一个地图功能，找到离当前最近的加油站？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

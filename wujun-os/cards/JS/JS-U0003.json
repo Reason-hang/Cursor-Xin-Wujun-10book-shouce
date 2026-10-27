@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0003",
+  "book_code": "JS",
+  "title": "【书籍简介与出版信息】",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "本书聚焦商业本质、创业创新与个人见识，非纯技术教程。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

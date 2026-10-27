@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0070",
+  "book_code": "JS",
+  "title": "54.比贫穷更可怕的是什么",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0070-K01",
+      "speaker": "吴军本人",
+      "claim": "比贫穷更可怕的是见识闭塞与习得性无助。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

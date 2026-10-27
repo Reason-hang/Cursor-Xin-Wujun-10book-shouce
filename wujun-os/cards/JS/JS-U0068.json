@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0068",
+  "book_code": "JS",
+  "title": "52.起跑线和玻璃心",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0068-K01",
+      "speaker": "吴军本人",
+      "claim": "起跑线重要，但玻璃心比出身更限制长期发展。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

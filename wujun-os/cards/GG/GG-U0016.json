@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0016",
+  "book_code": "GG",
+  "title": "第009封信丨上帝喜欢笨人（上）",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

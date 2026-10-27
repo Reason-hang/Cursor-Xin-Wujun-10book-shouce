@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0129",
+  "book_code": "SG3",
+  "title": "答读者问19 什么才是最可靠的投资？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0129-K01",
+      "speaker": "吴军本人",
+      "claim": "最可靠投资是自我能力与健康的复利。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

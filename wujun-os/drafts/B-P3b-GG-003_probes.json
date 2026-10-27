@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3b-GG-003",
+  "units": [
+    {
+      "unit_id": "GG-U0274",
+      "title": "答读者问41丨硅谷失去创业基地的吸引力了吗？",
+      "probe": "**读者@博览群书：**",
+      "words": "博览群,书：*",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0280",
+      "title": "答读者问42丨为什么那些衰退论站不住脚？",
+      "probe": "看到硅谷衰退论，想到了中",
+      "words": "邓文达,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0286",
+      "title": "答读者问43丨上了年纪的工程师有哪些出路？",
+      "probe": "吴军老师你好，作为一个决",
+      "words": "吴军老,师你好",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0292",
+      "title": "答读者问44丨如何在互联网时代保护自己的隐私？",
+      "probe": "佛倒推式的思路是一致的，",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0298",
+      "title": "答读者问45丨如何破解僵化式思维？",
+      "probe": "吴老师好！在荷兰与西班牙",
+      "words": "读者,@文",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0304",
+      "title": "答读者问46丨如何培养自己的原创能力？",
+      "probe": "吴老师好，您在来信中提到",
+      "words": "吴老师,好，您",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0310",
+      "title": "答读者问47丨团队中有人要离职，工作受影响怎么办？",
+      "probe": "吴军老师好，有个职场困惑",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0316",
+      "title": "答读者问48丨做事马虎是怎么回事？",
+      "probe": "吴军老师好，最近请同事评",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0324",
+      "title": "答读者问49丨成功者的经验是幸存者偏误吗？",
+      "probe": "吴军老师您好！目前很多英",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0330",
+      "title": "答读者问50丨阿姆达尔法则与“把事做到极致”是否矛盾？",
+      "probe": "HansonShum、文",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0335",
+      "title": "答读者问51丨为什么印象笔记一直发展不起来？",
+      "probe": "吴老师好，我的问题是关于",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0343",
+      "title": "答读者问52丨如何在“J曲线”的影响下做决策？",
+      "probe": "吴军老师，在文学或影视创",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0350",
+      "title": "答读者问53丨让烦恼越来越少的秘诀",
+      "probe": "吴军老师，少年维特的烦恼",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0357",
+      "title": "答读者问54丨关于三个公式取舍引发的思考",
+      "probe": "有很多读者对于我用一张名",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0364",
+      "title": "答读者问55丨婚姻关系需要“丑话说在前面”吗？",
+      "probe": "请问吴老师，“丑话说在前",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

@@ -1,18 +1,22 @@
 {
   "unit_id": "JJ-U0025",
   "book_code": "JJ",
-  "title": "经验主义",
-  "speaker_default": "吴军本人",
+  "title": "经验主义思维究竟是什么",
+  "batch": "B-P3a-JJ-002",
   "disposition_unit": "K",
   "cards": [
     {
-      "card_id": "P1-JJ-U0025-K01",
+      "card_id": "P3a-JJ-U0025-K01",
       "speaker": "吴军本人",
-      "claim": "经验主义主张知识来源于感觉经验，并须经经验验证；与理性主义形成对照。",
+      "claim": "经验主义强调可观察、可记录、可重复；从希波克拉底到盖伦奠定观察—归纳传统。",
       "type": "原理",
       "disposition": "K",
-      "pillar_hints": ["D01-1"],
-      "capability_tags": ["思"],
+      "pillar_hints": [
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
       "stable": "稳定"
     }
   ]

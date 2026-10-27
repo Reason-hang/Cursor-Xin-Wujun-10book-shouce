@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0077",
+  "book_code": "JS",
+  "title": "60.如何做好演讲",
+  "batch": "B-P3a-JS-005",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0077-K01",
+      "speaker": "吴军本人",
+      "claim": "好演讲：结构清晰、真诚、服务听众目标。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

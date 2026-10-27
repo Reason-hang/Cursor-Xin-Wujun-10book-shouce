@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0056",
+  "book_code": "JS",
+  "title": "42.生也有涯，知也无涯",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0056-K01",
+      "speaker": "吴军本人",
+      "claim": "生有涯知无涯：承认认知边界，聚焦可学可用之知。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

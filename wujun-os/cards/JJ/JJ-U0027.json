@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0027",
+  "book_code": "JJ",
+  "title": "经验主义对社会有何影响",
+  "batch": "B-P3a-JJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0027-K01",
+      "speaker": "吴军本人",
+      "claim": "苏格兰启蒙偏渐进改良与全民参与；法国启蒙偏理性设计，社会代价更大。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

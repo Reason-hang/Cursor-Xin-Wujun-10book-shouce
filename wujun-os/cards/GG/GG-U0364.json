@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0364",
+  "book_code": "GG",
+  "title": "答读者问55丨婚姻关系需要“丑话说在前面”吗？",
+  "batch": "B-P3b-GG-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0364-K01",
+      "speaker": "吴军本人",
+      "claim": "亲密关系需提前谈清期望与底线，减少事后博弈。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

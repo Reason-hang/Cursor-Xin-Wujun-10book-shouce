@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0042",
+  "book_code": "SX",
+  "title": "38｜高斯分布：大概率事件意味着什么？",
+  "batch": "B-P3a-SX-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0042-K01",
+      "speaker": "吴军本人",
+      "claim": "高斯分布描述大量独立因素叠加后的常态波动（中心极限直觉）。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

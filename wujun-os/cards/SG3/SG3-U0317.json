@@ -1,0 +1,26 @@
+{
+  "unit_id": "SG3-U0317",
+  "book_code": "SG3",
+  "title": "答读者问52 想让孩子上更好的学校，又想每天陪伴他，我要怎么选择呢？",
+  "batch": "B-P3b-SG3-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0317-K01",
+      "speaker": "吴军本人",
+      "claim": "择校与陪伴是权衡，早期陪伴不可替代。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

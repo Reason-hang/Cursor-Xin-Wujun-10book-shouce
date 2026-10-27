@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0016",
+  "book_code": "SX",
+  "title": "13｜虚数：虚构这个工具有什么用？",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0016-K01",
+      "speaker": "吴军本人",
+      "claim": "虚数是扩展数系的合法工具，使原本无解的方程可解。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

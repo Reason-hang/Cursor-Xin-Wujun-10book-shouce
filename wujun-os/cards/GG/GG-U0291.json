@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0291",
+  "book_code": "GG",
+  "title": "来信补充丨英伦之旅——巴斯、索尔兹伯里和巨石阵",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

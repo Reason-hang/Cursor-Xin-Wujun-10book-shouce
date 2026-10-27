@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0267",
+  "book_code": "WJ2",
+  "title": "第219封信｜回同学信10：为什么要生孩子？",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0267-K01",
+      "speaker": "吴军本人",
+      "claim": "生育是价值选择：传承、陪伴与责任，无统一最优解。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

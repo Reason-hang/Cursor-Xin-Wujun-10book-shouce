@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0053",
+  "book_code": "GJ",
+  "title": "42. 缺乏危机感的恶果",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0053-K01",
+      "speaker": "吴军本人",
+      "claim": "缺乏危机感会使领先者麻木衰落；安逸比失败更危险。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

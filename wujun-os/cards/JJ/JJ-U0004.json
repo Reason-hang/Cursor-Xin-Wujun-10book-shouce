@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0004",
+  "book_code": "JJ",
+  "title": "第一篇 了解自己和世界",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0004-K01",
+      "speaker": "吴军本人",
+      "claim": "见识取决于对世界了解与判断；盯知识还是盯钱、心里装他人还是只有自己，决定成长方向。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

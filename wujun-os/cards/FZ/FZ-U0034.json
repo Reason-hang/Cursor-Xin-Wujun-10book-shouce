@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0034",
+  "book_code": "FZ",
+  "title": "25. 太初有为：行动才是答案",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0034-K01",
+      "speaker": "吴军本人",
+      "claim": "许多问题无标准答案，先行动、求共识；创业回报本质是对执行力的回报。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

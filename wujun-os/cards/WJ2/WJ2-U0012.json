@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0012",
+  "book_code": "WJ2",
+  "title": "周末问答01｜如何在追求新技术与坚持原有特长之间抉择？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "新技术与特长：在核心能力上叠加新工具，而非频繁换赛道归零。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

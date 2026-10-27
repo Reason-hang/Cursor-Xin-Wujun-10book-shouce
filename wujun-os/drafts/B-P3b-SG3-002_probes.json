@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3b-SG3-002",
+  "units": [
+    {
+      "unit_id": "SG3-U0111",
+      "title": "答读者问16 一个组织内部如何统一行动？",
+      "probe": "问答时间。这次问答回答两",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0117",
+      "title": "答读者问17 被人问隐私问题，该怎么回应？",
+      "probe": "间。这次回答三个问题，后",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0123",
+      "title": "答读者问18 做的计划总是完不成，怎么办？",
+      "probe": "栏的周末问答时间。这次先",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0129",
+      "title": "答读者问19 什么才是最可靠的投资？",
+      "probe": "栏的周末问答时间。这次一",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0135",
+      "title": "答读者问20 赌博为什么会流行？",
+      "probe": "间。这次回答两个问题，第",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0141",
+      "title": "答读者问21 怎么判断一个人是霸凌者或只是自私？",
+      "probe": "这次的问答回答三个问题，",
+      "words": "这次的,问答回",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0153",
+      "title": "答读者问22 如何成为一个知识丰富的人？",
+      "probe": "周末问答时间。这次问答会",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0159",
+      "title": "答读者问23 怎么理解“无私”和“边界”的关系？",
+      "probe": "这次问答回答三个问题，第",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0165",
+      "title": "答读者问24 从宋朝到元朝发生了文明的倒退吗？",
+      "probe": "周末问答时间。这一次的问",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0171",
+      "title": "答读者问25 维护孩子心智健全发展，要做到哪几点？",
+      "probe": "答回答四个问题，主要和孩",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0177",
+      "title": "答读者问26 网络时代，如何培养人与人的温情？",
+      "probe": "答回答三个问题，分别和人",
+      "words": "这次问,答回答",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0183",
+      "title": "答读者问27 老板给员工画饼，怎么判断？",
+      "probe": "听了今天老师的分享，扪心",
+      "words": "听了今,天老师",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0189",
+      "title": "答读者问28 大学专业不喜欢，怎么提升竞争力？",
+      "probe": "时间。这次问答我们回答四",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0195",
+      "title": "答读者问29 脑机接口技术能够让人变聪明吗？",
+      "probe": "。这次问答回答三个问题。",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0201",
+      "title": "答读者问30 为什么股票型基金规模太大收益率会降低？",
+      "probe": "的周末问答时间。这次问题",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

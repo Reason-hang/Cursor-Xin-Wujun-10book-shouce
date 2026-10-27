@@ -1,0 +1,23 @@
+{
+  "unit_id": "JJ-U0009",
+  "book_code": "JJ",
+  "title": "我们有灵魂吗",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "苏格拉底强调灵魂求知、约束恶行；物质欲望过强会妨碍纯粹思考与长期成就。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "batch_id": "B-P3a-SX-002",
+  "units": [
+    {
+      "unit_id": "SX-U0020",
+      "title": "17｜无穷小（三）：用动态和极限的眼光看世界",
+      "probe": "我们上一讲讲到贝克莱对牛",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0021",
+      "title": "18｜有什么比无穷大更大，比无穷小更小？",
+      "probe": "我们讲无穷大是比任何数都",
+      "words": "我们讲,无穷大",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0022",
+      "title": "19｜复盘：数学给了我什么启示？",
+      "probe": "到上一讲为止，我们讲完了",
+      "words": "到上一,讲为止",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0023",
+      "title": "20｜几何学：为什么是数学中最古老的分支？",
+      "probe": "讲》。从这一讲开始，我们",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0024",
+      "title": "21｜公理体系：几何的系统理论从何而来？",
+      "probe": "讲》。我们继续几何学的学",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0025",
+      "title": "22｜非欧几何：相对论的数学基础是什么？",
+      "probe": "我们上一讲讲到，整个几何",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0026",
+      "title": "23｜解析几何：用代数的方法解决更难的几何题",
+      "probe": "讲》。这一讲我们学习解析",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0027",
+      "title": "24｜为什么几何能为法律提供理论基础？",
+      "probe": "通过公理化系统建立起一个",
+      "words": "通过公,理化系",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0028",
+      "title": "问答｜数学的“极限”和生活的“极限”是一回事吗？",
+      "probe": "这一讲我来回答大家的几个",
+      "words": "这一讲,我来回",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0029",
+      "title": "25｜函数（上）：从静态到动态，从个别到趋势",
+      "probe": "从这一讲起我们进入有关代",
+      "words": "从这一,讲起我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0030",
+      "title": "26｜函数（下）：如何通过公式理解因果关系？",
+      "probe": "我们上一讲在讲函数时说，",
+      "words": "我们上,一讲在",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0031",
+      "title": "27｜向量代数（上）：“方向比努力更重要”",
+      "probe": "代数学除了给我们带来了方",
+      "words": "代数学,除了给",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0032",
+      "title": "28｜向量代数（下）：如何通过向量夹角理解不同“维度”？",
+      "probe": "上一讲我们讲到，要形成合",
+      "words": "上一讲,我们讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0033",
+      "title": "29｜线性代数：“矩阵”到底怎么用？",
+      "probe": "如果你问一个大学老师，什",
+      "words": "如果你,问一个",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0034",
+      "title": "30｜微分（上）：如何从宏观变化了解微观趋势？",
+      "probe": "我们在前面讲到，线性代数",
+      "words": "我们在,前面讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0035",
+      "title": "31｜微分（下）：搞懂“奇点”，理解“连续性”",
+      "probe": "我们上一讲讲了导数是反映",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

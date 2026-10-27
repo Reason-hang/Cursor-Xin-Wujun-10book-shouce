@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0004",
+  "book_code": "JS",
+  "title": "序言“命”和“运”决定人的一生",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0004-K01",
+      "speaker": "吴军本人",
+      "claim": "命是出身与环境，运是时代趋势与个人选择，二者共同塑造人生轨迹。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

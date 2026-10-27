@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0060",
+  "book_code": "GG",
+  "title": "第035封信丨计算机从专用到通用背后的逻辑",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

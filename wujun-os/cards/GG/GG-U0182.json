@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0182",
+  "book_code": "GG",
+  "title": "答读者问26丨我们对无人驾驶是否像对火星登陆一样有过高期望？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0182-K01",
+      "speaker": "吴军本人",
+      "claim": "对无人驾驶期望应比照技术成熟度曲线，避免像火星登陆式过度炒作。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

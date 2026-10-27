@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0024",
+  "book_code": "WJ2",
+  "title": "周末问答03｜跨境电商的未来还值得看好吗？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0024-K01",
+      "speaker": "吴军本人",
+      "claim": "跨境电商仍有机会，但竞争升维到供应链与品牌化。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

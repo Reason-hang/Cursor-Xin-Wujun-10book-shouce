@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0109",
+  "book_code": "WJ2",
+  "title": "周末问答17｜现代农业发展到哪一步了？",
+  "batch": "B-P3b-WJ2-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0109-K01",
+      "speaker": "吴军本人",
+      "claim": "现代农业是科技与规模经济驱动，仍受资源与环境约束。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

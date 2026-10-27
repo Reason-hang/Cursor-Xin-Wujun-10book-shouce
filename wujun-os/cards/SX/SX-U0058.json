@@ -1,0 +1,25 @@
+{
+  "unit_id": "SX-U0058",
+  "book_code": "SX",
+  "title": "新书推荐｜谷歌前CEO 施密特的管理精髓",
+  "batch": "B-P3a-SX-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0058-K01",
+      "speaker": "吴军本人",
+      "claim": "推荐《施密特传》：科技领袖的管理与决策可作商业阅读补充。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

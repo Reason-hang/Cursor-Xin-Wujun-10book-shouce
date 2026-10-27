@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0052",
+  "book_code": "GJ",
+  "title": "41. 人如何变成文明人",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0052-K01",
+      "speaker": "吴军本人",
+      "claim": "贸易与契约让人由野蛮走向文明；海洋商业塑造规则与信任。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

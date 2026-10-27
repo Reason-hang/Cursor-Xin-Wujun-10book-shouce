@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0278",
+  "book_code": "GG",
+  "title": "第169封信丨人工智能出了错，会怎样？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

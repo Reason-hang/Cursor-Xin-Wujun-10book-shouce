@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0007",
+  "book_code": "JS",
+  "title": "01.商业的本质是让人多花钱，而不是省钱",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0007-K01",
+      "speaker": "吴军本人",
+      "claim": "商业本质是创造消费与价值交换，让用户愿多花钱而非仅省钱。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

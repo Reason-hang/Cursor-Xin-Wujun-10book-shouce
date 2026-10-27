@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0022",
+  "book_code": "JS",
+  "title": "14.蚂蚁如何战胜大象",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0022-K01",
+      "speaker": "吴军本人",
+      "claim": "小公司凭灵活与聚焦可在不对称竞争中击败巨头（蚂蚁与大象）。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

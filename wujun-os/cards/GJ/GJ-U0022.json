@@ -1,0 +1,23 @@
+{
+  "unit_id": "GJ-U0022",
+  "book_code": "GJ",
+  "title": "第四章 职场的心法",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0022-K01",
+      "speaker": "吴军本人",
+      "claim": "职场心法篇导引：沟通与价值展示是职业发展的核心杠杆。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

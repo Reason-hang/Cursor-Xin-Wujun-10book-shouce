@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0051",
+  "book_code": "FZ",
+  "title": "39. 现实世界的复杂性",
+  "batch": "B-P3a-FZ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0051-K01",
+      "speaker": "吴军本人",
+      "claim": "复杂系统整体不等于部分之和；建学校医院牵涉土地、人才、交通等连锁问题。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

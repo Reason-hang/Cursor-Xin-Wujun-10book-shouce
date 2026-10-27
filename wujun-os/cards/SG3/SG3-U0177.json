@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0177",
+  "book_code": "SG3",
+  "title": "答读者问26 网络时代，如何培养人与人的温情？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0177-K01",
+      "speaker": "吴军本人",
+      "claim": "网络时代温情靠线下投入与慢关系维护。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0141",
+  "book_code": "SG3",
+  "title": "答读者问21 怎么判断一个人是霸凌者或只是自私？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0141-K01",
+      "speaker": "吴军本人",
+      "claim": "霸凌与自私看权力不对等与重复伤害意图。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

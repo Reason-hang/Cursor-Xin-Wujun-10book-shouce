@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0012",
+  "book_code": "JS",
+  "title": "06.合作经济：合作比颠覆更重要",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "合作经济：与生态伙伴协作往往比零和颠覆更可持续。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

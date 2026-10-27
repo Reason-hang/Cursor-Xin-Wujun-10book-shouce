@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0028",
+  "book_code": "GJ",
+  "title": "21. 腐食者的作用",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0028-K01",
+      "speaker": "吴军本人",
+      "claim": "社会/股市腐食者专攻击致命弱点；其存在倒逼透明与自律。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D09-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

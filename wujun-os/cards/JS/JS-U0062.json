@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0062",
+  "book_code": "JS",
+  "title": "47.技能教育和精英教育",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0062-K01",
+      "speaker": "吴军本人",
+      "claim": "技能教育与精英教育路径不同，需认清自身目标。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

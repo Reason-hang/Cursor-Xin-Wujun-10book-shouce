@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0268",
+  "book_code": "GG",
+  "title": "答读者问40丨兼并收购时，有哪些科学方法来确定两者是否互补或融合？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0268-K01",
+      "speaker": "吴军本人",
+      "claim": "并购互补性看战略协同、文化与管理半径，非仅靠财务模型。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

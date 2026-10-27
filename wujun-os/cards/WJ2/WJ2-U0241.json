@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0241",
+  "book_code": "WJ2",
+  "title": "周末问答39｜为什么说通勤太久是贫困的重要原因？",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0241-K01",
+      "speaker": "吴军本人",
+      "claim": "长通勤吞噬时间与健康，实质降低可支配收入。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

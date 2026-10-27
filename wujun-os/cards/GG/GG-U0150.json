@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0150",
+  "book_code": "GG",
+  "title": "答读者问21丨辩论赛总结：腾讯的Q币算不算货币？",
+  "batch": "B-P3b-GG-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0150-K01",
+      "speaker": "吴军本人",
+      "claim": "Q币等虚拟货币需看发行、流通与法币属性；辩论重在界定「货币」标准。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

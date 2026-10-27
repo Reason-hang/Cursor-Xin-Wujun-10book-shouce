@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0018",
+  "book_code": "GG",
+  "title": "第011封信丨笨人威灵顿VS天才拿破仑",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

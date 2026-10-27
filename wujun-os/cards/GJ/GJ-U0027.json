@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0027",
+  "book_code": "GJ",
+  "title": "20. 有效沟通的原则和战术",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0027-K01",
+      "speaker": "吴军本人",
+      "claim": "面对面口头交流说服力最强；好消息当面说，主观事少留文字把柄。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

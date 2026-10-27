@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0037",
+  "book_code": "JJ",
+  "title": "哲学“终结”了吗",
+  "batch": "B-P3a-JJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0037-K01",
+      "speaker": "吴军本人",
+      "claim": "混淆语言图像与语言游戏制造伪哲学问题；太初有为，行动先于本质空谈。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

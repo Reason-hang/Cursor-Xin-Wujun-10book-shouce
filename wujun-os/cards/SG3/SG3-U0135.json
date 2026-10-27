@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0135",
+  "book_code": "SG3",
+  "title": "答读者问20 赌博为什么会流行？",
+  "batch": "B-P3b-SG3-002",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0135-K01",
+      "speaker": "吴军本人",
+      "claim": "赌博流行因即时反馈与错觉控制，需制度与个人自律。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

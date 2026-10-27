@@ -1,0 +1,22 @@
+{
+  "unit_id": "WJ2-U0032",
+  "book_code": "WJ2",
+  "title": "第024封信｜ 为什么有些历史经验教训，未必适用于每个人的生活？",
+  "batch": "P3c-triage",
+  "disposition_unit": "X",
+  "layer": "C",
+  "cards": [
+    {
+      "card_id": "P3c-WJ2-U0032-X01",
+      "speaker": "—",
+      "claim": "分诊排除 X4：来信默认→C",
+      "type": "判断",
+      "disposition": "X4",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate=Y"
+}

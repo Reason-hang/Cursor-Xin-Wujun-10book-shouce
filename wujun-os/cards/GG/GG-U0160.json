@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0160",
+  "book_code": "GG",
+  "title": "第091封信丨优点、缺点和特点",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

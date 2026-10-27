@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0065",
+  "book_code": "WJ2",
+  "title": "周末问答10｜蓝领工作真的不如白领吗？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0065-K01",
+      "speaker": "吴军本人",
+      "claim": "蓝领白领是分工标签，收入与尊严取决于稀缺技能与社会需求。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

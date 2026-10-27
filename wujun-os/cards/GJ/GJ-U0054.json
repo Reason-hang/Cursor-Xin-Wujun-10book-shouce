@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0054",
+  "book_code": "GJ",
+  "title": "43. 从《红楼梦》看中国商业文明",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0054-K01",
+      "speaker": "吴军本人",
+      "claim": "《红楼梦》贾府可作中国组织与商业关系缩影，读懂利于在华打交道。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0059",
+  "book_code": "GJ",
+  "title": "47. 优质的才是稀缺的",
+  "batch": "B-P3a-GJ-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0059-K01",
+      "speaker": "吴军本人",
+      "claim": "优质内容与核心用户稀缺；廉价关注不值钱，应提升 ARPU 而非追逐网红流量。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

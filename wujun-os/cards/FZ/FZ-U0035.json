@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0035",
+  "book_code": "FZ",
+  "title": "26. 问题的解决，不只靠脑子",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0035-K01",
+      "speaker": "吴军本人",
+      "claim": "经济与社会问题变量极多，难靠简化模型；大量难题须动手后才可逐步解决。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

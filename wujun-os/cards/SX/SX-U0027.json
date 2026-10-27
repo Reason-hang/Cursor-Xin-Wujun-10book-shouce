@@ -1,0 +1,25 @@
+{
+  "unit_id": "SX-U0027",
+  "book_code": "SX",
+  "title": "24｜为什么几何能为法律提供理论基础？",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0027-K01",
+      "speaker": "吴军本人",
+      "claim": "公理化推理的严密性可迁移到法律等需要可推演规则的领域。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

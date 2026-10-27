@@ -1,0 +1,25 @@
+{
+  "unit_id": "GJ-U0029",
+  "book_code": "GJ",
+  "title": "22. 如何避免被腐食者盯上",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0029-K01",
+      "speaker": "吴军本人",
+      "claim": "勿留财务与诚信硬伤；单位内防小团体腐食与信息绑架。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

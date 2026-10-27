@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0234",
+  "book_code": "WJ2",
+  "title": "第192封信｜回同学信09：读书怡情挺好的",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0234-K01",
+      "speaker": "吴军本人",
+      "claim": "读书怡情是合法价值，不必一切皆功利化。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

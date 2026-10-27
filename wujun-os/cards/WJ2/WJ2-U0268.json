@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0268",
+  "book_code": "WJ2",
+  "title": "第220封信｜回同学信11：谈谈中国企业的出海问题",
+  "batch": "B-P3b-WJ2-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0268-K01",
+      "speaker": "吴军本人",
+      "claim": "中国企业出海要本地化、合规与供应链韧性。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

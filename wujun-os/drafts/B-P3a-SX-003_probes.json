@@ -1,0 +1,145 @@
+{
+  "batch_id": "B-P3a-SX-003",
+  "units": [
+    {
+      "unit_id": "SX-U0036",
+      "title": "32｜积分：如何从微观趋势了解宏观变化？",
+      "probe": "前两节课，我们讲了微分，",
+      "words": "前两节,课，我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0037",
+      "title": "33｜用变化的眼光看最大值和最小值",
+      "probe": "讲》，这一讲我们学习如何",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0038",
+      "title": "34｜微积分到底是谁发明的？",
+      "probe": "这是我们微积分模块的最后",
+      "words": "这是我,们微积",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0039",
+      "title": "35｜概率简史：一门来自赌徒的学问",
+      "probe": "讲》，我们进入新模块概率",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0040",
+      "title": "36｜伯努利试验：到底如何理解随机性？",
+      "probe": "我们上一讲讲到随机性是有",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0041",
+      "title": "37｜泊松分布：为什么保险公司的客户群都很大？",
+      "probe": "我们上一讲解释了随机事件",
+      "words": "我们上,一讲解",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0042",
+      "title": "38｜高斯分布：大概率事件意味着什么？",
+      "probe": "我们前面讲到，泊松分布描",
+      "words": "我们前,面讲到",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0043",
+      "title": "39｜条件概率和贝叶斯公式：机器翻译是怎么工作的？",
+      "probe": "到目前为止，我们讲的和概",
+      "words": "到目前,为止，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0044",
+      "title": "40｜概率公理化：一个必须补上的理论漏洞",
+      "probe": "到目前为止，我们讲了概率",
+      "words": "到目前,为止，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0045",
+      "title": "41｜统计学和大数据：为什么大多数企业用不好数据？",
+      "probe": "我们上一讲讲到了估算概率",
+      "words": "我们上,一讲讲",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0046",
+      "title": "42｜古德-图灵折扣估计：黑天鹅事件能防范吗？",
+      "probe": "讲》，这讲我们讨论黑天鹅",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0047",
+      "title": "43｜零和博弈（鞍点理论）：如何找到双方的平衡点？",
+      "probe": "讲》。接下来两讲，我们通",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0048",
+      "title": "44｜非零和博弈（纳什均衡）：真的存在共赢吗？",
+      "probe": "讲》。我们上一讲讲了零和",
+      "words": "欢迎来,到我的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SX-U0049",
+      "title": "问答｜到底应该如何有效筛选数据？",
+      "probe": "这一讲回答概率、统计和博",
+      "words": "这一讲,回答概",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

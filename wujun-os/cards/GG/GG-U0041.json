@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0041",
+  "book_code": "GG",
+  "title": "答读者问06丨怎样锻炼成为一个决策者？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0041-K01",
+      "speaker": "吴军本人",
+      "claim": "决策者靠信息收集、假设检验与承担后果的训练，而非一次天赋。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0026",
+  "book_code": "FZ",
+  "title": "18. 失败不是成功之母",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0026-K01",
+      "speaker": "吴军本人",
+      "claim": "条件概率上成功更易延续成功；失败后须找全因、重做至会，而非迷信失败本身。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0005",
+  "book_code": "SX",
+  "title": "02｜勾股定理：为什么在西方叫毕达哥拉斯定理？",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0005-K01",
+      "speaker": "吴军本人",
+      "claim": "勾股定理是几何与代数的桥梁；中西方命名差异体现文化传播。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

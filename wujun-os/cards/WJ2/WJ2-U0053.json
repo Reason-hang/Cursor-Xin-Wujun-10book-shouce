@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0053",
+  "book_code": "WJ2",
+  "title": "周末问答08｜决策如何抓住关键，避免次要因素误导？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0053-K01",
+      "speaker": "吴军本人",
+      "claim": "决策抓主要矛盾，用清单剔除次要因素干扰。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

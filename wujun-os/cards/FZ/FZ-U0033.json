@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0033",
+  "book_code": "FZ",
+  "title": "24. 脑先于手，理性思考",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0033-K01",
+      "speaker": "吴军本人",
+      "claim": "脑先于手者先建模再验证；两种路径适合不同人与问题，勿机械套用。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

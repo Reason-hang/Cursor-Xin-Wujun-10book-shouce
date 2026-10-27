@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0011",
+  "book_code": "JS",
+  "title": "05.未来经济的走向：跟踪经济",
+  "batch": "B-P3a-JS-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0011-K01",
+      "speaker": "吴军本人",
+      "claim": "跟踪经济：全程数据化追踪使供应链与消费行为可优化。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0261",
+  "book_code": "SG3",
+  "title": "答读者问40 教育孩子需要符合“家长的天性”吗？",
+  "batch": "B-P3b-SG3-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0261-K01",
+      "speaker": "吴军本人",
+      "claim": "教育可顺应家长天性但要以孩子发展为准。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "JS-U0044",
+  "book_code": "JS",
+  "title": "33.围绕投资目的进行资产配置",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0044-K01",
+      "speaker": "吴军本人",
+      "claim": "资产配置应围绕人生目标与现金流，而非跟风资产类别。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

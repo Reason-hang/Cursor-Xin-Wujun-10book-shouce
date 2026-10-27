@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0055",
+  "book_code": "GG",
+  "title": "答读者问08丨为什么发明的荣誉总是给予最后一个发明家？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0055-K01",
+      "speaker": "吴军本人",
+      "claim": "发明荣誉常归「最后一步」因大众只见成品；应理解创新链条。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

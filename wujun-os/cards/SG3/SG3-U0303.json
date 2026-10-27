@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0303",
+  "book_code": "SG3",
+  "title": "答读者问47 孩子要不要在很小的时候，就接受学前教育？",
+  "batch": "B-P3b-SG3-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-SG3-U0303-K01",
+      "speaker": "吴军本人",
+      "claim": "学前教育重质量与亲子互动，非越早越好。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

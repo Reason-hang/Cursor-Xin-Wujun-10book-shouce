@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0010",
+  "book_code": "GJ",
+  "title": "第二章 命运的力量",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0010-K01",
+      "speaker": "吴军本人",
+      "claim": "认命是唯物主义态度：承认不可控因素，在能力边界内最大化收益。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

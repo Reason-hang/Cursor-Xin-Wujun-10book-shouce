@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0335",
+  "book_code": "GG",
+  "title": "答读者问51丨为什么印象笔记一直发展不起来？",
+  "batch": "B-P3b-GG-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0335-K01",
+      "speaker": "吴军本人",
+      "claim": "产品未起势多因定位、网络效应与执行节奏，非单点功能。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

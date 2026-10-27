@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0072",
+  "book_code": "JS",
+  "title": "56.阅读的意义",
+  "batch": "B-P3a-JS-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0072-K01",
+      "speaker": "吴军本人",
+      "claim": "阅读扩展见识边界，是与伟大头脑对话的低成本方式。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

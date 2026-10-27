@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0025",
+  "book_code": "JS",
+  "title": "17.没有什么下半场",
+  "batch": "B-P3a-JS-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0025-K01",
+      "speaker": "吴军本人",
+      "claim": "「下半场」叙事易致懈怠；创新与市场变化并无固定赛程。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

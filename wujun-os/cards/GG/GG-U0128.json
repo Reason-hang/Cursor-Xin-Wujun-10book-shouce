@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0128",
+  "book_code": "GG",
+  "title": "来信补充丨比贫穷更可怕的是什么？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

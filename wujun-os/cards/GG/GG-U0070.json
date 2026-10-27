@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0070",
+  "book_code": "GG",
+  "title": "答读者问10丨为什么要学会服从？",
+  "batch": "B-P3b-GG-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0070-K01",
+      "speaker": "吴军本人",
+      "claim": "服从与协作是组织效率前提，非盲从；理解目标后再执行。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

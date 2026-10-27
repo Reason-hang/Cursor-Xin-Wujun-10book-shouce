@@ -1,0 +1,75 @@
+{
+  "batch_id": "B-P3a-JS-005",
+  "units": [
+    {
+      "unit_id": "JS-U0076",
+      "title": "59.我们靠什么说服人",
+      "probe": "我们靠什么说服人？很多人",
+      "words": "我们靠,什么说",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0077",
+      "title": "60.如何做好演讲",
+      "probe": "在第一节中我谈了表达的重",
+      "words": "在第一,节中我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0078",
+      "title": "第十二章贤者智慧",
+      "probe": "少时读卢梭的书、培根的随",
+      "words": "少时读,卢梭的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0079",
+      "title": "61.莎士比亚的智慧：论朋友",
+      "probe": "在风险投资领域有一条金科",
+      "words": "在风险,投资领",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0080",
+      "title": "62.拉里.佩奇的经营管理智慧",
+      "probe": "谷歌的成功在很大程度上要",
+      "words": "谷歌的,成功在",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0081",
+      "title": "63.巴菲特午餐：人生的智慧",
+      "probe": "中国的一些投资人，通过竞",
+      "words": "中国的,一些投",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "JS-U0082",
+      "title": "64.司马迁的智慧：东方最早的经济学综合论文",
+      "probe": "2016年，史学界出了一",
+      "words": "201,6年，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

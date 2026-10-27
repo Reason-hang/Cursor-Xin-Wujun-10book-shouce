@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0247",
+  "book_code": "GG",
+  "title": "第148封信丨矩阵式管理",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

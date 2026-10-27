@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0063",
+  "book_code": "GJ",
+  "title": "致谢 致读者的一封信",
+  "batch": "B-P3a-GJ-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0063-K01",
+      "speaker": "吴军本人",
+      "claim": "致读者：向上之路艰辛孤独；愿以本书分享智者经验，助读者认知升级与行动有方向。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

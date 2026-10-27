@@ -1,0 +1,24 @@
+{
+  "unit_id": "JJ-U0013",
+  "book_code": "JJ",
+  "title": "人如何依据本性过理性的生活",
+  "batch": "B-P3a-JJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JJ-U0013-K01",
+      "speaker": "吴军本人",
+      "claim": "奥勒留：依理性与本性生活，仁爱待人、看淡名利，专注当下并以出世心做入世事。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

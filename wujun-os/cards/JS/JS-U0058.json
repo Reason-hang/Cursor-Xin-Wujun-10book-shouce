@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0058",
+  "book_code": "JS",
+  "title": "第九章大学之道",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0058-K01",
+      "speaker": "吴军本人",
+      "claim": "第九章转入大学与教育：见识与高等教育是全书后段主轴。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

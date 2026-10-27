@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0062",
+  "book_code": "SG1",
+  "title": "周末加议丨杭州线下见面交流会问答",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0022",
+  "book_code": "SX",
+  "title": "19｜复盘：数学给了我什么启示？",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0022-K01",
+      "speaker": "吴军本人",
+      "claim": "数学通识价值：训练逻辑与模型思维，帮助在不确定中做更好决策。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

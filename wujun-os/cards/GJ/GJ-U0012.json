@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0012",
+  "book_code": "GJ",
+  "title": "07. 问心无愧是稳得的报酬",
+  "batch": "B-P3a-GJ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "肯尼迪式立场：全力做事后问心无愧，是比结果更稳得的内在报酬。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-4"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

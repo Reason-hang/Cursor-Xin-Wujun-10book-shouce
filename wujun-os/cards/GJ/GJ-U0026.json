@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0026",
+  "book_code": "GJ",
+  "title": "19. 沟通的带宽",
+  "batch": "B-P3a-GJ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0026-K01",
+      "speaker": "吴军本人",
+      "claim": "沟通受信道容量（带宽）约束；须匹配对方节奏，或降速、或增互信息。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

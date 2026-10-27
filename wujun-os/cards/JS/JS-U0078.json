@@ -1,0 +1,23 @@
+{
+  "unit_id": "JS-U0078",
+  "book_code": "JS",
+  "title": "第十二章贤者智慧",
+  "batch": "B-P3a-JS-005",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0078-K01",
+      "speaker": "吴军本人",
+      "claim": "第十二章收束贤者智慧：向历史与经典人物借见识。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

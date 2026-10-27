@@ -1,0 +1,24 @@
+{
+  "unit_id": "JS-U0049",
+  "book_code": "JS",
+  "title": "36.人生最重要的投资",
+  "batch": "B-P3a-JS-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-JS-U0049-K01",
+      "speaker": "吴军本人",
+      "claim": "人生最重要投资是自我教育与家庭关系，财富是副产品。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

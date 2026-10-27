@@ -1,0 +1,11 @@
+{
+  "unit_id": "SG1-U0323",
+  "book_code": "SG1",
+  "title": "第311 封信丨欧洲名城布达佩斯",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

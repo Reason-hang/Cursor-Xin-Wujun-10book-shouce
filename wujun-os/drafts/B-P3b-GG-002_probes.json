@@ -1,0 +1,205 @@
+{
+  "batch_id": "B-P3b-GG-002",
+  "units": [
+    {
+      "unit_id": "GG-U0150",
+      "title": "答读者问21丨辩论赛总结：腾讯的Q币算不算货币？",
+      "probe": "今天我们总结一下这几天大",
+      "words": "今天我,们总结",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0157",
+      "title": "答读者问22丨工匠们的记录习惯",
+      "probe": "西班牙人是走什么路线完成",
+      "words": "西班牙,人是走",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0163",
+      "title": "答读者问23丨温饱不愁和激烈竞争的生活，你会怎么选？",
+      "probe": "这个问题显然没有标准答案",
+      "words": "这个问,题显然",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0170",
+      "title": "答读者问24丨美国名校录取到底要看什么因素？",
+      "probe": "为什么牛津、剑桥愿意招这",
+      "words": "开小七,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0176",
+      "title": "答读者问25丨用“递归”做事有哪些缺点？",
+      "probe": "**读者@Mr.Chen",
+      "words": "Che,n：*",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0182",
+      "title": "答读者问26丨我们对无人驾驶是否像对火星登陆一样有过高期望？",
+      "probe": "**读者@AE86：**",
+      "words": "AE8,6：*",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0188",
+      "title": "答读者问27丨为什么新发明出来的药物很贵？",
+      "probe": "为什么有些药物能够通过第",
+      "words": "为什么,有些药",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0194",
+      "title": "答读者问28丨如何看待\"众争勿往\"与“竞争”的不同？",
+      "probe": "**读者@俊杰_Hugo",
+      "words": "Hug,o：*",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0200",
+      "title": "答读者问29丨怎样证明人类进入了文明社会？",
+      "probe": "吴军老师，您多次强调要有",
+      "words": "吴军老,师，您",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0206",
+      "title": "答读者问30丨如何培养提出问题的能力？",
+      "probe": "**读者@hxj111：",
+      "words": "hxj,111",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0212",
+      "title": "答读者问31丨翻译智能时代，苦练英语还有什么用？",
+      "probe": "吴军老师，我想问您一个问",
+      "words": "吴军老,师，我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0218",
+      "title": "答读者问32丨国际制裁的收益和代价是什么？",
+      "probe": "由于工作关系，经常接触到",
+      "words": "孙宏斌,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0225",
+      "title": "答读者问33丨如何成为一个优秀的国际化人才？",
+      "probe": "我是一名大三的理工男，想",
+      "words": "我是一,名大三",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0231",
+      "title": "答读者问34丨怎么样才算是一个会沟通的人",
+      "probe": "想请教吴军老师怎么样才算",
+      "words": "想请教,吴军老",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0237",
+      "title": "答读者问35丨寻找规律的过程，有方法可循吗？",
+      "probe": "吴军老师，如果K线不能用",
+      "words": "吴军老,师，如",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0244",
+      "title": "答读者问36丨个人收入水平被什么因素影响？",
+      "probe": "我是一个高中生，现在在苏",
+      "words": "刘宝全,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0250",
+      "title": "答读者问37丨为什么在中国矩阵式管理难以实施",
+      "probe": "我发现很多读者对矩阵式管",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0256",
+      "title": "答读者问38丨如何平衡产品的体验与快速迭代的需求",
+      "probe": "**读者@DeamoV：",
+      "words": "Dea,moV",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0262",
+      "title": "答读者问39丨对于年轻人，是包容还是苛刻？",
+      "probe": "老师对于沙弗利的评价是不",
+      "words": "葡萄柚,：**",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0268",
+      "title": "答读者问40丨兼并收购时，有哪些科学方法来确定两者是否互补或融合？",
+      "probe": "Facebook与腾讯比",
+      "words": "Fac,ebo",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

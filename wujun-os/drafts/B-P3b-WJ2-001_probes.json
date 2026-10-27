@@ -1,0 +1,145 @@
+{
+  "batch_id": "B-P3b-WJ2-001",
+  "units": [
+    {
+      "unit_id": "WJ2-U0012",
+      "title": "周末问答01｜如何在追求新技术与坚持原有特长之间抉择？",
+      "probe": "回答的第一个问题，来自一",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0018",
+      "title": "周末问答02｜选大学，应该选名校还是选城市？",
+      "probe": "答的第一个问题，来自“m",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0024",
+      "title": "周末问答03｜跨境电商的未来还值得看好吗？",
+      "probe": "的第一个问题，来自“lx",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0030",
+      "title": "周末问答04｜物流行业是否还有很大提升空间？",
+      "probe": "答的第一个问题，来自“朱",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0041",
+      "title": "周末问答06｜面对可能的裁员，怎样提前做好准备？",
+      "probe": "答的第一个问题，来自“黄",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0047",
+      "title": "周末问答07｜你是选择为自己活，还是为别人活？",
+      "probe": "答的第一类问题，来自“薛",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0053",
+      "title": "周末问答08｜决策如何抓住关键，避免次要因素误导？",
+      "probe": "答的第一个问题，来自“流",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0059",
+      "title": "周末问答09｜出门旅行怎么做规划？",
+      "probe": "答的第一类问题，来自“苹",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0060",
+      "title": "第048封信｜回用户信01：为什么职业发展会面临“35岁危机”？",
+      "probe": "军来信》第二季。这一周是",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0061",
+      "title": "第049封信｜回用户信02：生物制造or医药：如何在行业发展中找到适合的职业方向？",
+      "probe": "季。今天，我要回复的是杨",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0062",
+      "title": "第050封信｜回用户信03：为什么智能时代来了，大厂反而在裁员？",
+      "probe": "》第二季。今天，我要回应",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0063",
+      "title": "第051封信｜回用户信04：构思创业想法时，有哪些“坑”需要避免？",
+      "probe": "季。今天，我要回复的是湍",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0064",
+      "title": "第052封信｜回用户信05：生命如此短暂，意义究竟何在？",
+      "probe": "》第二季。今天这封信是我",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0065",
+      "title": "周末问答10｜蓝领工作真的不如白领吗？",
+      "probe": "答的第一个问题，来自“水",
+      "words": "今天要,回答的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

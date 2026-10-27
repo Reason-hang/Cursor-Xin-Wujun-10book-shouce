@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0049",
+  "book_code": "GJ",
+  "title": "39. 以正合，以奇胜",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0049-K01",
+      "speaker": "吴军本人",
+      "claim": "「以正合，以奇胜」：以扎实基本功正面竞争，再以差异化奇招取胜。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D03-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

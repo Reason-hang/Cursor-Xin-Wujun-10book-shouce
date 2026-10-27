@@ -1,0 +1,23 @@
+{
+  "unit_id": "SX-U0034",
+  "book_code": "SX",
+  "title": "30｜微分（上）：如何从宏观变化了解微观趋势？",
+  "batch": "B-P3a-SX-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0034-K01",
+      "speaker": "吴军本人",
+      "claim": "导数描述微观变化率：从宏观平均变化逼近瞬时趋势。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

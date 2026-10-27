@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0063",
+  "book_code": "WJ2",
+  "title": "第051封信｜回用户信04：构思创业想法时，有哪些“坑”需要避免？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0063-K01",
+      "speaker": "吴军本人",
+      "claim": "创业避坑：伪需求、合伙人错配、现金流与法律结构。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

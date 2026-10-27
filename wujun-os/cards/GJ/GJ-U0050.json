@@ -1,0 +1,24 @@
+{
+  "unit_id": "GJ-U0050",
+  "book_code": "GJ",
+  "title": "第八章 文明的对撞",
+  "batch": "B-P3a-GJ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GJ-U0050-K01",
+      "speaker": "吴军本人",
+      "claim": "生在文明交汇、机会密集的时代是最大幸运之一；要理解文明对撞背景。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0032",
+  "book_code": "FZ",
+  "title": "23. 手先于脑，有效学习",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0032-K01",
+      "speaker": "吴军本人",
+      "claim": "多数人宜先动手实践再抽象；与脑先于手因人而异、因文化而异。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0050",
+  "book_code": "FZ",
+  "title": "38. 辨别信息真假的有效手段",
+  "batch": "B-P3a-FZ-003",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0050-K01",
+      "speaker": "吴军本人",
+      "claim": "社会应供给针对性真相；个人靠理性，对惯传谣/轻信者少采信，涉利时更易乱。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

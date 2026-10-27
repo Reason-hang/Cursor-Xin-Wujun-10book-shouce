@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0039",
+  "book_code": "FZ",
+  "title": "29. 什么是真正的从0到1",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0039-K01",
+      "speaker": "吴军本人",
+      "claim": "从0到1须走完科学—技术—工程—商业全链；半成品无价值，须做到1。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

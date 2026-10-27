@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0011",
+  "book_code": "GG",
+  "title": "第006封信丨在边界里面做事情",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

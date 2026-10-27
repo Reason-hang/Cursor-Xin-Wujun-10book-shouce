@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0060",
+  "book_code": "WJ2",
+  "title": "第048封信｜回用户信01：为什么职业发展会面临“35岁危机”？",
+  "batch": "B-P3b-WJ2-001",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0060-K01",
+      "speaker": "吴军本人",
+      "claim": "35岁危机源于技能折旧与组织成本结构，需持续升级不可替代性。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

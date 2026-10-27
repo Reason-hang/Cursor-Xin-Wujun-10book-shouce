@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0048",
+  "book_code": "GG",
+  "title": "来信补充丨智能时代，美国哪些行业在快速萎缩？",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}

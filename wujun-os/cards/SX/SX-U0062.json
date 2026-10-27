@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0062",
+  "book_code": "SX",
+  "title": "元旦彩蛋| 2019《第十二夜》——莎士比亚所描写的单恋",
+  "batch": "B-P3a-SX-004",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0062-K01",
+      "speaker": "吴军本人",
+      "claim": "《第十二夜》单恋叙事：情感误读与身份错位的人生隐喻。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

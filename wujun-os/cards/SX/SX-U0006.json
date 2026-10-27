@@ -1,0 +1,24 @@
+{
+  "unit_id": "SX-U0006",
+  "book_code": "SX",
+  "title": "03｜数学的预见性：如何用推理走出认知盲区？",
+  "batch": "B-P3a-SX-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SX-U0006-K01",
+      "speaker": "吴军本人",
+      "claim": "数学预见性：严密推理可走出经验盲区，先于观测预见事实。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

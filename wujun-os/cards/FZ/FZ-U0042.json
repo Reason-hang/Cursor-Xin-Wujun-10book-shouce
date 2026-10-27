@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0042",
+  "book_code": "FZ",
+  "title": "32. 做大事和做小事的心态",
+  "batch": "B-P3a-FZ-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0042-K01",
+      "speaker": "吴军本人",
+      "claim": "做大事要选带宽足够的路径与供应链，而非仅盯最短最便宜。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

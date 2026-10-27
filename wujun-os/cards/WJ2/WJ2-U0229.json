@@ -1,0 +1,26 @@
+{
+  "unit_id": "WJ2-U0229",
+  "book_code": "WJ2",
+  "title": "周末问答37｜投资品和消费品，有什么区别？",
+  "batch": "B-P3b-WJ2-003",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-WJ2-U0229-K01",
+      "speaker": "吴军本人",
+      "claim": "投资品为未来现金流定价；消费品满足当下效用。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D09-2",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

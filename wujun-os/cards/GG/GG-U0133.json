@@ -1,0 +1,11 @@
+{
+  "unit_id": "GG-U0133",
+  "book_code": "GG",
+  "title": "第075封信丨计算机领域大人物：机器翻译专家——弗朗兹·奥科",
+  "batch": "P3c-triage",
+  "disposition_unit": "M",
+  "layer": "C",
+  "cards": [],
+  "triage_rule": "来信默认→C",
+  "note": "C层壳；x_candidate="
+}
