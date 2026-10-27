@@ -1,9 +1,9 @@
 {
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.2",
- "updated": "2026-10-27",
-  "phase": "P4 聚类与归属（T-P4-01 已冻结 P3 产物）",
-  "step": "T-P4-03 近似卡对候选 ledger/P4_近似卡对候选.csv（319 对）",
+ "updated": "2026-10-28",
+  "phase": "P6 人审阻塞 → P7 预检未 READY；SG1 P3b 三批已完成",
+  "step": "AC-6.9/6.10/6.3 → ledger/P6_阶段验收_用户动作清单.md",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-27）",
@@ -30,16 +30,22 @@
   "ticket": null,
   "unit_ids": [],
   "unsaved": [],
-  "note": "K 卡 498；C 壳 1154；无 JSON 单元 50（多为 A 层未抽 K，见冻结快照）"
+  "note": "SG1 高信号 39 K 已完成；K 冻结 532。P7 仍卡 6.9/6.10/6.3"
  },
- "last_ticket": "T-P4-03",
- "next_ticket": "T-P4-04 七类关系标注与冲突台账",
- "blocked_by": [],
+ "last_ticket": "T-P5-10",
+ "next_ticket": "AC-6.9/6.10/6.3 人审",
  "open_items": [
   "★1–★6：已按你「开始」视同默认同意；有异议请报编号",
   "G4 缺号 SG3 答读者问 48 待定性",
-  "P3a 书级回顾：TD/FZ 可补 S-P3a-TD/FZ（不阻塞 P3b）"
+  "P3a 书级回顾：TD/FZ 可补 S-P3a-TD/FZ（不阻塞 P3b）",
+  "D10=A 已落盘；G10③=C 指标例外（召回仍 0.51%，不刷绿）",
+  "AC-4.4：κ_L1=0.839（13 manual override）",
+  "AC-4.8 / P4 抽查：用户已确认 2026-10-28",
+  "AC-6：6.4–6.8 机械 PASS；6.3/6.9/6.10 待人审",
+  "SG1=A：39 高信号 K 已落库；P4 冻结 532（含 SG1）",
+  "P7：make p7-ready-lint 当前 NOT READY（6.9/6.10/6.3）"
  ],
+ "blocked_by": ["AC-6.9/6.10 用户人审未落盘（非工程缺陷）"],
  "risks_top": [
   "R-1 额度中断计数 1/2",
   "R-2 核心论点识别（P1 双盲）",
@@ -51,7 +57,7 @@
   "batches": "70–90",
   "rounds_optimistic": "43–75（中位约 58）",
   "rounds_conservative": "100–140",
-  "EP-0": "基本完成（S02–S08 + handover + ST 干跑报告）",
+  "EP-0": "B2/B3 已落库（v2.1、pillars/exclusions、5 角色+P0–P6 阶段段、selftest 全量）",
   "note": "P1 试点后校准"
  },
  "quota_incidents": [

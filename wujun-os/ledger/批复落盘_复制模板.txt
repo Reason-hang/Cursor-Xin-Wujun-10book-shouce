@@ -1,0 +1,7 @@
+# 复制下面几行到「用户批复_原文.txt」（去掉本行注释），保存后：
+#   make approvals-ingest && make approvals-apply && make p6-build && make pack
+
+D10=A
+G10③=C
+SG1=B
+P4抽查确认

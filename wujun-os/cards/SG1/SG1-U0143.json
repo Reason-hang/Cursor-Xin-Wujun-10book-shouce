@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0143",
   "book_code": "SG1",
   "title": "第133 封信丨教育改变命运的第一步——技能教育的重要性",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0143-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0143-K01",
+      "speaker": "吴军本人",
+      "claim": "中下层改变命运的第一步往往是掌握社会稀缺、可换薪的技能教育，再谈博雅；富兰克林/杰斐逊/洪堡皆重此路径。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

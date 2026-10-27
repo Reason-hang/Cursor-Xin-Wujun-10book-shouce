@@ -2,18 +2,25 @@
   "unit_id": "SG1-U0120",
   "book_code": "SG1",
   "title": "第110 封信丨澳大利亚日记2:大堡礁",
-  "speaker_default": "吴军本人",
-  "disposition_unit": "X3",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P1-SG1-U0120-X01",
+      "card_id": "P3b-SG1-U0120-K01",
       "speaker": "吴军本人",
-      "claim": "游记单元：推荐野生动物园活动，无可迁移至 WJ-OS 的方法论论点。",
-      "type": "—",
-      "disposition": "X3",
-      "pillar_hints": [],
-      "capability_tags": [],
-      "note": "P1 选样登记 X3 游记排除"
+      "claim": "体验大堡礁常需接受直升机等必要风险；全球变暖下珊瑚萎缩，想亲见应尽早安排。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
     }
   ]
 }

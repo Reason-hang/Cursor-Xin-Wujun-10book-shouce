@@ -19,6 +19,9 @@ PY = sys.executable
 STEPS: tuple[tuple[str, list[str]], ...] = (
     ("verify_pack", ["scripts/verify_pack.py"]),
     ("selftest", ["scripts/selftest.py"]),
+    ("p6_dup_lint", ["scripts/p6_dup_lint.py"]),
+    ("p6_unit_coverage", ["scripts/p6_unit_coverage.py"]),
+    ("p6_bidir_matrix", ["scripts/p6_bidir_matrix.py"]),
     ("status", ["scripts/status.py"]),
 )
 

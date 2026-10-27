@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0281",
   "book_code": "SG1",
   "title": "第271 封信丨每个熊孩子后面都有两个不懂事的家长",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-002",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0281-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-SG1-U0281-K01",
+      "speaker": "吴军本人",
+      "claim": "熊孩子背后多是失职家长；文明教育是让人知恶止恶，不能以「还是孩子」推卸监护责任。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D07-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

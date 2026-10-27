@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0198",
   "book_code": "SG1",
   "title": "第188 封信丨子女教育（1）：怎么看名校毕业生在北京买不起学区房",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0198-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-SG1-U0198-K01",
+      "speaker": "吴军本人",
+      "claim": "学区房体现相对公平而非绝对平等；宁为鸡头不为牛后，名校父母更应以奋发榜样与社会责任教育孩子。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D07-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

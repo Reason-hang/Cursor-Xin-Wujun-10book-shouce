@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0266",
   "book_code": "SG1",
   "title": "第256 封信丨填报高考志愿的建议（下）：选择专业的原则",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-002",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0266-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0266-K01",
+      "speaker": "吴军本人",
+      "claim": "选专业应看国家大机会、个人兴趣与行业变迁；今日中国最大机会之一在国际化能力。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

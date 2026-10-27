@@ -1,0 +1,4 @@
+# 复制为 P6_召回提交.txt 后填写；每行一条，格式 unit_id=pass|fail|补写
+# 可选备注：unit_id=pass|已对照主手册 S-xxx
+# 保存后：make p6-recall-ingest && make p6-recall-lint && make p6-ac6-dashboard
+# 工作册：ledger/P6_抽检召回工作册.md

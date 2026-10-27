@@ -1,0 +1,195 @@
+{
+  "batch_id": "B-P3b-SG1-001",
+  "units": [
+    {
+      "unit_id": "SG1-U0036",
+      "title": "第031 封信丨美国私立中学如何教语文和历史",
+      "probe": "今天再和你聊聊我在美国的",
+      "words": "今天再,和你聊",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0038",
+      "title": "第032 封信丨担当－走访耶鲁大学随想",
+      "probe": "前几天，一位朋友因为孩子",
+      "words": "前几天,，一位",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0045",
+      "title": "第038 封信丨科学史上的乌龙事件",
+      "probe": "最近一段时间，关于科学家",
+      "words": "最近一,段时间",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0058",
+      "title": "第051 封信丨帝道、王道与霸道，兼谈博雅教育",
+      "probe": "你看了今天的标题后如果觉",
+      "words": "你看了,今天的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0071",
+      "title": "第062 封信丨约翰·霍普金斯大学的黑科技1:手术机器人",
+      "probe": "从今天起接下来的几天，和",
+      "words": "从今天,起接下",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0072",
+      "title": "第063 封信丨约翰·霍普金斯大学的黑科技2:人工心脏",
+      "probe": "昨天我们谈到了手术机器人",
+      "words": "昨天我,们谈到",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0075",
+      "title": "第066 封信丨阿拉斯加日记1",
+      "probe": "今年是最近一个极光高峰期",
+      "words": "今年是,最近一",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0076",
+      "title": "第067 封信丨阿拉斯加日记2:听书分享《做条狗》",
+      "probe": "今天继续和你分享我的阿拉",
+      "words": "今天继,续和你",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0077",
+      "title": "第068 封信丨阿拉斯加日记3:拍摄极光",
+      "probe": "先给你看几张照片（见文中",
+      "words": "先给你,看几张",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0119",
+      "title": "第109 封信丨澳大利亚日记1:悉尼之旅",
+      "probe": "上次我和你分享了去阿拉斯",
+      "words": "上次我,和你分",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0120",
+      "title": "第110 封信丨澳大利亚日记2:大堡礁",
+      "probe": "我在澳大利亚的第二站是大",
+      "words": "我在澳,大利亚",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0121",
+      "title": "第111 封信丨澳大利亚日记3:墨尔本",
+      "probe": "我在澳大利亚的第三站是墨",
+      "words": "我在澳,大利亚",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0122",
+      "title": "第112 封信丨我的读书笔记1：我读《哈佛中国史》的一点收获",
+      "probe": "在讲这个题目之前，先讲讲",
+      "words": "在讲这,个题目",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0141",
+      "title": "第131 封信丨在大学做什么",
+      "probe": "很多读者问我能否分享一下",
+      "words": "很多读,者问我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0142",
+      "title": "第132 封信丨在大学学什么",
+      "probe": "昨天我聊了我对大学生活的",
+      "words": "昨天我,聊了我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0143",
+      "title": "第133 封信丨教育改变命运的第一步——技能教育的重要性",
+      "probe": "我们今天继续谈谈教育这个",
+      "words": "我们今,天继续",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0144",
+      "title": "第134 封信丨如何在二流大学接受一流教育？",
+      "probe": "我们花了三天时间聊教育的",
+      "words": "我们花,了三天",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0145",
+      "title": "第135 封信丨美国基础教育那么差，为什么能获得那么多诺贝尔奖？",
+      "probe": "今天我们继续聊聊教育的话",
+      "words": "今天我,们继续",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0198",
+      "title": "第188 封信丨子女教育（1）：怎么看名校毕业生在北京买不起学区房",
+      "probe": "最近一些媒体就一些关于孩",
+      "words": "最近一,些媒体",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

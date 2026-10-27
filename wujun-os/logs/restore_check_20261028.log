@@ -1,0 +1,87 @@
+python3 scripts/verify_pack.py
+清单 2276 项；缺失 0；被改动 0
+python3 scripts/s00_freeze.py --zip "_打包吴军10本电子书.zip" --out src_frozen --log logs/g0_inputs.md
+已冻结 10 个文件 -> src_frozen；基线比对失败 0；缺失 []；日志 logs/g0_inputs.md
+python3 scripts/s01_probe.py --src src_frozen --out logs/p0_probe.md
+比对项 107，不一致 0；总单元 1742（内容 1697，容器 32，非内容 13）；日志 logs/p0_probe.md
+python3 scripts/selftest.py
+| 测试 | 结果 | 说明 |
+|---|---|---|
+| 锚点：原文校验应通过 | PASS | 校验完成: 通过 2，失败 0 |
+| 锚点：篡改一字应被检出 | PASS |  |
+| 锚点：前插一行应被检出 | PASS |  |
+| s01：与基线比对应通过 | PASS | 比对项 107，不一致 0；总单元 1742（内容 1697，容器 32，非内容 13）；日志 /var/folders/1r/nxbz4cns2vv3x69bc3jy5w000000gn/T/p0_probe_selftest.md |
+| s01：原文被破坏时应失败 | PASS | 比对项 107，不一致 5；总单元 1741（内容 1697，容器 31，非内容 13）；日志 /var/folders/1r/nxbz4cns2vv3x69bc3jy5w000000gn/T/tmp0w36wfe_/x.md |
+| ep0：角色提示词 R-ORCH | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/R-ORCH.md |
+| ep0：角色提示词 R-EXT | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/R-EXT.md |
+| ep0：角色提示词 R-WRT | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/R-WRT.md |
+| ep0：角色提示词 R-AUD | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/R-AUD.md |
+| ep0：角色提示词 R-OPS | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/R-OPS.md |
+| ep0：阶段追加段 P0 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P0.md |
+| ep0：阶段追加段 P1 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P1.md |
+| ep0：阶段追加段 P2 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P2.md |
+| ep0：阶段追加段 P3 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P3.md |
+| ep0：阶段追加段 P4 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P4.md |
+| ep0：阶段追加段 P5 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P5.md |
+| ep0：阶段追加段 P6 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/prompts/phase_append_P6.md |
+| ep0：开场提示词 | PASS | handover/ |
+| ep0：机读字典 pillars.yaml | PASS | spec/pillars.yaml |
+| ep0：机读字典 exclusions.yaml | PASS | spec/exclusions.yaml |
+| ep0：pillars L1=10 L2=25 | PASS | validate_pillars: 通过 |
+| s09：unit_cards 1697 张 | PASS | 实际 1697 |
+| p2：分诊强制规则核对 | PASS | 分诊核对通过: 1697 单元; 系列组 87 |
+| p3a：批次卡面 lint（GJ-002） | PASS | lint OK: 17 张卡 |
+| p4：概念键 lint（AC-4.2） | PASS | concept_keys lint OK: 206 键 |
+| p4：关系标注 lint | PASS | P4 relations lint OK: 319 对 |
+| p4：支柱归属 lint | PASS | P4 pillars lint OK: 496 张 K |
+| p4：L3 聚合 lint | PASS | P4 L3 lint OK: 21 L3, 493 K mapped |
+| p4：L2 定稿 lint | PASS | P4 L2 final lint OK: active=16 thin=5 |
+| p4：D10 三道门 lint | PASS | D10 gates lint OK: overall=fail |
+| p4：数量核对 lint | PASS | P4 count lint OK: 3 项，无红线 |
+| p4：盲重标 κ 记录 | PASS | P4 blind kappa lint OK: n=60 κ=0.839 |
+| p4：抽查 20 张表 | PASS | 行数 20 |
+| p4：K 冻结 lint | PASS | P4 freeze lint OK: K=493 |
+| p5：核心卡 s17 lint | PASS | s17 lint OK: 50 张核心卡 |
+| p5：D06 场景入口 10 条 | PASS | 计数 10 |
+| p5：D06 必检议题 14 项 | PASS | 行数 14 |
+| p5：D01 场景入口 6 条 | PASS | 计数 6 |
+| p5：D01 必检议题 17 项 | PASS | 行数 17 |
+| p5：D02 场景入口 8 条 | PASS | 计数 8 |
+| p5：D02 必检议题 15 项 | PASS | 行数 15 |
+| p5：D03 场景入口 4 条 | PASS | 计数 4 |
+| p5：D03 必检议题 8 项 | PASS | 行数 8 |
+| p5：D05 场景入口 4 条 | PASS | 计数 4 |
+| p5：D05 必检议题 9 项 | PASS | 行数 9 |
+| p5：D07 场景入口 4 条 | PASS | 计数 4 |
+| p5：D07 必检议题 9 项 | PASS | 行数 9 |
+| p5：D04 场景入口 3 条 | PASS | 计数 3 |
+| p5：D04 必检议题 16 项 | PASS | 行数 16 |
+| p5：D08 场景入口 3 条 | PASS | 计数 3 |
+| p5：D08 必检议题 10 项 | PASS | 行数 10 |
+| p5：D09 场景入口 2 条 | PASS | 计数 2 |
+| p5：D09 必检议题 9 项 | PASS | 行数 9 |
+| p5：D10 场景入口 2 条 | PASS | 计数 2 |
+| p5：D10 必检议题 5 项 | PASS | 行数 5 |
+| p5：D1 v0.9 集成稿 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/out/认知与行动操作系统_主手册_v0.9.md |
+| p5：D2 v0.9 集成稿 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/out/行动工具集_v0.9.md |
+| p5：能力速查 4 节 | PASS | 思学沟做 |
+| p5：场景 ID S-001–046 唯一 | PASS | p5 scenes lint OK: 46 条，S-001–S-046 唯一连续 |
+| p6：预检（112 必检+场景） | PASS | p6 preflight: 必检 112/112；D10 overall=fail |
+| p6：D3/D4/D6 正式副本 | PASS | 最终所有交付物 |
+| p6：主手册 24 字滑窗重复 | PASS | p6 dup lint OK: 24132 字，无 24 字滑窗重复 |
+| p6：必检 112 项汇总 CSV | PASS | 行数 112 |
+| p6：G10 去向统计已生成 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_G10关键词去向统计.md |
+| p6：G10 机械去向 100% | PASS | make p6-g10-refresh |
+| p6：双向矩阵机械预检产物 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_双向矩阵_机械预检.md |
+| p6：抽检召回样本 130 条 | PASS | 行数 130 |
+| p6：抽检召回工作册 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_抽检召回工作册.md |
+| p6：M 卡数理映射 50/50 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_数理映射审计.md |
+| p6：应用验证 5 场景 | PASS | p6 app scenarios lint OK: 5 条，异常提及 24 处，通过 5 |
+| p6：AC-6 状态看板 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_AC6_状态看板.md |
+| p6：S15 G 闸门对账表 | PASS | /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P6_S15_G闸门对账.md |
+| p6：SG3 划重点全量已跑 | PASS | 见 G10③ 差距说明 |
+| p7：S18 D1/D2 渲染链接 | PASS | s18: 0 issues → /Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-shouce/wujun-os/ledger/P7_S18_渲染链接检查.md |
+| status：能渲染 STATE.md | PASS | 阶段：P6 校验进行中（D3/D4/D6 v0.9 已入正式夹）｜单元 498/1742 [########----------------------] 28.6%｜下一张工单：P6_待你批复清单（D10/G10③/SG1/P4/6.9/6.10）｜阻塞：0 项 |
+| verify_pack：包校验应通过 | PASS | 清单 2276 项；缺失 0；被改动 0 |
+python3 scripts/status.py
+阶段：P6 校验进行中（D3/D4/D6 v0.9 已入正式夹）｜单元 498/1742 [########----------------------] 28.6%｜下一张工单：P6_待你批复清单（D10/G10③/SG1/P4/6.9/6.10）｜阻塞：0 项

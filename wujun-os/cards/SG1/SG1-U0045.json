@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0045",
   "book_code": "SG1",
   "title": "第038 封信丨科学史上的乌龙事件",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0045-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0045-K01",
+      "speaker": "吴军本人",
+      "claim": "科学结论不因权威而正确；实验误差、偏执与政治站队都会制造乌龙，事实与可重复验证优先于声望。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

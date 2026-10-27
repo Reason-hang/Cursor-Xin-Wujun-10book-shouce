@@ -18,3 +18,8 @@
 | J-014 | 2026-10-20 | **额度中断实际发生**：上一轮在生成恢复包途中被中断；采用批次顺序、阶段快照、最小可交付 | 本包批次 1 |
 | J-015 | 2026-10-27 | /goal 主智能体+5 子智能体：restore-check；B2 v2.1_增补；B3 pillars/exclusions/角色提示词/闸门骨架；修复 selftest 只读副本权限；pack 1.1 | dist/wujun-os-pack_20261027.zip；「最终所有交付物」里程碑说明 |
 | J-016 | 2026-10-27 | P1 Gate 视同通过；S09/S10；p2_triage 全量分诊 A368/B170/C1159；AC-2.4 强制规则 100%；X 抽样 30 清单 | ledger/分诊表.*；make p2-triage |
+| J-017 | 2026-10-27 | P6：AC-6.4–6.8 机械闭环；G10/S15 对账表；召回工作册；D10 AB 附件；verify+probe+test 复水子链 PASS | `最终所有交付物/WJ-OS｜P6校验里程碑｜交付说明.md`；pack 2263+ |
+| J-018 | 2026-10-28 | G10③ 全量划重点召回 0.51% FAIL；待批复清单；D10 A/B 工程清单草案 | pack_20261028；`P6_G10③_差距与补抽建议.md` |
+| J-019 | 2026-10-28 | 全链 `make restore-check` PASS；P7 S18；pack 刷新 | `ledger/EP0_restore_check_20261028.md` |
+| J-020 | 2026-10-28 | P6 锚点队列 3 条修探针写回 ledger；509/509 verify PASS；D3/D6 同步 | `make p6-anchor-queue-apply`；有异议可回滚 ledger 行 |
+| J-021 | 2026-10-28 | 用户表单批复：D10=A、G10③=C、SG1=A、P4 确认；`approvals-full` | `D10_证据门例外登记.md`、`G10③_AC例外登记.md`；pack b67feec6… |

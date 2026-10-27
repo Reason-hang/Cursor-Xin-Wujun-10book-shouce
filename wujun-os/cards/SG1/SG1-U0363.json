@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0363",
   "book_code": "SG1",
   "title": "第351 封信丨卡尼曼的经济学课（中）：为什么自己的孩子越看越爱",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-003",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0363-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0363-K01",
+      "speaker": "吴军本人",
+      "claim": "对比效应与错误锚定会误导消费与投资；沉没成本已不可收回，应止损而非追加投入。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

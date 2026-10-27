@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0058",
   "book_code": "SG1",
   "title": "第051 封信丨帝道、王道与霸道，兼谈博雅教育",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0058-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-SG1-U0058-K01",
+      "speaker": "吴军本人",
+      "claim": "职业与人生能走多远，立意（收益函数）比术更重要；追求速效霸道难支撑长期目标，应瞄准更高层次的王道/帝道。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

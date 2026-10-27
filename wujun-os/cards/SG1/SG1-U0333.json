@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0333",
   "book_code": "SG1",
   "title": "第321 封信丨和三位美国大学教授聊大学教育",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-002",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0333-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0333-K01",
+      "speaker": "吴军本人",
+      "claim": "本科应学难自学的基础课、写作与外语，推迟专业硬抉择并选良师而非只看课名。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

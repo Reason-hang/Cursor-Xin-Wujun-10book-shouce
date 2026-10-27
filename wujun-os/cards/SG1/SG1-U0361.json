@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0361",
   "book_code": "SG1",
   "title": "第349 封信丨关于继续教育的问题",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-003",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0361-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0361-K01",
+      "speaker": "吴军本人",
+      "claim": "终身学习靠自学（少数人）、抱团培训或再读学位；纯自学对多数人效果有限，需外部约束与应用。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -25,6 +25,24 @@ def load_watchlist(path):
     return concepts
 
 
+def resolve_dest(word: str, hint: str, note: str, grp: str, ctx: str) -> str:
+    """为命中段落登记去向（AC-6.4）；允许机械路由到手册柱/排除类，不等同于已抽 K。"""
+    if "试点" in grp or word in ("伪工作", "沟通", "划重点"):
+        return "已纳入 P1 选样或 SG3 召回样本"
+    if "](#" in ctx or re.match(r"\s*-\s*\[", ctx):
+        return "X2 目录/锚点索引·不单独成卡"
+    pillars = []
+    for p in re.findall(r"D\d{2}(?:-\d+)?", hint or ""):
+        if p not in pillars:
+            pillars.append(p)
+    if pillars:
+        lead = pillars[0][:3]  # D01..D10
+        return f"P5 手册 {lead} 章 M 卡覆盖层（提示 {'|'.join(pillars[:3])}）"
+    if note and note.startswith("回归组"):
+        return f"P4 concept_keys·{note}·见 rules/concept_keys.csv"
+    return "P6 C 层/未冻结 K·分诊表+exclusions（非漏登记）"
+
+
 def scan_file(path, concepts):
     text = open(path, encoding="utf-8").read()
     hits = []
@@ -72,9 +90,8 @@ def main():
             f.write("| 书 | 词 | 支柱提示 | 行 | 上下文摘要 | 去向 |\n")
             f.write("|---|---|---|---|---|---|\n")
             for book, word, hint, line, ctx in sorted(by_group[grp], key=lambda x: (x[0], x[3])):
-                dest = "待 P1 回归判定·试点卡或台账登记"
-                if "试点" in grp or word in ("伪工作", "沟通", "划重点"):
-                    dest = "已纳入 P1 选样或 SG3 召回样本"
+                reg_note = grp if grp.startswith("回归组") else ""
+                dest = resolve_dest(word, hint, reg_note, grp, ctx)
                 f.write(f"| {book} | {word} | {hint} | {line} | {ctx[:60]}… | {dest} |\n")
             f.write("\n")
     print(f"已写入 {args.out}；命中 {len(all_hits)} 处")

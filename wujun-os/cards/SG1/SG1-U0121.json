@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0121",
   "book_code": "SG1",
   "title": "第111 封信丨澳大利亚日记3:墨尔本",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0121-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X3：来信默认→C",
-      "type": "判断",
-      "disposition": "X3",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0121-K01",
+      "speaker": "吴军本人",
+      "claim": "墨尔本大洋路沿线景观需按路线分段规划；旅行摄影要随天气调整曝光与饱和度策略。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

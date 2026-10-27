@@ -4,7 +4,7 @@
 步骤: ① 渲染 STATE.md ② 生成 MANIFEST.sha256 ③ 打成 dist/wujun-os-pack_<日期>.zip（含顶层目录 wujun-os/）
 不打包: src_frozen/（原文由你保管，用哈希核对）、logs/、dist/、__pycache__。
 """
-import datetime, hashlib, os, sys, zipfile
+import datetime, hashlib, os, shutil, sys, zipfile
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 import status
 
@@ -37,11 +37,19 @@ def main(root='.'):
     name = f"wujun-os-pack_{datetime.date.today():%Y%m%d}.zip"
     zp = os.path.join(root, 'dist', name)
     with zipfile.ZipFile(zp, 'w', zipfile.ZIP_DEFLATED) as z:
+        have = {p.replace('\\', '/') for p in fs}
         for p in fs + ['MANIFEST.sha256']:
             z.write(os.path.join(root, p), os.path.join('wujun-os', p))
-        for d in ('src_frozen', 'logs', 'out', 'data'):
-            z.writestr(f'wujun-os/{d}/.gitkeep', '')
+        for d in ('src_frozen', 'logs'):
+            key = f'{d}/.gitkeep'
+            if key not in have:
+                z.writestr(f'wujun-os/{d}/.gitkeep', '')
     print(f'已打包 {len(fs) + 1} 个文件 -> {zp}；SHA-256 {sha(zp)}')
+    deliver = os.path.normpath(os.path.join(root, '..', '最终所有交付物'))
+    if os.path.isdir(deliver):
+        dst = os.path.join(deliver, os.path.basename(zp))
+        shutil.copy2(zp, dst)
+        print(f'已同步恢复包 -> {dst}')
 
 if __name__ == '__main__':
     main('.')

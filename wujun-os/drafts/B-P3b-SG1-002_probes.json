@@ -1,0 +1,185 @@
+{
+  "batch_id": "B-P3b-SG1-002",
+  "units": [
+    {
+      "unit_id": "SG1-U0199",
+      "title": "第189 封信丨子女教育（2）：辛苦和痛苦",
+      "probe": "的是媒体对我的采访的第二",
+      "words": "今天和,你分享",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0200",
+      "title": "第190 封信丨子女教育（3）：兴趣的培养",
+      "probe": "的是媒体对我的采访的第三",
+      "words": "今天和,你分享",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0201",
+      "title": "第191 封信丨子女教育（4）：突破阶层和出国",
+      "probe": "今天是我们这个系列的最后",
+      "words": "今天是,我们这",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0242",
+      "title": "第232 封信丨高考前给学生和家长们的建议",
+      "probe": "马上要到考试季，关于中国",
+      "words": "马上要,到考试",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0243",
+      "title": "第233 封信丨大学考试秘籍",
+      "probe": "昨天我们聊了高考，今天我",
+      "words": "昨天我,们聊了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0252",
+      "title": "第242 封信丨数学史上的公案——无理数",
+      "probe": "今天我们照惯例来聊一些轻",
+      "words": "今天我,们照惯",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0265",
+      "title": "第255 封信丨填报高考志愿的建议（上）：考虑的因素",
+      "probe": "高考结束后，我在第248",
+      "words": "高考结,束后，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0266",
+      "title": "第256 封信丨填报高考志愿的建议（下）：选择专业的原则",
+      "probe": "我们昨天聊到了填报志愿的",
+      "words": "我们昨,天聊到",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0281",
+      "title": "第271 封信丨每个熊孩子后面都有两个不懂事的家长",
+      "probe": "前几天一条大家多次转发的",
+      "words": "前几天,一条大",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0295",
+      "title": "第283 封信丨给大学生的书单（上）",
+      "probe": "封信中，列举了大约三十本",
+      "words": "我在第,249",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0302",
+      "title": "第290 封信丨给大学生的书单（中）",
+      "probe": "上周我列出了一些推荐给大",
+      "words": "上周我,列出了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0309",
+      "title": "第297 封信丨给大学生的书单（下）",
+      "probe": "今天给你介绍我给大学生推",
+      "words": "今天给,你介绍",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0331",
+      "title": "第319 封信丨权利和特权：给家长和年轻人的一点建议",
+      "probe": "在聊今天的内容（即现代社",
+      "words": "在聊今,天的内",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0332",
+      "title": "第320 封信丨犹太人的教育方式Chavrusa 和苏格拉底对勇气的看法",
+      "probe": "今天和你聊两个话题，它们",
+      "words": "今天和,你聊两",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0333",
+      "title": "第321 封信丨和三位美国大学教授聊大学教育",
+      "probe": "前一阵与斯坦福、芝加哥和",
+      "words": "前一阵,与斯坦",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0334",
+      "title": "第322 封信丨中美大学本科课程教育的差异",
+      "probe": "在之前的来信中我们聊过五",
+      "words": "在之前,的来信",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0359",
+      "title": "第347 封信丨哈佛校长艾略特的教育思想",
+      "probe": "我最近和中美两国的大学接",
+      "words": "我最近,和中美",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0360",
+      "title": "第348 封信丨MOOC 是否能够帮助那些没有机会上大学的人？",
+      "probe": "MOOC（慕课）这两年是",
+      "words": "MOO,C（慕",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

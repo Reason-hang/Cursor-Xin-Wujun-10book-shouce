@@ -1,0 +1,4 @@
+priority,card_id,unit_id,issue,source,status
+P1,P3b-SG3-U0249-K01,SG3-U0249,锚点段为问答导语非 claim 正文,SA5快核,done
+P1,P3a-SX-U0043-K01,SX-U0043,锚点未覆盖贝叶斯 claim 核心句,SA5快核,done
+P1,P3a-GJ-U0007-K01,GJ-U0007,锚点仅为合作例证非独立决策句,SA5快核,done

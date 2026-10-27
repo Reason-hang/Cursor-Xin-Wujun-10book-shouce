@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0242",
   "book_code": "SG1",
   "title": "第232 封信丨高考前给学生和家长们的建议",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-002",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0242-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0242-K01",
+      "speaker": "吴军本人",
+      "claim": "考前一周应认命稳发挥、保住送分题；贪求超常发挥反而压垮正常水平。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

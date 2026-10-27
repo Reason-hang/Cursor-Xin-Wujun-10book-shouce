@@ -1,17 +1,26 @@
 {
   "unit_id": "SG1-U0359",
-  "disposition_unit": "M",
-  "dual_source_with": "GG-U0077",
+  "book_code": "SG1",
+  "title": "第347 封信丨哈佛校长艾略特的教育思想",
+  "batch": "B-P3b-SG1-002",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P1-SG1-U0359-M01",
+      "card_id": "P3b-SG1-U0359-K01",
       "speaker": "吴军本人",
-      "claim": "艾略特教育改革遭校内教授与校外大学校长激烈反对，监事会一度欲罢免他。",
-      "type": "案例",
-      "disposition": "M",
-      "pillar_hints": ["D02-2"],
-      "capability_tags": ["学"],
-      "dup_cluster": "SG1-GG-艾略特教育改革"
+      "claim": "艾略特主张开放思考与「哲学实验」培养解决问题之法，并要求各专业达到可服务社会的真专业水平。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0122",
   "book_code": "SG1",
   "title": "第112 封信丨我的读书笔记1：我读《哈佛中国史》的一点收获",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0122-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0122-K01",
+      "speaker": "吴军本人",
+      "claim": "走出校门后的学习靠慕课、杂志与读书并进；杂志更新快、观点可对照，书籍宜配合领域背景读以免走偏。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

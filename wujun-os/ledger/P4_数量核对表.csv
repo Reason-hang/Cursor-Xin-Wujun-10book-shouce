@@ -1,0 +1,4 @@
+metric,count,target_lo,target_hi,warn_line,red_line,status,note
+L1_pillar,10,9,10,10,10,in_target,10柱（D10 三道门 fail，待你确认是否降为 9）
+L2_active,16,22,28,28,32,below_target,薄簇降级后 active L2
+L3,21,32,44,44,50,below_target,机械聚类初稿，低于目标待 P4 拆簇

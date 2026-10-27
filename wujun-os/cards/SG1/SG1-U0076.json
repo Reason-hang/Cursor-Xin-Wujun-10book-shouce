@@ -2,21 +2,25 @@
   "unit_id": "SG1-U0076",
   "book_code": "SG1",
   "title": "第067 封信丨阿拉斯加日记2:听书分享《做条狗》",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0076-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X3：来信默认→C",
+      "card_id": "P3b-SG1-U0076-K01",
+      "speaker": "吴军本人",
+      "claim": "人与狗认知通道不同；应承认个体长短处、扬长避短，不以自己的感知方式要求他人。",
       "type": "判断",
-      "disposition": "X3",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

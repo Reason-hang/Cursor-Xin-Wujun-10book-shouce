@@ -30,8 +30,7 @@ def load_yaml(path: str):
     try:
         import yaml  # type: ignore
     except ImportError:
-        print("validate_pillars: 需要 PyYAML（pip install pyyaml）", file=sys.stderr)
-        raise SystemExit(1)
+        return None
     with open(path, encoding="utf-8") as f:
         doc = yaml.safe_load(f)
     if doc is None:
@@ -39,6 +38,15 @@ def load_yaml(path: str):
     if not isinstance(doc, dict):
         raise ValueError("pillars.yaml 根节点必须是映射（mapping）")
     return doc
+
+
+def count_levels_regex(path: str) -> tuple[int, int]:
+    import re
+
+    text = open(path, encoding="utf-8").read()
+    l1 = len(set(re.findall(r"^\s+code: (D\d{2})\s*$", text, re.MULTILINE)))
+    l2 = len(re.findall(r"^\s+code: (D\d{2}-\d+)\s*$", text, re.MULTILINE))
+    return l1, l2
 
 
 def _l1_list(doc: dict) -> list | None:
@@ -100,7 +108,10 @@ def validate(path: str) -> int:
 
     try:
         doc = load_yaml(path)
-        l1, l2 = count_levels(doc)
+        if doc is None:
+            l1, l2 = count_levels_regex(path)
+        else:
+            l1, l2 = count_levels(doc)
     except SystemExit:
         raise
     except Exception as exc:

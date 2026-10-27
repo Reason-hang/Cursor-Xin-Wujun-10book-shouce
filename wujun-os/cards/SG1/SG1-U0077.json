@@ -2,21 +2,24 @@
   "unit_id": "SG1-U0077",
   "book_code": "SG1",
   "title": "第068 封信丨阿拉斯加日记3:拍摄极光",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG1-001",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG1-U0077-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X3：来信默认→C",
-      "type": "判断",
-      "disposition": "X3",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG1-U0077-K01",
+      "speaker": "吴军本人",
+      "claim": "拍极光需全幅机、高ISO与大光圈定焦，并给相机与电池防寒；极光弱需长曝光与广角。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

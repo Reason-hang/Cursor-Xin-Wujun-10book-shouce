@@ -1,0 +1,25 @@
+{
+  "batch_id": "B-P3b-SG1-003",
+  "units": [
+    {
+      "unit_id": "SG1-U0361",
+      "title": "第349 封信丨关于继续教育的问题",
+      "probe": "“得到”前阵子的启动页面",
+      "words": "前阵子,的启动",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0363",
+      "title": "第351 封信丨卡尼曼的经济学课（中）：为什么自己的孩子越看越爱",
+      "probe": "今天继续和你聊聊卡尼曼教",
+      "words": "今天继,续和你",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}
