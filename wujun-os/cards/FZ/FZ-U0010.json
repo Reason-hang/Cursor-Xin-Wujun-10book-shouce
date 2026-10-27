@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0010",
+  "book_code": "FZ",
+  "title": "06. 线性成长的局限性",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0010-K01",
+      "speaker": "吴军本人",
+      "claim": "工作影响力若只线性累积而代码/成果短命，则远不如让贡献随时间平方乃至更高次方增长。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

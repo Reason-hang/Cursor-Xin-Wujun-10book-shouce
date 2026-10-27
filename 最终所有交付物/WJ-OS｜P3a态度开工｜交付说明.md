@@ -1,4 +1,4 @@
-# WJ-OS｜P3a《态度》开工
+# WJ-OS｜P3a 成书抽卡进度
 
 | 项 | 内容 |
 |---|---|
@@ -8,9 +8,9 @@
 
 ## 本轮
 
-- 批次 **B-P3a-TD-001 / TD-002**：各 20 单元，**已收口**（P3a 锚点 **40/40**）
-- 全库有卡单元 **57/1742**（含 P1 试点 17 本跨书单元）
-- 下一批：**B-P3a-TD-003**（1 单元）→ **FZ-001**
+- **《态度》TD**：三批 **41** 单元已收口；P3a 锚点 **41** 行（态度）
+- **《富足》FZ**：**B-P3a-FZ-001**（19 单元）已收口；P3a 锚点合计 **60/60** 校验通过
+- 全库有卡单元 **75/1742**；下一批 **B-P3a-FZ-002**
 
 ## 复验
 
@@ -19,4 +19,4 @@ cd "/Users/lizhihang/Documents/【Cursor-projects】/Cursor-Xin-Wujun-10book-sho
 make p3a-plan && make p3a-verify-anchors
 ```
 
-恢复包 SHA-256：`acff03016824bc525ea3253c45f2e0793ef8726a71d912dde507b9eebdc16876`（`wujun-os/dist/wujun-os-pack_20261027.zip`）
+恢复包 SHA-256：`b70ed7372c0006438393e416565314d0ceeda6d54b8e0084b071ea32969324a7`（`wujun-os/dist/wujun-os-pack_20261027.zip`）

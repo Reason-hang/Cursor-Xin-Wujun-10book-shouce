@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0019",
+  "book_code": "FZ",
+  "title": "13. 不怕慢，就怕停，更怕反复",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0019-K01",
+      "speaker": "吴军本人",
+      "claim": "持续前进优于走走停停；贪快反复会拉低长期平均速度。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0009",
+  "book_code": "FZ",
+  "title": "05. 破解35岁中年危机",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "中年危机常因技能总量增但单位价值衰减；应积累可复用、有杠杆的底层能力。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0011",
+  "book_code": "FZ",
+  "title": "07. 用乘方思维扩大影响力",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0011-K01",
+      "speaker": "吴军本人",
+      "claim": "共享代码、平台化与可复用工作使影响力随时间高次方放大，优于熬年头的线性头衔。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

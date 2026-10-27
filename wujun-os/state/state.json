@@ -2,8 +2,8 @@
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.2",
  "updated": "2026-10-27",
- "phase": "P3a 成书抽卡（态度 TD）",
- "step": "B-P3a-TD-002 已收口；待开 B-P3a-TD-003 / FZ",
+ "phase": "P3a 成书抽卡（富足 FZ）",
+ "step": "《态度》A 层已收口；B-P3a-FZ-001 已收口",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-27）",
@@ -19,21 +19,21 @@
  "progress": {
   "units_total": 1742,
   "units_content": 1697,
-  "units_done": 57,
+  "units_done": 75,
   "chars_total": 5038558,
-  "chars_done": 162585,
-  "batches_done": 2,
+  "chars_done": 205023,
+  "batches_done": 4,
   "batches_est": "70–90",
   "p0_gate": "脚本闸门通过；用户 Gate-P0 待确认缺号定性"
  },
  "in_flight": {
-  "ticket": "B-P3a-TD-003",
+  "ticket": "B-P3a-FZ-002",
   "unit_ids": [],
   "unsaved": [],
-  "note": "TD 书 A 层前两批 40 单元卡+锚点已落盘"
+  "note": "TD 三批 41 单元 + FZ-001 十九单元卡与锚点已落盘"
  },
- "last_ticket": "B-P3a-TD-002",
- "next_ticket": "B-P3a-TD-003（1 单元）后进入 B-P3a-FZ-001",
+ "last_ticket": "B-P3a-FZ-001",
+ "next_ticket": "B-P3a-FZ-002（见 batches/P3a/B-P3a-FZ-002.md）",
  "blocked_by": [],
  "open_items": [
   "★1–★6：已按你「开始」视同默认同意；有异议请报编号",

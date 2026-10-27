@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0014",
+  "book_code": "FZ",
+  "title": "08. 做决定前，先考虑成本",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0014-K01",
+      "speaker": "吴军本人",
+      "claim": "决策须算时间与机会成本，而非只看是否跟风或有微弱收益。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

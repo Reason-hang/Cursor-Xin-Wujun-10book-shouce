@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0015",
+  "book_code": "FZ",
+  "title": "09. 如何让回报大于成本",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0015-K01",
+      "speaker": "吴军本人",
+      "claim": "警惕沉没成本、机会成本与贪小便宜；追求整体回报成本比而非单次占便宜。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

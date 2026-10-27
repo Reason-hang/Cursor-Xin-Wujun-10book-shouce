@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0018",
+  "book_code": "FZ",
+  "title": "12. 不要试图战胜市场",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0018-K01",
+      "speaker": "吴军本人",
+      "claim": "金融市场高度有效，长期战胜大盘极难；应敬畏规律、走少有人争的路。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

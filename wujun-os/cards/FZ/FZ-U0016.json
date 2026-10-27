@@ -1,0 +1,23 @@
+{
+  "unit_id": "FZ-U0016",
+  "book_code": "FZ",
+  "title": "10. 没有体量创造不了奇迹",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0016-K01",
+      "speaker": "吴军本人",
+      "claim": "复制巴菲特式操作难在纪律、寿命与体量；中小资金更应投资自身专业而非幻想股神奇迹。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

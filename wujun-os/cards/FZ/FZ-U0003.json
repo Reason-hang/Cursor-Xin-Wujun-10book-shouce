@@ -1,0 +1,24 @@
+{
+  "unit_id": "FZ-U0003",
+  "book_code": "FZ",
+  "title": "前言 成为富足的人",
+  "batch": "B-P3a-FZ-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-FZ-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "外在财富靠运气，可塑的是认知与做事方法；精神富足才是静态、持久的富足。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}
