@@ -1,0 +1,256 @@
+{
+ "books": [
+  {
+   "bytes": 3624051,
+   "cjk": 1059147,
+   "file": "《吴军来信2》原著完整精排版--Codex处理_副本.md",
+   "lines": 26324,
+   "sha256": "b860bb91aa8bf2063a0ef6c5d7faf2acda55174e0d953210b3c2bae8dc982485"
+  },
+  {
+   "bytes": 435501,
+   "cjk": 129663,
+   "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+   "lines": 2204,
+   "sha256": "ef942c63d58639d50fbf4bc69aa62297c365a984a79c50b668a2f8ebd9cc5f21"
+  },
+  {
+   "bytes": 405293,
+   "cjk": 121173,
+   "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+   "lines": 1930,
+   "sha256": "6de3e38e99611018cc14a807352e68bab41369d1d1b819d3f007235d6d49cca2"
+  },
+  {
+   "bytes": 343773,
+   "cjk": 100330,
+   "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+   "lines": 2118,
+   "sha256": "71d30015bb16c97a0a32749c95b2998d6ef73c5042f391425cf32c83d98d38e3"
+  },
+  {
+   "bytes": 633426,
+   "cjk": 184335,
+   "file": "《数学通识50讲》[吴军]-原著完整精排版_副本2.md",
+   "lines": 8120,
+   "sha256": "0566fe09d99912dbe674ffe9956a6c71cf28a039da310434e0b9a3a93d9130ad"
+  },
+  {
+   "bytes": 562371,
+   "cjk": 167567,
+   "file": "《格局》[吴军]--原著完整精排版_副本2.md",
+   "lines": 2946,
+   "sha256": "d3e7dbe3ebf548dfc8d13939ecca9c20a9bd4987367ac795a6c01117eb71c4bd"
+  },
+  {
+   "bytes": 3419629,
+   "cjk": 980288,
+   "file": "《硅谷来信1》｜原著完整精排典藏版｜Codex处理_副本.md",
+   "lines": 28957,
+   "sha256": "9a4f85434a217acace20e813a54f043d782a76e49c7f02978a12d5f40cbfb482"
+  },
+  {
+   "bytes": 3714851,
+   "cjk": 1074104,
+   "file": "《硅谷来信3》｜原著完整精排典藏版｜Codex处理_副本.md",
+   "lines": 33990,
+   "sha256": "4c3d8e4ad413bb40baee587541efff981239bd473411db63acb3d9b484837d6e"
+  },
+  {
+   "bytes": 742738,
+   "cjk": 221449,
+   "file": "《见识：商业的本质和人生的智慧》[吴军]-原著完整精排版_副本2.md",
+   "lines": 3933,
+   "sha256": "8345aea34cf075bcaef7be0f5d18886ac0bb7ce2aa7448e960f3aa55e691076e"
+  },
+  {
+   "bytes": 3406008,
+   "cjk": 1000502,
+   "file": "《谷歌方法论》[吴军]-原著完整精排版_副本.md",
+   "lines": 24322,
+   "sha256": "cbdcf05679fb0aaf473b5914c14ec4a283b880fb7f3248f779cdfaa898d119c8"
+  }
+ ],
+ "probe": {
+  "dup_cross": {
+   "chars": 8884,
+   "pairs": {
+    "GG<->GJ": {
+     "chars": 54,
+     "paragraphs": 1
+    },
+    "GG<->SG1": {
+     "chars": 8023,
+     "paragraphs": 107
+    },
+    "GG<->TD": {
+     "chars": 60,
+     "paragraphs": 1
+    },
+    "JS<->SG1": {
+     "chars": 747,
+     "paragraphs": 9
+    }
+   },
+   "paragraphs": 118
+  },
+  "dup_inbook": {
+   "GG": 28,
+   "GJ": 1,
+   "SG3": 2,
+   "WJ2": 5
+  },
+  "file_chars": 5038558,
+  "gg_author_catalog": {
+   "covered": 219,
+   "missing": [
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  "interact_units": {
+   "chars": 55829,
+   "count": 24
+  },
+  "letters": {
+   "GG": {
+    "count": 223,
+    "dup": [],
+    "max": 223,
+    "missing": []
+   },
+   "SG1": {
+    "count": 361,
+    "dup": [],
+    "max": 361,
+    "missing": []
+   },
+   "SG3": {
+    "count": 261,
+    "dup": [],
+    "max": 261,
+    "missing": []
+   },
+   "WJ2": {
+    "count": 262,
+    "dup": [],
+    "max": 262,
+    "missing": []
+   }
+  },
+  "per_book": {
+   "FZ": {
+    "container": 7,
+    "content": 46,
+    "content_chars": 119660,
+    "noncontent": 1,
+    "total": 54
+   },
+   "GG": {
+    "container": 0,
+    "content": 363,
+    "content_chars": 978204,
+    "noncontent": 2,
+    "total": 365
+   },
+   "GJ": {
+    "container": 2,
+    "content": 60,
+    "content_chars": 165729,
+    "noncontent": 1,
+    "total": 63
+   },
+   "JJ": {
+    "container": 1,
+    "content": 36,
+    "content_chars": 128402,
+    "noncontent": 1,
+    "total": 38
+   },
+   "JS": {
+    "container": 7,
+    "content": 75,
+    "content_chars": 218363,
+    "noncontent": 1,
+    "total": 83
+   },
+   "SG1": {
+    "container": 1,
+    "content": 386,
+    "content_chars": 963703,
+    "noncontent": 3,
+    "total": 390
+   },
+   "SG3": {
+    "container": 2,
+    "content": 316,
+    "content_chars": 1062435,
+    "noncontent": 1,
+    "total": 319
+   },
+   "SX": {
+    "container": 4,
+    "content": 57,
+    "content_chars": 181393,
+    "noncontent": 1,
+    "total": 62
+   },
+   "TD": {
+    "container": 7,
+    "content": 41,
+    "content_chars": 98629,
+    "noncontent": 1,
+    "total": 49
+   },
+   "WJ2": {
+    "container": 1,
+    "content": 317,
+    "content_chars": 1043450,
+    "noncontent": 1,
+    "total": 319
+   }
+  },
+  "qa_numbering": {
+   "GG": {
+    "count": 55,
+    "dup": [],
+    "max": 55,
+    "missing": []
+   },
+   "SG3": {
+    "count": 51,
+    "dup": [],
+    "max": 52,
+    "missing": [
+     48
+    ]
+   },
+   "WJ2": {
+    "count": 51,
+    "dup": [],
+    "max": 52,
+    "missing": [
+     5
+    ]
+   }
+  },
+  "qa_units": {
+   "chars": 529781,
+   "count": 170
+  },
+  "series_units": 91,
+  "sg3_huazhongdian": {
+   "chars": 43851,
+   "sections": 261
+  },
+  "totals": {
+   "container": 32,
+   "content": 1697,
+   "content_chars": 4959968,
+   "noncontent": 13,
+   "total": 1742
+  }
+ }
+}

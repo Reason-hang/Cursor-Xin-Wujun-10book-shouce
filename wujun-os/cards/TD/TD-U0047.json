@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0047",
+  "book_code": "TD",
+  "title": "第38封信 服从是学会领导的第一步",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0047-K01",
+      "speaker": "吴军本人",
+      "claim": "领导力从服从与合作起步，再学统筹与当好助手。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "TD-U0035",
+  "book_code": "TD",
+  "title": "第27封信 上帝喜欢笨人",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0035-K01",
+      "speaker": "吴军本人",
+      "claim": "按部就班、留余量、不投机取巧；笨办法常是稳办法。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

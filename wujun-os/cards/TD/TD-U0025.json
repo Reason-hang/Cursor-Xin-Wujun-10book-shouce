@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0025",
+  "book_code": "TD",
+  "title": "第19封信 一生永远不要碰的三条红线",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0025-K01",
+      "speaker": "吴军本人",
+      "claim": "投资一生勿碰三条红线：不做可导致灭顶之灾的冒险（做空、高杠杆）、不做不懂的投资、不为错失投机机会乱方寸。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D05-1", "D05-2"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

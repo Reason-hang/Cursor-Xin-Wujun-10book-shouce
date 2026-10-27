@@ -1,0 +1,64 @@
+{
+ "project": "WJ-OS 吴军十书·认知与行动操作系统",
+ "pack_version": "1.2",
+ "updated": "2026-10-27",
+ "phase": "P3a 成书抽卡（态度 TD）",
+ "step": "B-P3a-TD-002 已收口；待开 B-P3a-TD-003 / FZ",
+ "spec": {
+  "v2_方案": "v2（2026-10-19）",
+  "v2.1_增补": "v2.1（2026-10-27）",
+  "pillars": "v1.0",
+  "exclusions": "v1.0",
+  "rules": "pilot_rules_v1（Gate-P1 视同通过）"
+ },
+ "frozen": {
+  "status": "P0 分母已冻结：D5 out/00_内容盘点与单元清单.md（1742 行）",
+  "books": 10,
+  "baseline": "make p0：G2/G3/G6/G8 脚本通过；G4 缺号已登记"
+ },
+ "progress": {
+  "units_total": 1742,
+  "units_content": 1697,
+  "units_done": 57,
+  "chars_total": 5038558,
+  "chars_done": 162585,
+  "batches_done": 2,
+  "batches_est": "70–90",
+  "p0_gate": "脚本闸门通过；用户 Gate-P0 待确认缺号定性"
+ },
+ "in_flight": {
+  "ticket": "B-P3a-TD-003",
+  "unit_ids": [],
+  "unsaved": [],
+  "note": "TD 书 A 层前两批 40 单元卡+锚点已落盘"
+ },
+ "last_ticket": "B-P3a-TD-002",
+ "next_ticket": "B-P3a-TD-003（1 单元）后进入 B-P3a-FZ-001",
+ "blocked_by": [],
+ "open_items": [
+  "★1–★6：已按你「开始」视同默认同意；有异议请报编号",
+  "G4 缺号 SG3 答读者问 48 待定性"
+ ],
+ "risks_top": [
+  "R-1 额度中断计数 1/2",
+  "R-2 核心论点识别（P1 双盲）",
+  "R-3 状态外置：每里程碑 make pack",
+  "R-4 事实源哈希",
+  "R-5 说话人错归"
+ ],
+ "estimates": {
+  "batches": "70–90",
+  "rounds_optimistic": "43–75（中位约 58）",
+  "rounds_conservative": "100–140",
+  "EP-0": "基本完成（S02–S08 + handover + ST 干跑报告）",
+  "note": "P1 试点后校准"
+ },
+ "quota_incidents": [
+  {
+   "date": "2026-10-20",
+   "where": "生成恢复包",
+   "effect": "批次快照机制",
+   "count_toward_Z1": "1/2"
+  }
+ ]
+}

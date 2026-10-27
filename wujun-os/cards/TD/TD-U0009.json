@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0009",
+  "book_code": "TD",
+  "title": "第5封信 最好是更好的敌人",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "在复杂博弈中应接受可执行的局部进步；“最好是更好的敌人”，任何进步都比没有进步好。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-2"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}

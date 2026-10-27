@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0006",
+  "book_code": "TD",
+  "title": "第2封信 幸福的来源",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0006-K01",
+      "speaker": "吴军本人",
+      "claim": "幸福来自基因传承的延续感、对世界留下正向影响，以及把人生比作有长度宽度深度的河流。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-4"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

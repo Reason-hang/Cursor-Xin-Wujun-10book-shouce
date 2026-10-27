@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0016",
+  "book_code": "TD",
+  "title": "第11封信 好运气背后是三倍的努力",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0016-K01",
+      "speaker": "吴军本人",
+      "claim": "好运气常来自对细节的极致投入；付出约三倍于期望结果的努力，机会更可能转向你。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-2"],
+      "capability_tags": ["做"],
+      "stable": "稳定"
+    }
+  ]
+}

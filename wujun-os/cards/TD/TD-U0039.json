@@ -1,0 +1,23 @@
+{
+  "unit_id": "TD-U0039",
+  "book_code": "TD",
+  "title": "第31封信 为什么要学好数学",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0039-K01",
+      "speaker": "吴军本人",
+      "claim": "数学训练逻辑与抽象能力，对多数职业有长期复利。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0045",
+  "book_code": "TD",
+  "title": "第36封信 专业和业余的区别",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0045-K01",
+      "speaker": "吴军本人",
+      "claim": "专业素养：为工作本身着想、守流程、小事做到极致、体系化知识。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

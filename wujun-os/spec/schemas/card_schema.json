@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WJ-OS argument card (pilot)",
+  "type": "object",
+  "required": ["card_id", "unit_id", "speaker", "claim", "disposition"],
+  "properties": {
+    "card_id": { "type": "string" },
+    "unit_id": { "type": "string", "pattern": "^[A-Z0-9]+-U[0-9]{4}$" },
+    "speaker": { "type": "string" },
+    "claim": { "type": "string" },
+    "disposition": { "type": "string", "enum": ["K", "M", "C", "X", "N"] },
+    "pillar_hints": { "type": "array", "items": { "type": "string" } },
+    "capability_tags": { "type": "array", "items": { "type": "string", "enum": ["思", "学", "沟", "做"] } },
+    "anchor": { "type": "object" }
+  },
+  "additionalProperties": true
+}

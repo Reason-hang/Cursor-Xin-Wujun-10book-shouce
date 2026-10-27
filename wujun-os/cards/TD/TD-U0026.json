@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0026",
+  "book_code": "TD",
+  "title": "第20封信 我的金钱观",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0026-K01",
+      "speaker": "吴军本人",
+      "claim": "钱应看作扩大影响力的媒介；要捡西瓜不捡芝麻，把一件事做到极致。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

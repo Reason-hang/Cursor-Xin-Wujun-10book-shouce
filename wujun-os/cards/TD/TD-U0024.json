@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0024",
+  "book_code": "TD",
+  "title": "第18封信 第一次投资的建议",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0024-K01",
+      "speaker": "吴军本人",
+      "claim": "普通人宜定投宽基指数基金、长期看好市场，不妄想打败市场或频繁盯盘。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": ["D05-1"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}

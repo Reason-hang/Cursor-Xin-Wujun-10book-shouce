@@ -1,0 +1,25 @@
+{
+  "unit_id": "TD-U0030",
+  "book_code": "TD",
+  "title": "第23封信 团结大多数人",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0030-K01",
+      "speaker": "吴军本人",
+      "claim": "领导须团结多数有能力者，对人无洁癖，善用长处、对事不对人。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

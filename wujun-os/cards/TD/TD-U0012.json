@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0012",
+  "book_code": "TD",
+  "title": "第7封信 决策时格局要大",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0012-K01",
+      "speaker": "吴军本人",
+      "claim": "选择做与不做何事时格局要大；一旦动手就应朝最好目标努力，并把目光放得比眼前更远。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-2"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

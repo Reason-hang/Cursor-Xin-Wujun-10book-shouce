@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0038",
+  "book_code": "TD",
+  "title": "第30封信 为什么要读非小说类名著",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0038-K01",
+      "speaker": "吴军本人",
+      "claim": "应读非小说名著以提升逻辑表达与专业写作能力。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

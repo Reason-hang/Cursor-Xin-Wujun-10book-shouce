@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0023",
+  "book_code": "TD",
+  "title": "第17封信 懂得钱的用途，还要有赚钱的本领",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0023-K01",
+      "speaker": "吴军本人",
+      "claim": "先挣钱再花钱、量入为出；从小钱练起并学会把钱用于投资或有意义的事业，而非透支未来。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-4", "D05-1"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0032",
+  "book_code": "TD",
+  "title": "第25封信 达到沟通目的才算有效沟通",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0032-K01",
+      "speaker": "吴军本人",
+      "claim": "有效沟通以对方确知含义为准；用对方能懂的语言，目的不是辩赢。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

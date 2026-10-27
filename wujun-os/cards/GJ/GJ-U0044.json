@@ -1,0 +1,15 @@
+{
+  "unit_id": "GJ-U0044",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P1-GJ-U0044-K01",
+      "speaker": "吴军本人",
+      "claim": "合作型朋友共事前应丑话说在前面、讲清利益分配，避免共富贵时撕裂。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": ["D07-2", "D06-3"],
+      "capability_tags": ["沟"]
+    }
+  ]
+}

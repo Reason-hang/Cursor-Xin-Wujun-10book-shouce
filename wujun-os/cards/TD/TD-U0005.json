@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0005",
+  "book_code": "TD",
+  "title": "第1封信 乐观的人生态度比什么都重要",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0005-K01",
+      "speaker": "吴军本人",
+      "claim": "乐观的人生态度比什么都重要；快乐与财富多寡关系不大，更取决于家庭和谐、天性释放、人际与内心修养。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D02-3", "D02-4"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

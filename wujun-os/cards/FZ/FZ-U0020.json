@@ -1,0 +1,19 @@
+{
+  "unit_id": "FZ-U0020",
+  "book_code": "FZ",
+  "title": "14. 可重复的成功",
+  "speaker_default": "吴军本人",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P1-FZ-U0020-K01",
+      "speaker": "吴军本人",
+      "claim": "可重复的成功是个人进步与获得他人信任的基础；一次性的侥幸不算真正的成功。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D05-2", "D02-2"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}

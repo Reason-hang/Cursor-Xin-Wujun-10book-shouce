@@ -1,0 +1,42 @@
+{
+  "unit_id": "SG3-U0059",
+  "book_code": "SG3",
+  "title": "耶路撒冷",
+  "speaker_default": "吴军本人",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P1-SG3-U0059-R01",
+      "speaker": "吴军本人",
+      "claim": "划重点：要真正看懂耶路撒冷，需要了解它背后的历史与文化。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["X4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§1",
+      "stable": "稳定"
+    },
+    {
+      "card_id": "P1-SG3-U0059-R02",
+      "speaker": "吴军本人",
+      "claim": "划重点：圣墓教堂、西墙、圣殿山分别是基督、犹太、穆斯林圣地。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["X4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§2",
+      "stable": "稳定"
+    },
+    {
+      "card_id": "P1-SG3-U0059-R03",
+      "speaker": "吴军本人",
+      "claim": "划重点：1757 年维持现状敕令奠定耶路撒冷格局与教派共处。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["X4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§3",
+      "stable": "稳定"
+    }
+  ]
+}

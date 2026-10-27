@@ -1,0 +1,23 @@
+{
+  "unit_id": "TD-U0028",
+  "book_code": "TD",
+  "title": "第21封信 论友情：交友时不要怕吃小亏",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0028-K01",
+      "speaker": "吴军本人",
+      "claim": "大学应真诚交友；不要怕吃小亏、容忍小毛病，挚友是终身财富。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

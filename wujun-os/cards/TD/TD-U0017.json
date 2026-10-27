@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0017",
+  "book_code": "TD",
+  "title": "第12封信 更重要的是做个好人",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0017-K01",
+      "speaker": "吴军本人",
+      "claim": "相比能力与成败，品行更决定人生上限；诚实勤勉、友善正直比单纯成功更值得追求。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D02-3", "D02-4"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

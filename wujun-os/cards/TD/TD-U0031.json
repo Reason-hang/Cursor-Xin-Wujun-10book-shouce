@@ -1,0 +1,23 @@
+{
+  "unit_id": "TD-U0031",
+  "book_code": "TD",
+  "title": "第24封信 远离势利小人",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0031-K01",
+      "speaker": "吴军本人",
+      "claim": "小人以局部小利诱你损害根本利益；识人要看其如何对待周围人与是否戒贪欲。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

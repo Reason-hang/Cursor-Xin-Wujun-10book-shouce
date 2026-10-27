@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0021",
+  "book_code": "TD",
+  "title": "第15封信 不乱花钱，也不乱省钱",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0021-K01",
+      "speaker": "吴军本人",
+      "claim": "花钱与省钱都需有度；不为小钱束缚视野，运用财富时应从大处着眼、让钱发挥更大作用。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D02-4", "D05-2"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

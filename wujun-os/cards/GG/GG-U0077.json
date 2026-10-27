@@ -1,0 +1,18 @@
+{
+  "unit_id": "GG-U0077",
+  "disposition_unit": "M",
+  "dual_source_with": "SG1-U0359",
+  "speaker_note": "周末互动栏目；正文为吴军转述教育史案例",
+  "cards": [
+    {
+      "card_id": "P1-GG-U0077-M01",
+      "speaker": "吴军本人",
+      "claim": "与 SG1-U0359 同段：艾略特改革遭既得利益教授与校长集体反对。",
+      "type": "案例",
+      "disposition": "M",
+      "pillar_hints": ["D02-2"],
+      "capability_tags": ["学"],
+      "dup_cluster": "SG1-GG-艾略特教育改革"
+    }
+  ]
+}

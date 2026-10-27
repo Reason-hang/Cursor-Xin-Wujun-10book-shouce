@@ -1,0 +1,25 @@
+{
+  "unit_id": "TD-U0046",
+  "book_code": "TD",
+  "title": "第37封信 永远寻找更好的方法",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0046-K01",
+      "speaker": "吴军本人",
+      "claim": "遇困应跳出固定思维，主动寻找更有效的方法并行动。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

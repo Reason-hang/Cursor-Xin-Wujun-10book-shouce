@@ -1,0 +1,19 @@
+{
+  "unit_id": "JS-U0027",
+  "book_code": "JS",
+  "title": "18.伪工作者究竞“伪”在哪里",
+  "speaker_default": "吴军本人",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P1-JS-U0027-K01",
+      "speaker": "吴军本人",
+      "claim": "伪工作者忙而不产出效果；IT 公司里伪工作堆积会让组织在竞争中处于下风。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D06-2"],
+      "capability_tags": ["做"],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0020",
+  "book_code": "TD",
+  "title": "第14封信 承认自己“贫穷”，才能真正“富有”",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0020-K01",
+      "speaker": "吴军本人",
+      "claim": "在认知与成长上应坦然承认自己的“贫穷”，并愿意融入更高层次环境，才能真正进步与富有。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-1"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

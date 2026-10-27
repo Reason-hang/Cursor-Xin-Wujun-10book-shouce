@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0033",
+  "book_code": "TD",
+  "title": "第26封信 如何体面地拒绝别人",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0033-K01",
+      "speaker": "吴军本人",
+      "claim": "办不到应第一时间坦诚拒绝；不拖延、不勉强，真诚比假承诺体面。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

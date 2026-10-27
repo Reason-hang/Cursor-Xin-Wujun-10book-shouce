@@ -1,0 +1,17 @@
+{
+  "unit_id": "SG1-U0359",
+  "disposition_unit": "M",
+  "dual_source_with": "GG-U0077",
+  "cards": [
+    {
+      "card_id": "P1-SG1-U0359-M01",
+      "speaker": "吴军本人",
+      "claim": "艾略特教育改革遭校内教授与校外大学校长激烈反对，监事会一度欲罢免他。",
+      "type": "案例",
+      "disposition": "M",
+      "pillar_hints": ["D02-2"],
+      "capability_tags": ["学"],
+      "dup_cluster": "SG1-GG-艾略特教育改革"
+    }
+  ]
+}

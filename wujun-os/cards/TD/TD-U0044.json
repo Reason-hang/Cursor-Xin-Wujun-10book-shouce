@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0044",
+  "book_code": "TD",
+  "title": "第35封信 做事前不要过分算概率",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0044-K01",
+      "speaker": "吴军本人",
+      "claim": "想清楚后别因事前算概率过低而放弃尝试；年轻人宜敢闯。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

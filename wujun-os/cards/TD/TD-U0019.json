@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0019",
+  "book_code": "TD",
+  "title": "第13封信 面对贫穷，你可以选择沉沦或奋起",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0019-K01",
+      "speaker": "吴军本人",
+      "claim": "贫穷是双刃剑，可催人奋进也可使人沉沦；应了解贫困世界并保持对穷人的尊重与关怀。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D02-3", "D02-4"],
+      "capability_tags": ["思"],
+      "stable": "稳定"
+    }
+  ]
+}

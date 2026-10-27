@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0013",
+  "book_code": "TD",
+  "title": "第8封信 做事时境界要高",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0013-K01",
+      "speaker": "吴军本人",
+      "claim": "抵制短期诱惑、多关注长远；人追求的境界越高，往往能得到与之匹配的结果。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-2"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}

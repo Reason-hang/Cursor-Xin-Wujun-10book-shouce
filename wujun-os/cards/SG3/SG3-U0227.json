@@ -1,0 +1,49 @@
+{
+  "unit_id": "SG3-U0227",
+  "book_code": "SG3",
+  "title": "尼采2：上帝死了",
+  "speaker_default": "吴军本人",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P1-SG3-U0227-K01",
+      "speaker": "吴军本人",
+      "claim": "面对价值真空，应以积极态度赋予生活新意义，用主人翁心态解决问题。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": ["D01-4", "D02-4"],
+      "capability_tags": ["思"],
+      "note": "单元含尼采思想转述，本卡为吴军小结评述"
+    },
+    {
+      "card_id": "P1-SG3-U0227-R01",
+      "speaker": "吴军本人",
+      "claim": "划重点：积极虚无主义=重估价值后以重赋生活意义克服虚无。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["D01-4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§3"
+    },
+    {
+      "card_id": "P1-SG3-U0227-R02",
+      "speaker": "吴军本人",
+      "claim": "划重点：「上帝死了」是尼采前提，上帝象征传统权威与道德习惯。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["D01-4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§1"
+    },
+    {
+      "card_id": "P1-SG3-U0227-R03",
+      "speaker": "吴军本人",
+      "claim": "划重点：工业文明下旧信念失效，人们不知不觉中「杀死上帝」。",
+      "type": "清单",
+      "disposition": "K",
+      "pillar_hints": ["D01-4"],
+      "capability_tags": ["思"],
+      "external_recall": "划重点§2"
+    }
+  ]
+}

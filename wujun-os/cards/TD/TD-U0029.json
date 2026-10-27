@@ -1,0 +1,24 @@
+{
+  "unit_id": "TD-U0029",
+  "book_code": "TD",
+  "title": "第22封信 论爱情：合适的人会让你看到和得到全世界",
+  "batch": "B-P3a-TD-002",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0029-K01",
+      "speaker": "吴军本人",
+      "claim": "合适伴侣使人看到并得到全世界；爱情应带来增益而非牺牲自我。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-4"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

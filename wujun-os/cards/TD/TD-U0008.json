@@ -1,0 +1,19 @@
+{
+  "unit_id": "TD-U0008",
+  "book_code": "TD",
+  "title": "第4封信 成功是成功之母",
+  "batch": "B-P3a-TD-001",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-TD-U0008-K01",
+      "speaker": "吴军本人",
+      "claim": "失败不是成功之母，成功才是成功之母；年轻时要通过几次成功学会取得成功的方法。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": ["D02-2", "D05-2"],
+      "capability_tags": ["思", "做"],
+      "stable": "稳定"
+    }
+  ]
+}
