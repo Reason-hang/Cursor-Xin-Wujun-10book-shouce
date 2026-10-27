@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0092",
+  "book_code": "GG",
+  "title": "回信精选丨风险投资的利与弊",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0092-K01",
+      "speaker": "吴军本人",
+      "claim": "风险投资以耐心资本推动创新与高回报，但资金锁定期长、失败率高且优质基金门槛高；普通人参与须认清幸存者偏误与流动性约束，宜谨慎评估而非追逐神话回报。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

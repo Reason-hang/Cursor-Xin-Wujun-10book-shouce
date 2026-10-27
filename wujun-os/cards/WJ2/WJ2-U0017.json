@@ -1,0 +1,24 @@
+{
+  "unit_id": "WJ2-U0017",
+  "book_code": "WJ2",
+  "title": "第012封信｜哪些行业创造的财富最多?",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0017-K01",
+      "speaker": "吴军本人",
+      "claim": "IT 占全球 GDP 约 5%、就业不足 1% 却被高估；物流、医疗健康与新材料等大盘更值得关注，择业宜深耕或求稳，勿被媒体焦虑绑架。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

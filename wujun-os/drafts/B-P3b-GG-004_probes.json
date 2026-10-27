@@ -1,0 +1,185 @@
+{
+  "batch_id": "B-P3b-GG-004",
+  "units": [
+    {
+      "unit_id": "GG-U0008",
+      "title": "周末放送丨历史上最轰动的IPO",
+      "probe": "我们的专栏叫《吴军的谷歌",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0033",
+      "title": "第020封信丨是否该出国读书：中美教育全面比较",
+      "probe": "这周我们谈了是否该在美国",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0035",
+      "title": "来信补充丨大学是怎么来的？",
+      "probe": "本周我们讲到了“中美教育",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0065",
+      "title": "第037封信丨我们真的清楚为什么上大学么？",
+      "probe": "在讲今天的这个话题之前，",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0066",
+      "title": "第038封信丨为什么现在的大学教育已不足以培养出精英了？",
+      "probe": "我们很多人上大学是想成为",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0067",
+      "title": "第039封信丨为什么要上大学，还要上好大学？",
+      "probe": "我们昨天谈到，今天中国大",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0068",
+      "title": "第040封信丨在大学，你需要补充自己哪五种训练？",
+      "probe": "前几天我们聊了上大学的目",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0069",
+      "title": "来信补充丨高等教育的目的是什么？",
+      "probe": "本周咱们谈了很多大学教育",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0071",
+      "title": "回信精选丨在大学学会哪些技能很重要？",
+      "probe": "本周的回信主题是“你认为",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0074",
+      "title": "第043封信丨为什么要学习历史？",
+      "probe": "前两天我们聊了学习语文和",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0077",
+      "title": "周末放送丨《硅谷来信》——哈佛校长艾略特的教育思想",
+      "probe": "本周的通识教育话题，引起",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0078",
+      "title": "回信精选丨你认为通识教育中哪个科目最重要？",
+      "probe": "本周介绍了通识教育的重要",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0122",
+      "title": "第069封信丨是谁奠定了欧洲教育原则？",
+      "probe": "这周我们聊一聊欧洲大陆的",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0124",
+      "title": "第070封信丨为什么大学诞生在欧洲中世纪？",
+      "probe": "在今天的正式内容开始之前",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0125",
+      "title": "第071封信丨从大学的出现追溯高等教育的目的",
+      "probe": "今天我们继续溯源高等教育",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0130",
+      "title": "回信精选丨你会如何进行“子女教育”？",
+      "probe": "本周的思考题邀请你谈谈自",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0164",
+      "title": "第093封信丨牛津和剑桥独特的教育和录取方式",
+      "probe": "我们在第72封信中聊到了",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0165",
+      "title": "第094封信丨法国的教育体系（上）",
+      "probe": "我在谷歌方法论中介绍大学",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

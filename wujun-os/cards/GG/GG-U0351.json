@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0351",
+  "book_code": "GG",
+  "title": "精彩回信丨怎么讲好企业资源规划（ERP）这门课？",
+  "batch": "B-P3a-GG-A-03",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0351-K01",
+      "speaker": "吴军本人",
+      "claim": "讲 ERP 等跨部门系统课要扩视野建体系（战略到作业五层计划），并把工程思维粗调精调、逆向思维融入案例，才能让学生听得懂、学得会。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

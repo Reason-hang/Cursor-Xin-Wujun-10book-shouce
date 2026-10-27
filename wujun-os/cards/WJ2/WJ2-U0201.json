@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0201",
+  "book_code": "WJ2",
+  "title": "第164封信｜一件影响世界的大事——爱尔兰大饥荒",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0201-K01",
+      "speaker": "吴军本人",
+      "claim": "爱尔兰大饥荒表明民主与言论自由不能杜绝饥荒；单一作物依赖与应对失当叠加偶然，历史由制度、选择与运气交织，切忌把所有鸡蛋放一个篮子。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

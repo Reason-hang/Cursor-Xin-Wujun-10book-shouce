@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0099",
+  "book_code": "GG",
+  "title": "回信精选丨大人物的智慧对你有哪些启发？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0099-K01",
+      "speaker": "吴军本人",
+      "claim": "伟人启示在于开放思维、百折不挠与为后世留下可传承的遗产；从乔布斯连点成线、热爱与向死而生，到管仲的独立与远大志向，都强调以信念与价值观驱动长期积累。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

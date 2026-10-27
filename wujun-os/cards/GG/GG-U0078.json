@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0078",
+  "book_code": "GG",
+  "title": "回信精选丨你认为通识教育中哪个科目最重要？",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0078-K01",
+      "speaker": "吴军本人",
+      "claim": "通识教育里语文与数学各有枢纽价值：语文支撑输入理解与清晰输出，数学则提供跨文化的逻辑公理、量化思维与辩证论证训练，是理工科与理解社会的共同底座。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG1-U0041",
+  "book_code": "SG1",
+  "title": "周末加议丨答读者朋友问（二）",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0041-K01",
+      "speaker": "吴军本人",
+      "claim": "追风口式择业难持久，宜提供他人缺的信息与独特视角；走长远要靠格局与博学拓宽边界，而非钻进单一热门领域拔不出来。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

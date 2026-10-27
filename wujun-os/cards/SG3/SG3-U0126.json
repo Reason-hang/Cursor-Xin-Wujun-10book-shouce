@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0126",
+  "book_code": "SG3",
+  "title": "第104 封信丨经济展望3：人口结构变化如何影响未来经济发展？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0126-K01",
+      "speaker": "吴军本人",
+      "claim": "人口老龄化与抚养比变化是未来宏观底色；中长期发展势能看政治环境与人口结构，产业上虚拟与绿色、供应链与结构多样化及新基建、颠覆性技术并存机遇。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

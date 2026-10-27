@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0222",
+  "book_code": "WJ2",
+  "title": "第182封信｜在历史上，英国与荷兰争夺的是什么？",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0222-K01",
+      "speaker": "吴军本人",
+      "claim": "英荷四次战争表面争海上霸权，实质争全球经济主导权与本土制造业；《航海条例》式贸易保护与长期聚焦工商业，使英国最终超越富而不强的荷兰。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D10-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

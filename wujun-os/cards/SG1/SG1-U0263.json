@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG1-U0263",
+  "book_code": "SG1",
+  "title": "第253 封信丨是否该为知识产权付费?",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0263-K01",
+      "speaker": "吴军本人",
+      "claim": "医药、软件等内容定价反映研发与失败成本而非复制成本；若不足额付费交换劳动成果，研发激励崩溃，最终损害全社会创新与福利。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

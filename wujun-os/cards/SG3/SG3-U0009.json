@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0009",
+  "book_code": "SG3",
+  "title": "第006 封信丨疫情之后，全球化还好吗？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "全球公共卫生事件不会让全球化逆行，而是进入全球化2.0：区域化与供应商地域多样化降风险、部分产业内向整合，远程协作等新变量同时创造机会。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

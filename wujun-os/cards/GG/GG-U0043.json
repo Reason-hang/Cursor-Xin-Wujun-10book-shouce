@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0043",
+  "book_code": "GG",
+  "title": "回信精选丨流泪撒种的，必欢呼收割（来信读者的2018年计划）",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0043-K01",
+      "speaker": "吴军本人",
+      "claim": "年度规划宜用 OKR 等可衡量目标管理对齐家庭与事业；职业转型可沿打基础、寻觅、试验、启动四阶段推进，完成一件事比同时开多线更易落地。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

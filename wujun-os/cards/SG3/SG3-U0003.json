@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0003",
+  "book_code": "SG3",
+  "title": "发刊词丨我们进入了一个怎样的新时代？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "第三季延续全景式专栏，但科技味相对淡、人文味更浓；须借讨论验证经验，并以「硅谷」喻多元文化窗口，涵盖自我教育、职业成长、心智健全的商业投资及文化人物传。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

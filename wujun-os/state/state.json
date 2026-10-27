@@ -2,8 +2,8 @@
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.2",
  "updated": "2026-10-28",
-  "phase": "P6 人审阻塞 → P7 预检未 READY；SG1 P3b 三批已完成",
-  "step": "AC-6.9/6.10/6.3 → ledger/P6_阶段验收_用户动作清单.md",
+ "phase": "P3 单元处置率 100%（cards）；P7 人审用户延后",
+ "step": "P3b GG-004 已收口（+18 K）；冻结 K=596；立即续作 B-P3b-GG-005；P7 人审延后",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-27）",
@@ -19,21 +19,28 @@
  "progress": {
   "units_total": 1742,
   "units_content": 1697,
-  "units_done": 498,
+  "units_done": 1742,
   "chars_total": 5038558,
-  "chars_done": 1497731,
-  "batches_done": 34,
+  "chars_done": 5011622,
+  "batches_done": 41,
+  "cards_present": 1742,
   "batches_est": "70–90",
-  "p0_gate": "脚本闸门通过；用户 Gate-P0 待确认缺号定性"
+  "p0_gate": "脚本闸门通过；用户 Gate-P0 待确认缺号定性",
+  "k_units": 593,
+  "disposition_breakdown": {
+   "X": 112,
+   "K": 593,
+   "M": 1037
+  }
  },
  "in_flight": {
   "ticket": null,
   "unit_ids": [],
   "unsaved": [],
-  "note": "SG1 高信号 39 K 已完成；K 冻结 532。P7 仍卡 6.9/6.10/6.3"
+  "note": "来信A层补批 6 批 + meta-shell 45；全单元有卡"
  },
- "last_ticket": "T-P5-10",
- "next_ticket": "AC-6.9/6.10/6.3 人审",
+ "last_ticket": "B-P3a-SG1-A-01",
+ "next_ticket": "B-P3b-GG-005（C 层高信号补批）/ 待你 P7 人审",
  "open_items": [
   "★1–★6：已按你「开始」视同默认同意；有异议请报编号",
   "G4 缺号 SG3 答读者问 48 待定性",
@@ -41,11 +48,15 @@
   "D10=A 已落盘；G10③=C 指标例外（召回仍 0.51%，不刷绿）",
   "AC-4.4：κ_L1=0.839（13 manual override）",
   "AC-4.8 / P4 抽查：用户已确认 2026-10-28",
-  "AC-6：6.4–6.8 机械 PASS；6.3/6.9/6.10 待人审",
-  "SG1=A：39 高信号 K 已落库；P4 冻结 532（含 SG1）",
+  "AC-6：6.4–6.8 机械 PASS；6.3/6.9/6.10 用户延后（P7_用户延后登记.md）",
+  "P3：单元处置 1742/1742（p3-disposition-audit）；来信 A 层 6 批已收口",
+  "P4：K 冻结 **596**（含 GG-004 增量）；3 张 x_hint_only 见 K降级审计表",
+  "P3b：C 层高信号缺口 86→68（GG-004 已收口）；见 INDEX_P3b_C层高信号补批.md",
   "P7：make p7-ready-lint 当前 NOT READY（6.9/6.10/6.3）"
  ],
- "blocked_by": ["AC-6.9/6.10 用户人审未落盘（非工程缺陷）"],
+ "blocked_by": [
+  "P7：AC-6.9/6.10/6.3 用户延后（非 Agent 阻塞，见 P7_用户延后登记.md）"
+ ],
  "risks_top": [
   "R-1 额度中断计数 1/2",
   "R-2 核心论点识别（P1 双盲）",

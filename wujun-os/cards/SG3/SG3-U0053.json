@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0053",
+  "book_code": "SG3",
+  "title": "第042 封信丨奈飞如何成为全球视频领域的巨无霸？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0053-K01",
+      "speaker": "吴军本人",
+      "claim": "奈飞需先有自下而上、高人才密度的互联网基因，再在危机中转向流媒体，并以独家优质内容差异化抗衡 IT 巨头，用内容杠杆撬动发行合作。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

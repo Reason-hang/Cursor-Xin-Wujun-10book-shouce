@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0144",
+  "book_code": "GG",
+  "title": "回信精选丨计算机数据结构总结",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0144-K01",
+      "speaker": "吴军本人",
+      "claim": "选对数据结构可少做无用功：堆解决 Top-N、有序链表避免全量轮询等，都是在保证效果前提下剔除冗余操作；效率来自分析与复盘优化流程，而非单纯赶时间。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

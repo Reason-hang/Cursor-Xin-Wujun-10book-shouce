@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG1-U0260",
+  "book_code": "SG1",
+  "title": "第250 封信丨亚马逊为什么收购全食超市",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0260-K01",
+      "speaker": "吴军本人",
+      "claim": "亚马逊收购全食是为线上线下与高端生活布局：借窄众高端实体店低竞争切入，商业本质仍是让顾客多花钱，并把电商省下的资源引向更高价值消费。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

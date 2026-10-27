@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0010",
+  "book_code": "SG3",
+  "title": "第007 封信丨虚拟经济背后有怎样的技术必然性？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0010-K01",
+      "speaker": "吴军本人",
+      "claim": "未来经济中虚拟产品与服务占比长期上升，实体制造在 GDP 中相对权重下降；信息换能量是线上零售等模式的核心规律，择业宜考虑此结构性趋势。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

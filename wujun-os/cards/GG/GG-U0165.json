@@ -2,21 +2,25 @@
   "unit_id": "GG-U0165",
   "book_code": "GG",
   "title": "第094封信丨法国的教育体系（上）",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0165-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-GG-U0165-K01",
+      "speaker": "吴军本人",
+      "claim": "法国虽重金追求教育公平，但寒门逆袭未必更多，具体制度成效在国内仍难简单定论，需看清机制而非口号。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

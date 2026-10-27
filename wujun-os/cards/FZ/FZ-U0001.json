@@ -1,0 +1,21 @@
+{
+  "unit_id": "FZ-U0001",
+  "book_code": "FZ",
+  "title": "富足：数字时代的个人财富与认知升级",
+  "batch": "P3-meta-shell",
+  "disposition_unit": "X",
+  "layer": "—",
+  "cards": [
+    {
+      "card_id": "P3meta-FZ-U0001-X01",
+      "speaker": "—",
+      "claim": "排除 X8：未入分诊表的结构性或边缘单元",
+      "type": "判断",
+      "disposition": "X8",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "note": "p3_meta_shell 自动生成；P2 分诊表未收录"
+}

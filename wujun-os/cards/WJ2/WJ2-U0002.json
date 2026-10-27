@@ -1,0 +1,21 @@
+{
+  "unit_id": "WJ2-U0002",
+  "book_code": "WJ2",
+  "title": "目录",
+  "batch": "P3-meta-shell",
+  "disposition_unit": "X",
+  "layer": "—",
+  "cards": [
+    {
+      "card_id": "P3meta-WJ2-U0002-X01",
+      "speaker": "—",
+      "claim": "排除 X6：结构性目录，不抽 K",
+      "type": "判断",
+      "disposition": "X6",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "note": "p3_meta_shell 自动生成；P2 分诊表未收录"
+}

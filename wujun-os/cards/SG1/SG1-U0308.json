@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG1-U0308",
+  "book_code": "SG1",
+  "title": "第296 封信丨奢侈品的光泽（4）：定价之谜",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0308-K01",
+      "speaker": "吴军本人",
+      "claim": "奢侈品定价含固定成本、销毁库存、稀缺管控与关税等多重隐性因素，卖方总比买方精；合算与否取决于你看重功能、保值还是炫耀。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

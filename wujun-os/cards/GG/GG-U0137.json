@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0137",
+  "book_code": "GG",
+  "title": "回信精选丨计算机牛人身上有哪些值得你学习的品质？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0137-K01",
+      "speaker": "吴军本人",
+      "claim": "计算机巨匠共性是顶层设计、先专后广与成长型思维；在时间与精力有限前提下，少做并发、守边界并深度专注，方能在细分时代做到头部再谈跨界。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0114",
+  "book_code": "SG3",
+  "title": "第094 封信丨美国的6G 发展计划是什么样的？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0114-K01",
+      "speaker": "吴军本人",
+      "claim": "6G 可能走与 5G 不同的太赫兹新架构；地缘政治下美企或淡化 5G、另建联盟竞逐 6G 标准，未来不排除美中各成体系又部分兼容的两套方案。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

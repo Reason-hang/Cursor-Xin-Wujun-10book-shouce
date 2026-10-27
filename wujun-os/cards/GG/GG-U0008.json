@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0008",
+  "book_code": "GG",
+  "title": "周末放送丨历史上最轰动的IPO",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0008-K01",
+      "speaker": "吴军本人",
+      "claim": "Google 2004 年 IPO 以自然常数 e 前十位融资额等标志性细节，在盈利强劲与股东超 500 人触发披露规则背景下，成为史上最受瞩目的上市之一。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

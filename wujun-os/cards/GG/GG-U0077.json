@@ -1,18 +1,26 @@
 {
   "unit_id": "GG-U0077",
-  "disposition_unit": "M",
-  "dual_source_with": "SG1-U0359",
-  "speaker_note": "周末互动栏目；正文为吴军转述教育史案例",
+  "book_code": "GG",
+  "title": "周末放送丨《硅谷来信》——哈佛校长艾略特的教育思想",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P1-GG-U0077-M01",
+      "card_id": "P3b-GG-U0077-K01",
       "speaker": "吴军本人",
-      "claim": "与 SG1-U0359 同段：艾略特改革遭既得利益教授与校长集体反对。",
+      "claim": "艾略特把哈佛建成研究型大学，并总结一套培养具专业技能的社会精英的方法，对通识与专才教育均有借鉴。",
       "type": "案例",
-      "disposition": "M",
-      "pillar_hints": ["D02-2"],
-      "capability_tags": ["学"],
-      "dup_cluster": "SG1-GG-艾略特教育改革"
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
     }
   ]
 }

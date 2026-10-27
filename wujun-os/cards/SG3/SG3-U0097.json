@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG3-U0097",
+  "book_code": "SG3",
+  "title": "第080 封信丨美国的政党政治是怎么形成的？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0097-K01",
+      "speaker": "吴军本人",
+      "claim": "美国政党政治源于利益与主张相近者结盟争权，党争恒在；智慧在于调和分歧服务整体，早期联邦党与共和民主党格局亦随利益重组而多次翻转。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

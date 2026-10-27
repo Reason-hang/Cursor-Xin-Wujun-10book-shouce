@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0114",
+  "book_code": "GG",
+  "title": "回信精选丨计算机思维如何应用到实际中？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0114-K01",
+      "speaker": "吴军本人",
+      "claim": "应用计算机思维应先厘清问题再选算法与工具，用索引式标签提升检索与社交效率；规模跃迁会改变问题性质，个人宜在组织变大时持续解决更复杂的新问题以保持竞争力。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

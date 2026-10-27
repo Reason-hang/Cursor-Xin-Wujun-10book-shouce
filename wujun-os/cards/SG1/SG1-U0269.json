@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG1-U0269",
+  "book_code": "SG1",
+  "title": "第259 封信丨如何判断一个人的观点——判定利益冲突",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0269-K01",
+      "speaker": "吴军本人",
+      "claim": "判断专家观点首看利益冲突：说话人或其机构是否为该立场的受益者；验证真伪不必会解方程，看清激励机制即可筛掉大量忽悠。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D03-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

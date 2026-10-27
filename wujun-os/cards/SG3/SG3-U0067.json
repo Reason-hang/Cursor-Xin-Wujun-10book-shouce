@@ -1,0 +1,25 @@
+{
+  "unit_id": "SG3-U0067",
+  "book_code": "SG3",
+  "title": "第054 封信丨美国为什么要打南北战争？",
+  "batch": "B-P3a-SG3-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG3-U0067-K01",
+      "speaker": "吴军本人",
+      "claim": "美国南北冲突表面是理念之争，实质是关税、奴隶制出口型经济与南北市场不对等；轧棉机等偶然节点可重塑力量对比并推向战争。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

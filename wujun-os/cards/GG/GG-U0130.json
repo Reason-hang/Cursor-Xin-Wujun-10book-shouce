@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0130",
+  "book_code": "GG",
+  "title": "回信精选丨你会如何进行“子女教育”？",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0130-K01",
+      "speaker": "吴军本人",
+      "claim": "子女教育目标是幸福与持续获取幸福的能力；学习可以辛苦但不应痛苦，兴趣靠不断尝试挖掘天赋，快乐教育反对的是被逼的痛苦而非努力本身。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

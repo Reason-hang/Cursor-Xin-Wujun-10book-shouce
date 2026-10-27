@@ -2,21 +2,25 @@
   "unit_id": "GG-U0033",
   "book_code": "GG",
   "title": "第020封信丨是否该出国读书：中美教育全面比较",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0033-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-GG-U0033-K01",
+      "speaker": "吴军本人",
+      "claim": "是否出国读书应依职业目标分层比较中美教育，博士美国更强、硕士差异不大、本科与名校才值得硬拼。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0022",
+  "book_code": "GG",
+  "title": "周末互动丨如何避免成为耍小聪明的人",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0022-K01",
+      "speaker": "吴军本人",
+      "claim": "避免耍小聪明应着眼重复博弈积累信誉，并用增加沟通冗余换取可预测与信任；一次博弈式宰客在评价互联时代反而难持续获利。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

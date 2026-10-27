@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0064",
+  "book_code": "GG",
+  "title": "回信精选丨可提升的思维方式",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0064-K01",
+      "speaker": "吴军本人",
+      "claim": "模块化标准化提升工业时代效率，但 AI 时代宜补充情景化、意义化与游戏化思维；个人可借算力有限意识、优先级清单与「虚拟机式」换位思考优化工作与沟通。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

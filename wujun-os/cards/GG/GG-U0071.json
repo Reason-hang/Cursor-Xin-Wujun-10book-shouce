@@ -1,0 +1,26 @@
+{
+  "unit_id": "GG-U0071",
+  "book_code": "GG",
+  "title": "回信精选丨在大学学会哪些技能很重要？",
+  "batch": "B-P3b-GG-004",
+  "disposition_unit": "K",
+  "layer": "B",
+  "cards": [
+    {
+      "card_id": "P3b-GG-U0071-K01",
+      "speaker": "吴军本人",
+      "claim": "大学阶段宜把创造性、批判性思维与元认知式学习能力固化为习惯，并锤炼表达沟通、信息处理、代码边界意识与协作等可迁移能力，而非只练标准答案式考试技能。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D06-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

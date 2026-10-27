@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG1-U0340",
+  "book_code": "SG1",
+  "title": "第328 封信丨诺贝尔奖获得者斯宾塞解读为什么全球化停滞了",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0340-K01",
+      "speaker": "吴军本人",
+      "claim": "全球化难以逆转但症结在速度与社会代价被低估；中国难单独接盘主导权，智能化加剧分化，须同时看见制度动力、利益再分配与负面效应才能全面判断。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

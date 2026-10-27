@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0050",
+  "book_code": "GG",
+  "title": "回信精选丨知识之外的个人素养",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0050-K01",
+      "speaker": "吴军本人",
+      "claim": "未来职场除专业技能外，更看重交付与愿景意识、坦诚沟通及复杂问题解决、协作等软实力；自我驱动比外力驱动更能支撑持续精进。",
+      "type": "判断",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

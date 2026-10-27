@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0121",
+  "book_code": "GG",
+  "title": "回信精选丨你对悲观主义和乐观主义有哪些看法？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0121-K01",
+      "speaker": "吴军本人",
+      "claim": "乐观对应主动、增量式拆解目标，悲观常源于被动穷举障碍；走出悲观需认清事实与时间积累、纠偏方向，并以「Yes, and」放大优势而非放大缺陷。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

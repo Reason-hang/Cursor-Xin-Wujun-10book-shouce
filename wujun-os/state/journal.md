@@ -23,3 +23,9 @@
 | J-019 | 2026-10-28 | 全链 `make restore-check` PASS；P7 S18；pack 刷新 | `ledger/EP0_restore_check_20261028.md` |
 | J-020 | 2026-10-28 | P6 锚点队列 3 条修探针写回 ledger；509/509 verify PASS；D3/D6 同步 | `make p6-anchor-queue-apply`；有异议可回滚 ledger 行 |
 | J-021 | 2026-10-28 | 用户表单批复：D10=A、G10③=C、SG1=A、P4 确认；`approvals-full` | `D10_证据门例外登记.md`、`G10③_AC例外登记.md`；pack b67feec6… |
+| J-022 | 2026-10-28 | 用户延后 P7 人审；主链切 P3 补批：`p3-meta-shell` 45 壳、`p3-gap-plan`、**B-P3a-GG-A-01** commit 12 卡 | `P7_用户延后登记.md`；无卡 95→38；`INDEX_来信A层补批.md` |
+| J-023 | 2026-10-28 | 来信 A 层补批 **6 批全部 commit**（GG-A-01～03、WJ2/SG3/SG1-A-01）；**cards 1742/1742** | K 585；`make test` PASS |
+| J-024 | 2026-10-28 | `p3-disposition-audit`：单元处置 **1742/1742**；进度条与 `P3_单元处置率审计.md` 同步 | K 单元 579；P4 冻结 532 差量登记 |
+| J-025 | 2026-10-28 | `p4-freeze-k` **582**；`p5-assemble` 主手册/工具集 v0.9→正式夹；`p6-report` 刷新 | gates PASS；P7 仍 NOT READY |
+| J-026 | 2026-10-28 | `p3b-gap-plan`（86 单元/7 批）；**B-P3b-GG-004** commit +18 K；冻结 **596** | 下一张 B-P3b-GG-005 |
+| J-027 | 2026-10-28 | **项目交接文档 V2**（新窗口续作）落盘并 git push | `handover/WJ-OS｜项目交接文档V2｜新窗口续作_20261028.md` |

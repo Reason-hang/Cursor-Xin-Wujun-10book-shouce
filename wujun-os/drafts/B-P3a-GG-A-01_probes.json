@@ -1,0 +1,125 @@
+{
+  "batch_id": "B-P3a-GG-A-01",
+  "units": [
+    {
+      "unit_id": "GG-U0002",
+      "title": "发刊词丨智能时代的行动指南",
+      "probe": "这是一封来自智能时代战略",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0008",
+      "title": "周末放送丨历史上最轰动的IPO",
+      "probe": "我们的专栏叫《吴军的谷歌",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0015",
+      "title": "周末互动丨本周回信精选",
+      "probe": "从去年我的专栏《硅谷来信",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0021",
+      "title": "周末放送丨Google的个人英雄主义和群众路线",
+      "probe": "本周的课外阅读，我们继续",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0022",
+      "title": "周末互动丨如何避免成为耍小聪明的人",
+      "probe": "我们回信的主题是：如何避",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0028",
+      "title": "周末放送丨佩奇和布林—Google的绝代双骄",
+      "probe": "的故事。希望佩奇和布林两",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0029",
+      "title": "周末互动丨如何增加自己的稀缺性",
+      "probe": "我们回信的主题是：如何增",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0036",
+      "title": "回信精选丨人生赢家懂得把握动态平衡",
+      "probe": "本周我们回信的主题是：如",
+      "words": "201,7-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0043",
+      "title": "回信精选丨流泪撒种的，必欢呼收割（来信读者的2018年计划）",
+      "probe": "今天的回信精选为你选取了",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0050",
+      "title": "回信精选丨知识之外的个人素养",
+      "probe": "从本周的大公司面试题，你",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0057",
+      "title": "回信精选丨你从发明中得到了什么？",
+      "probe": "本周为你精选了几位读者对",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0064",
+      "title": "回信精选丨可提升的思维方式",
+      "probe": "工作过程模块化，标准化，",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

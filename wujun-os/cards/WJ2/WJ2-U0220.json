@@ -1,0 +1,24 @@
+{
+  "unit_id": "WJ2-U0220",
+  "book_code": "WJ2",
+  "title": "第180封信｜什么是工业化4.0，兼谈不受AI影响的产业",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0220-K01",
+      "speaker": "吴军本人",
+      "claim": "工业化 1.0–4.0 依次为机械化、自动化、信息化与智能化，每轮都有受益与受害群体，权益多靠自身与组织争取；高情感低智能投入的产业对 AI 相对无感。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D08-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

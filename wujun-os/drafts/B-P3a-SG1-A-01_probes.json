@@ -1,0 +1,95 @@
+{
+  "batch_id": "B-P3a-SG1-A-01",
+  "units": [
+    {
+      "unit_id": "SG1-U0003",
+      "title": "发刊词丨从有限的物质世界飞跃到无限的思想空间",
+      "probe": "随笔，以及茨威格、罗曼-",
+      "words": "少时读,卢梭的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0023",
+      "title": "第020 封信丨再谈谈2%和98%的问题",
+      "probe": "智能时代》一书出版后，罗",
+      "words": "智能时,代》一",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0041",
+      "title": "周末加议丨答读者朋友问（二）",
+      "probe": "《硅谷来信》到现在已经写",
+      "words": "硅谷来,信》到",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0182",
+      "title": "第172 封信丨上帝垂青主动的人",
+      "probe": "我在美国东部时，不少人在",
+      "words": "我在美,国东部",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0260",
+      "title": "第250 封信丨亚马逊为什么收购全食超市",
+      "probe": "今天我们从最近发生的一起",
+      "words": "今天我,们从最",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0263",
+      "title": "第253 封信丨是否该为知识产权付费?",
+      "probe": "今天我们来聊一个有争议的",
+      "words": "今天我,们来聊",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0269",
+      "title": "第259 封信丨如何判断一个人的观点——判定利益冲突",
+      "probe": "从今天开始的三封信里，我",
+      "words": "从今天,开始的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0308",
+      "title": "第296 封信丨奢侈品的光泽（4）：定价之谜",
+      "probe": "今天和你聊聊奢侈品的定价",
+      "words": "今天和,你聊聊",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG1-U0340",
+      "title": "第328 封信丨诺贝尔奖获得者斯宾塞解读为什么全球化停滞了",
+      "probe": "今天来信的内容是我在斯坦",
+      "words": "今天来,信的内",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

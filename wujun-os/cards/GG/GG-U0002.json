@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0002",
+  "book_code": "GG",
+  "title": "发刊词丨智能时代的行动指南",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0002-K01",
+      "speaker": "吴军本人",
+      "claim": "智能时代竞争的关键是掌握适应计算机的思维方式与方法论，用信息共性与数学基础同时解决多类问题，而非凭人力或本能思维硬拼。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D04-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

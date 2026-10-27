@@ -1,0 +1,21 @@
+{
+  "unit_id": "SG1-U0389",
+  "book_code": "SG1",
+  "title": "第二季来啦！一份智能时代的行动指南",
+  "batch": "P3-meta-shell",
+  "disposition_unit": "X",
+  "layer": "—",
+  "cards": [
+    {
+      "card_id": "P3meta-SG1-U0389-X01",
+      "speaker": "—",
+      "claim": "排除 X7：导航/元信息单元，不抽 K",
+      "type": "判断",
+      "disposition": "X7",
+      "pillar_hints": [],
+      "capability_tags": [],
+      "stable": "稳定"
+    }
+  ],
+  "note": "p3_meta_shell 自动生成；P2 分诊表未收录"
+}

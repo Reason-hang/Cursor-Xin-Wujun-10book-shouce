@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0085",
+  "book_code": "GG",
+  "title": "回信精选丨人生中的幸福时刻",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0085-K01",
+      "speaker": "吴军本人",
+      "claim": "幸福既来自生存、认可与自我实现等外在满足，更依赖内心平衡与对「理所当然」的珍惜；找到人生意义后的习惯与目标跃迁，往往比一时欢愉更能持久支撑幸福感。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-4",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

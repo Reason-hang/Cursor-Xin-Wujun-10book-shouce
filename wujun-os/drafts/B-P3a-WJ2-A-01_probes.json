@@ -1,0 +1,85 @@
+{
+  "batch_id": "B-P3a-WJ2-A-01",
+  "units": [
+    {
+      "unit_id": "WJ2-U0003",
+      "title": "发刊词｜用一年时间，重建底层逻辑",
+      "probe": "我是吴军，很高兴又和你见",
+      "words": "我是吴,军，很",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0006",
+      "title": "第003封信｜信息和技术发展带来怎样的优势和困局？",
+      "probe": "季。上一封信我和你聊了全",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0017",
+      "title": "第012封信｜哪些行业创造的财富最多?",
+      "probe": "季。在上一封信中，我们介",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0106",
+      "title": "第085封信｜提前效应：哪些事情是我们可以预测的？",
+      "probe": "昨天我们讲了积分关系的延",
+      "words": "昨天我,们讲了",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0161",
+      "title": "第131封信｜钱从哪里赚？",
+      "probe": "封信，分享了关于赚钱的创",
+      "words": "我在之,前用5",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0201",
+      "title": "第164封信｜一件影响世界的大事——爱尔兰大饥荒",
+      "probe": "上一封信，我们讲了荷兰怎",
+      "words": "上一封,信，我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0220",
+      "title": "第180封信｜什么是工业化4.0，兼谈不受AI影响的产业",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0222",
+      "title": "第182封信｜在历史上，英国与荷兰争夺的是什么？",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

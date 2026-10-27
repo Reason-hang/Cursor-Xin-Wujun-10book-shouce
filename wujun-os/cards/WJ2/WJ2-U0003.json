@@ -1,0 +1,24 @@
+{
+  "unit_id": "WJ2-U0003",
+  "book_code": "WJ2",
+  "title": "发刊词｜用一年时间，重建底层逻辑",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "大变局下须重建底层逻辑：以质量超越机器、筛真信息、修心态与保守渐进并重，应对老龄化、绿色转型与亚洲崛起带来的生存策略切换。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

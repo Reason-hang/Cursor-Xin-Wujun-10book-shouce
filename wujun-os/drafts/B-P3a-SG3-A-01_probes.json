@@ -1,0 +1,85 @@
+{
+  "batch_id": "B-P3a-SG3-A-01",
+  "units": [
+    {
+      "unit_id": "SG3-U0003",
+      "title": "发刊词丨我们进入了一个怎样的新时代？",
+      "probe": "季。很高兴又能跟你天天见",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0009",
+      "title": "第006 封信丨疫情之后，全球化还好吗？",
+      "probe": "季，这一周和你聊聊这次全",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0010",
+      "title": "第007 封信丨虚拟经济背后有怎样的技术必然性？",
+      "probe": "季，这封信，我想和你分享",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0053",
+      "title": "第042 封信丨奈飞如何成为全球视频领域的巨无霸？",
+      "probe": "季，这封信和你聊一家美国",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0067",
+      "title": "第054 封信丨美国为什么要打南北战争？",
+      "probe": "季，这封信我们接着讲北美",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0097",
+      "title": "第080 封信丨美国的政党政治是怎么形成的？",
+      "probe": "很多读者朋友希望我谈一谈",
+      "words": "很多读,者朋友",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0114",
+      "title": "第094 封信丨美国的6G 发展计划是什么样的？",
+      "probe": "我们来谈一个话题，就是美",
+      "words": "这封信,我们来",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0126",
+      "title": "第104 封信丨经济展望3：人口结构变化如何影响未来经济发展？",
+      "probe": "季。这封信我们来谈一谈未",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

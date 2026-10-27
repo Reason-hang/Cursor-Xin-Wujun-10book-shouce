@@ -1,0 +1,24 @@
+{
+  "unit_id": "GG-U0311",
+  "book_code": "GG",
+  "title": "第190封信丨为什么会有新的美墨加贸易协定？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0311-K01",
+      "speaker": "吴军本人",
+      "claim": "美墨加协定重谈判说明没有完美顶层设计、持续改良比预测更重要；理性合作应追求长远利益总和最大化，建立在互信与合理让利之上，而非每次合作都占尽便宜。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D07-2",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

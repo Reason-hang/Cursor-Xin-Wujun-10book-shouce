@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG1-U0003",
+  "book_code": "SG1",
+  "title": "发刊词丨从有限的物质世界飞跃到无限的思想空间",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0003-K01",
+      "speaker": "吴军本人",
+      "claim": "专栏旨在以跨学科视角分享见闻与思考，把读者从物质履历带入思想空间；适度收费既筛选真读者，也以契约约束作者持续完成系列创作。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

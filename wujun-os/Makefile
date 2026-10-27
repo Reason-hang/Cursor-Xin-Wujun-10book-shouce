@@ -147,6 +147,19 @@ p3b-close:
 p3c-apply:
 	$(PY) scripts/p3c_apply_triage.py
 
+p3-meta-shell:
+	$(PY) scripts/p3_meta_shell.py
+
+p3-gap-plan:
+	$(PY) scripts/p3_gap_plan.py
+
+p3b-gap-plan:
+	$(PY) scripts/p3b_gap_plan.py
+
+p3-disposition-audit:
+	$(PY) scripts/p3_disposition_audit.py
+	$(PY) scripts/status.py
+
 p4-freeze-p3:
 	$(PY) scripts/p4_freeze_p3.py
 

@@ -1,0 +1,25 @@
+{
+  "unit_id": "WJ2-U0161",
+  "book_code": "WJ2",
+  "title": "第131封信｜钱从哪里赚？",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0161-K01",
+      "speaker": "吴军本人",
+      "claim": "赚钱前先弄清钱在哪些行业、从谁身上挣更可靠；好企业常比政府合作更稳，AI 热门多是眼前面条而非聚宝盆，大盘行业与靠谱伙伴优于跟风彩票式投机。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D03-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

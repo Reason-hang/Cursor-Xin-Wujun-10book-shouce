@@ -1,0 +1,24 @@
+{
+  "unit_id": "SG1-U0182",
+  "book_code": "SG1",
+  "title": "第172 封信丨上帝垂青主动的人",
+  "batch": "B-P3a-SG1-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-SG1-U0182-K01",
+      "speaker": "吴军本人",
+      "claim": "对不主动的人连补救机会都难以奏效；职场与生活中应主动沟通上级、承担要务并在困境里自发组织解决问题，主动性决定出息。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

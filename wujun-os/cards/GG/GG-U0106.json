@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0106",
+  "book_code": "GG",
+  "title": "回信精选丨你从计算机算法中得到什么？",
+  "batch": "B-P3a-GG-A-02",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0106-K01",
+      "speaker": "吴军本人",
+      "claim": "算法思维可迁移到生活：分治拆解与全局合并提升问题量级，最大熵式少主观假设降偏误，快速排序式参照点帮助做减法；真正管用者多简单朴实却需反复验证迭代。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-1",
+        "D04-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

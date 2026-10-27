@@ -1,0 +1,24 @@
+{
+  "unit_id": "WJ2-U0006",
+  "book_code": "WJ2",
+  "title": "第003封信｜信息和技术发展带来怎样的优势和困局？",
+  "batch": "B-P3a-WJ2-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-WJ2-U0006-K01",
+      "speaker": "吴军本人",
+      "claim": "读写与技术的垄断会再现不平等，知本家掌控财富与话语权；个体宜掌握真技术而非抢风口，人为拉平差异往往酿成更大灾难。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D05-2",
+        "D10-1"
+      ],
+      "capability_tags": [
+        "思"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}

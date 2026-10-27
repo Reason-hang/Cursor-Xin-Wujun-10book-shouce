@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0028",
+  "book_code": "GG",
+  "title": "周末放送丨佩奇和布林—Google的绝代双骄",
+  "batch": "B-P3a-GG-A-01",
+  "disposition_unit": "K",
+  "cards": [
+    {
+      "card_id": "P3a-GG-U0028-K01",
+      "speaker": "吴军本人",
+      "claim": "佩奇与布林以知人善任和对搜索广告的准确判断带领 Google，并刻意把用户习惯从浏览转向搜索，使对手在其规则下竞争并打开关键词广告金矿。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
+      "stable": "稳定"
+    }
+  ]
+}
