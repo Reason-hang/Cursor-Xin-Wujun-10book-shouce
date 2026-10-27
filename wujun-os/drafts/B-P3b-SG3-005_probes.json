@@ -1,0 +1,145 @@
+{
+  "batch_id": "B-P3b-SG3-005",
+  "units": [
+    {
+      "unit_id": "SG3-U0012",
+      "title": "第009 封信丨在线教育能不能替代线下教育？",
+      "probe": "季，这封信我们聊一聊在线",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0022",
+      "title": "第016 封信丨不同阶段的教育怎么改变人的认知边界？",
+      "probe": "季，这周我们聊聊教育问题",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0023",
+      "title": "第017 封信丨科学家和民科的区别在哪里？博士到底牛在哪儿？",
+      "probe": "季，昨天和你聊了小学、中",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0024",
+      "title": "第018 封信丨美国顶尖大学教授是怎么晋升的？",
+      "probe": "季，这封信来和你聊聊学术",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0037",
+      "title": "第029 封信丨另类精英学校为什么办不下去了？",
+      "probe": "季，这封信继续和你分享一",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0064",
+      "title": "第051 封信丨分析历史事件可以从哪八个维度出发？",
+      "probe": "季，这封信来和你讲一个分",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0101",
+      "title": "第083 封信丨为什么汉尼拔赢得了战役，赢不了战争？",
+      "probe": "季。上一封信我们说到迦太",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0160",
+      "title": "第132 封信丨怎样理解帝国与王朝的兴衰？",
+      "probe": "季。接下来几封信和你分享",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0161",
+      "title": "第133 封信丨怎样把学习历史和解决现实问题联系起来？",
+      "probe": "季。这封信我们继续讨论上",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0162",
+      "title": "第134 封信丨怎么理解气候对于历史和社会的影响？",
+      "probe": "季。这封信我们来讨论一个",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0172",
+      "title": "第142 封信丨有效的战术：拿破仑为什么能赢得奥斯特利茨战役？",
+      "probe": "季。这一组信我们来谈一谈",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0181",
+      "title": "第150 封信丨为什么说“期望孩子超过自己”是不切实际的？",
+      "probe": "国内的同学和朋友近来教给",
+      "words": "国内的,同学和",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0233",
+      "title": "第193 封信丨到底怎么理解“教育不平等”？",
+      "probe": "之前在这一季专栏的第15",
+      "words": "之前在,这一季",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "SG3-U0253",
+      "title": "第210 封信丨卢梭1：为什么教育孩子要以自然为基准？",
+      "probe": "季。接下来的两封信，我们",
+      "words": "这里是,吴军的",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

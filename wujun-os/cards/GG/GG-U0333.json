@@ -2,21 +2,25 @@
   "unit_id": "GG-U0333",
   "book_code": "GG",
   "title": "第204封信丨从美国大学排名的变化，到中国网约车的整改",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0333-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0333-K01",
+      "speaker": "吴军本人",
+      "claim": "大学排名可用渐进微调指标实现隐性政策目标；出行生态一旦改变难以复原，网约车不宜跳变式整改；防垄断需用户也扶持第二名，今日所埋种子决定五年后的自己。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-2",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

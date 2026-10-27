@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0250",
   "book_code": "WJ2",
   "title": "第205封信｜两个和教育有关的话题",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-007",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0250-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-WJ2-U0250-K01",
+      "speaker": "吴军本人",
+      "claim": "教培可补短板但无序内卷有害；不存在投入少却回报极高的教育（如美国医师培养）。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0009",
   "book_code": "WJ2",
   "title": "第005封信｜为什么说教育平等最终来自社会的平等？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0009-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0009-K01",
+      "speaker": "吴军本人",
+      "claim": "教育不公根源于职业收入与社会地位差距；若各业体面且受尊重，上好大学的内卷才会根本减轻，教育平等依赖社会平等。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

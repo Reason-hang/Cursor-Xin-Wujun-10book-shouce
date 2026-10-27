@@ -1,0 +1,85 @@
+{
+  "batch_id": "B-P3b-GG-006",
+  "units": [
+    {
+      "unit_id": "GG-U0270",
+      "title": "第163封信丨“大苹果”里的袖珍名校——哥伦比亚大学（下）",
+      "probe": "昨天我们介绍了哥伦比亚大",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0271",
+      "title": "第164封信丨富兰克林的遗产——宾夕法尼亚大学",
+      "probe": "订阅了上一季《硅谷来信》",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0272",
+      "title": "第165封信丨坚持名称中没有“大学”二字的名牌大学",
+      "probe": "我们今天介绍一所美国很特",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0287",
+      "title": "第174封信丨标杆大学哈佛",
+      "probe": "这周我们继续谈谈高等教育",
+      "words": "201,8-0",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0333",
+      "title": "第204封信丨从美国大学排名的变化，到中国网约车的整改",
+      "probe": "看到今天的标题“从美国大",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0345",
+      "title": "第211封信丨帮助你和青春叛逆期孩子沟通的书",
+      "probe": "我的新书《具体生活》终于",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0355",
+      "title": "第218封信丨熬夜排队买苹果手机和中国孩子的早教",
+      "probe": "昨天我们提到了纳什的非零",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "GG-U0356",
+      "title": "来信补充丨美国的通识教育如何培养写作能力？",
+      "probe": "我们在之前的来信中介绍过",
+      "words": "201,8-1",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

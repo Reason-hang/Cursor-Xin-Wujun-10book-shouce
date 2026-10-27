@@ -2,21 +2,25 @@
   "unit_id": "GG-U0227",
   "book_code": "GG",
   "title": "第135封信丨美国的高等教育是如何走出困境的？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0227-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0227-K01",
+      "speaker": "吴军本人",
+      "claim": "十九世纪末美国高等教育靠私人捐赠、研究型转型与真正懂行且愿投入的治理者走出困境，一流教育必有本国特色，不宜以美国成果简单苛责中国。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

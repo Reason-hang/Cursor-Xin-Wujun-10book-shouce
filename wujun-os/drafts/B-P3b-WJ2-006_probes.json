@@ -1,0 +1,155 @@
+{
+  "batch_id": "B-P3b-WJ2-006",
+  "units": [
+    {
+      "unit_id": "WJ2-U0007",
+      "title": "第004封信｜为什么说中国教育在现有资源下最为公平？",
+      "probe": "季。上一封信我和你聊了技",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0009",
+      "title": "第005封信｜为什么说教育平等最终来自社会的平等？",
+      "probe": "季。上一封信我和你聊了教",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0025",
+      "title": "第018封信｜为什么说父母是子女教育的天花板？",
+      "probe": "到《吴军来信》第二季。从",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0031",
+      "title": "第023封信｜重新思考我们所了解的历史",
+      "probe": "吴军来信》第二季。我在本",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0032",
+      "title": "第024封信｜ 为什么有些历史经验教训，未必适用于每个人的生活？",
+      "probe": "在上一封信中，我们讲到，",
+      "words": "在上一,封信中",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0033",
+      "title": "第025封信｜建立史观：如何理解社会发展的底层逻辑？",
+      "probe": "第二季。在上一封信中我们",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0034",
+      "title": "第026封信｜中国在世界历史中的地位如何？",
+      "probe": "吴军来信》第二季。我们上",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0035",
+      "title": "第027封信｜我们能从历史中学到什么？",
+      "probe": "信》第二季。这一周，我用",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0045",
+      "title": "第036封信｜埃及之旅4：古埃及历史的变迁",
+      "probe": "吴军来信》第二季。我在前",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0098",
+      "title": "第079封信｜我在创业训练营上的讲座（2）：投资从大学时已经开始了",
+      "probe": "军来信》第二季。今天我继",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0126",
+      "title": "第102封信｜回国见闻5：关于度假村经济和教育的讨论",
+      "probe": "今天是我回国见闻系列的最",
+      "words": "今天是,我回国",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0136",
+      "title": "第110封信｜和梁建章博士的一席谈",
+      "probe": "吴军来信》第二季。今天的",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0210",
+      "title": "第172封信｜资产的估值：海湖庄园的历史",
+      "probe": "今天是周五，快到周末了，",
+      "words": "今天是,周五，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0214",
+      "title": "第175封信｜对于快乐教育的误解毁了多少孩子",
+      "probe": "今天这封信，我们来谈谈许",
+      "words": "今天这,封信，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0222",
+      "title": "第182封信｜在历史上，英国与荷兰争夺的是什么？",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0214",
   "book_code": "WJ2",
   "title": "第175封信｜对于快乐教育的误解毁了多少孩子",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0214-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-WJ2-U0214-K01",
+      "speaker": "吴军本人",
+      "claim": "美国快乐教育减负、降标、只鼓励不惩罚，造成大量功能性文盲；精英仍暗自努力，快乐教育类似奶头乐，易固化阶层。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0045",
   "book_code": "WJ2",
   "title": "第036封信｜埃及之旅4：古埃及历史的变迁",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0045-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0045-K01",
+      "speaker": "吴军本人",
+      "claim": "古王朝后法老由神降为神的代理人，须借修建神庙确立君权神授；金字塔停建与神权神话破灭、防盗及政治中心转移相关。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D09-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

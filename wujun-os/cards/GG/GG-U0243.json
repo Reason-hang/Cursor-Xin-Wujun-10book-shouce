@@ -2,21 +2,25 @@
   "unit_id": "GG-U0243",
   "book_code": "GG",
   "title": "来信补充丨我在《今日简史》全球首发上的讲演",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0243-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0243-K01",
+      "speaker": "吴军本人",
+      "claim": "人类走到今天靠沟通与团结，科技是近两百年的主变量；文明差异需理解与合作而非对抗，个体亦应友善担当，善待他人即善待自己。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D07-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

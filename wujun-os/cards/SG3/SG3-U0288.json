@@ -2,21 +2,25 @@
   "unit_id": "SG3-U0288",
   "book_code": "SG3",
   "title": "第239 封信丨罗森塔尔效应1：鼓励孩子真的能让孩子表现更好吗？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG3-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG3-U0288-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG3-U0288-K01",
+      "speaker": "吴军本人",
+      "claim": "罗森塔尔效应表明教师期望会影响表现，但单靠鼓励不能替代方法与努力。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

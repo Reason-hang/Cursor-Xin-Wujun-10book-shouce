@@ -2,21 +2,25 @@
   "unit_id": "GG-U0168",
   "book_code": "GG",
   "title": "特别来信丨高考、中考前一个月做什么？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0168-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0168-K01",
+      "speaker": "吴军本人",
+      "claim": "大考前宜区分学好与考好、战略求稳不争状元、战术上改做题习惯与跳题，检查用交叉验证，家长勿过度保障徒增压力。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

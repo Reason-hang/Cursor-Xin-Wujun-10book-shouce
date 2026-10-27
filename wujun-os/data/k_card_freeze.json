@@ -1,9 +1,9 @@
 {
   "date": "2026-10-28",
   "ticket": "T-P4-12",
-  "k_cards_frozen": 596,
-  "sha256_P4_归属表": "f9dbf3525608e00f0545da39d2e31630289910e22eef3fcdb0de5ed3ab97e423",
-  "sha256_P4_L3模型清单": "efe0a33fe29776c01a471802357f4ec5bd9cc0d2b282ede4d29532fee7ce93da",
+  "k_cards_frozen": 663,
+  "sha256_P4_归属表": "d7cbb3877616e9d388c1c06d2f37e25546590beed0b10c020007acb13a7f63a5",
+  "sha256_P4_L3模型清单": "eafa8e0d148d7a244e03a1d99c8250c346b730a2c57692e893bdbb7526b3c1d1",
   "kappa_L1": 0.8392,
   "spot_check_errors": 0,
   "downgrade_open": 3

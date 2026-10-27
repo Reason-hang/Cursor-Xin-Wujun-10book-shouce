@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0031",
   "book_code": "WJ2",
   "title": "第023封信｜重新思考我们所了解的历史",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0031-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0031-K01",
+      "speaker": "吴军本人",
+      "claim": "流行历史叙事可能失真；隋文帝未必明君、炀帝未必全昏，应以史料校正简化史观，并警惕把未证实的古代经验直接用于今日。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

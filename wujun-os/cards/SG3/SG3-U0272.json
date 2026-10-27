@@ -2,21 +2,25 @@
   "unit_id": "SG3-U0272",
   "book_code": "SG3",
   "title": "第226 封信丨赫尔巴特：为什么处罚孩子有时是必要的？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG3-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG3-U0272-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG3-U0272-K01",
+      "speaker": "吴军本人",
+      "claim": "赫尔巴特：教育者须懂心理学并观察孩子；适当处罚可规范行为塑造品格。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-1",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

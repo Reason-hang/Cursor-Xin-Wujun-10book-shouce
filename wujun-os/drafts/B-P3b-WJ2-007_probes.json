@@ -1,0 +1,45 @@
+{
+  "batch_id": "B-P3b-WJ2-007",
+  "units": [
+    {
+      "unit_id": "WJ2-U0238",
+      "title": "第195封信｜假如我有一个孩子，我会怎么培养？",
+      "probe": "三年前，自从我家老二上大",
+      "words": "三年前,，自从",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0250",
+      "title": "第205封信｜两个和教育有关的话题",
+      "probe": "今天这封信我们来谈两个和",
+      "words": "今天这,封信我",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0291",
+      "title": "第239封信｜关于孩子的未来，不少家长可能想多了",
+      "probe": "《吴军来信》第二季。这封",
+      "words": "欢迎回,到《吴",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    },
+    {
+      "unit_id": "WJ2-U0303",
+      "title": "第249封信｜中国大学和美国大学各自的错位",
+      "probe": "月，很多年轻人已经回到了",
+      "words": "又到9, 月，",
+      "claim": "",
+      "type": "原理",
+      "pillar_hints": [],
+      "errors": []
+    }
+  ]
+}

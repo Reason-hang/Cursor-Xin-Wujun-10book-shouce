@@ -2,21 +2,25 @@
   "unit_id": "SG3-U0162",
   "book_code": "SG3",
   "title": "第134 封信丨怎么理解气候对于历史和社会的影响？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG3-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG3-U0162-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG3-U0162-K01",
+      "speaker": "吴军本人",
+      "claim": "气候影响社会无单一正相关；须结合地理、技术与历史情境具体分析。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

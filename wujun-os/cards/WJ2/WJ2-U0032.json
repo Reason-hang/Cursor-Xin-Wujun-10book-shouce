@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0032",
   "book_code": "WJ2",
   "title": "第024封信｜ 为什么有些历史经验教训，未必适用于每个人的生活？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0032-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0032-K01",
+      "speaker": "吴军本人",
+      "claim": "史料错误、样本过少与条件差异，使许多历史“教训”不宜照搬进个人生活；读史宜粗不宜细，解决今日问题仍靠今日方法。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

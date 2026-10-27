@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0291",
   "book_code": "WJ2",
   "title": "第239封信｜关于孩子的未来，不少家长可能想多了",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-007",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0291-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0291-K01",
+      "speaker": "吴军本人",
+      "claim": "不能按原材料成本判断商品价格；须理解劳动与交换决定定价的底层逻辑。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-1",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

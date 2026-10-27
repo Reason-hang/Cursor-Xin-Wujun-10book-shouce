@@ -29,3 +29,9 @@
 | J-025 | 2026-10-28 | `p4-freeze-k` **582**；`p5-assemble` 主手册/工具集 v0.9→正式夹；`p6-report` 刷新 | gates PASS；P7 仍 NOT READY |
 | J-026 | 2026-10-28 | `p3b-gap-plan`（86 单元/7 批）；**B-P3b-GG-004** commit +18 K；冻结 **596** | 下一张 B-P3b-GG-005 |
 | J-027 | 2026-10-28 | **项目交接文档 V2**（新窗口续作）落盘并 git push | `handover/WJ-OS｜项目交接文档V2｜新窗口续作_20261028.md` |
+| J-028 | 2026-10-28 | **B-P3b-GG-005** commit 17 张 K（manifest+锚点）；`p4-freeze-k` **613**；`make pack` 后 test/gates PASS | 下一张 B-P3b-GG-006；C 层缺口 51 |
+| J-029 | 2026-10-28 | **B-P3b-GG-006** commit 8 张 K（manifest+锚点）；`p4-freeze-k` **621**；`make pack` 后 test/gates PASS | 下一张 B-P3b-WJ2-006；C 层缺口 43；GG 书 C 层补批完毕 |
+| J-030 | 2026-10-28 | **B-P3b-WJ2-006** commit 15 张 K（manifest+锚点）；`p4-freeze-k` **635**；`make pack` 后 test/gates PASS | 下一张 B-P3b-WJ2-007；C 层缺口 28 |
+| J-031 | 2026-10-28 | **B-P3b-WJ2-007**（4）+ **SG3-005**（14）+ **SG3-006**（10）manifest→commit→lint；三批合计 **28** 张 K+锚点；`p4-assign-pillars` / `p4-aggregate-l3` / `p4-freeze-k` **663**；`p3b-gap-plan` 缺口 **0** | C 层高信号补批完结；建议 P5 深化或 P7 待用户 |
+| J-032 | 2026-10-28 | P5 assemble v0.9 + P6 report/bidir 刷新；`ledger/P3b_C层高信号_完工登记_2026-10-28.md` | `next_ticket`→P5 深化 |
+| J-033 | 2026-10-28 | 用户换窗：交接文档 **V2 v2.1** 全量更新；停止 Goal 自动推进 | handover V2 + git push |

@@ -2,21 +2,25 @@
   "unit_id": "GG-U0263",
   "book_code": "GG",
   "title": "第158封信丨藤校和美国名校——什么才是衡量好大学的标准？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0263-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0263-K01",
+      "speaker": "吴军本人",
+      "claim": "好大学应培养面向未来的贡献者、产出原创性研究、发源新思想并做年轻人的家，而非靠校名替毕业生背书。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

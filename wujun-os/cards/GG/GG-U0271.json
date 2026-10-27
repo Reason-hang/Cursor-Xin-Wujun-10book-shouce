@@ -2,21 +2,25 @@
   "unit_id": "GG-U0271",
   "book_code": "GG",
   "title": "第164封信丨富兰克林的遗产——宾夕法尼亚大学",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0271-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0271-K01",
+      "speaker": "吴军本人",
+      "claim": "富兰克林创办宾大意在让平民接受实用高等教育并服务当地工商业，沃顿等延续务实基因，说明世界一流大学须各有特色而非拷贝他人办学理念。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

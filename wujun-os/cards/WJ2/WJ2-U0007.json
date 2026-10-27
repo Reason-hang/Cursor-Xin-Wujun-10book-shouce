@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0007",
   "book_code": "WJ2",
   "title": "第004封信｜为什么说中国教育在现有资源下最为公平？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0007-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0007-K01",
+      "speaker": "吴军本人",
+      "claim": "教育资源不减少时，抱怨者常混淆质量与公平；在现有资源下，中国高考与分省录取已是成本可控且相对最公平的筛选方式。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

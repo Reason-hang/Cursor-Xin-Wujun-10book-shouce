@@ -2,21 +2,25 @@
   "unit_id": "GG-U0167",
   "book_code": "GG",
   "title": "第096封信丨为什么今天德国的大学没有名气？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0167-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0167-K01",
+      "speaker": "吴军本人",
+      "claim": "德国大学今日名气不足主因是经费匮乏与录取、培养上的平均主义，难聚精英与一流教授，说明过分强调公平会削弱顶尖学术与创新产出。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

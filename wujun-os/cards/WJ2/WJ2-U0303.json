@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0303",
   "book_code": "WJ2",
   "title": "第249封信｜中国大学和美国大学各自的错位",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-007",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0303-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-WJ2-U0303-K01",
+      "speaker": "吴军本人",
+      "claim": "中美大学均存在筛选、培养与就业准备的错位；先承认事实再谈应对。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

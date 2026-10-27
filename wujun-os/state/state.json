@@ -3,7 +3,7 @@
  "pack_version": "1.2",
  "updated": "2026-10-28",
  "phase": "P3 单元处置率 100%（cards）；P7 人审用户延后",
- "step": "P3b GG-004 已收口（+18 K）；冻结 K=596；立即续作 B-P3b-GG-005；P7 人审延后",
+ "step": "P3b C层高信号 7 批已完结；冻结 K=663；主链 P5 深化；P7 人审用户延后",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-27）",
@@ -22,14 +22,14 @@
   "units_done": 1742,
   "chars_total": 5038558,
   "chars_done": 5011622,
-  "batches_done": 41,
+  "batches_done": 47,
   "cards_present": 1742,
   "batches_est": "70–90",
   "p0_gate": "脚本闸门通过；用户 Gate-P0 待确认缺号定性",
-  "k_units": 593,
+  "k_units": 660,
   "disposition_breakdown": {
-   "X": 112,
-   "K": 593,
+   "X": 45,
+   "K": 660,
    "M": 1037
   }
  },
@@ -39,8 +39,8 @@
   "unsaved": [],
   "note": "来信A层补批 6 批 + meta-shell 45；全单元有卡"
  },
- "last_ticket": "B-P3a-SG1-A-01",
- "next_ticket": "B-P3b-GG-005（C 层高信号补批）/ 待你 P7 人审",
+ "last_ticket": "B-P3b-SG3-006",
+ "next_ticket": "P5：drafts/p5 章稿与 663 K 映射深化（或用户恢复 P7）",
  "open_items": [
   "★1–★6：已按你「开始」视同默认同意；有异议请报编号",
   "G4 缺号 SG3 答读者问 48 待定性",
@@ -50,8 +50,8 @@
   "AC-4.8 / P4 抽查：用户已确认 2026-10-28",
   "AC-6：6.4–6.8 机械 PASS；6.3/6.9/6.10 用户延后（P7_用户延后登记.md）",
   "P3：单元处置 1742/1742（p3-disposition-audit）；来信 A 层 6 批已收口",
-  "P4：K 冻结 **596**（含 GG-004 增量）；3 张 x_hint_only 见 K降级审计表",
-  "P3b：C 层高信号缺口 86→68（GG-004 已收口）；见 INDEX_P3b_C层高信号补批.md",
+  "P4：K 冻结 **663**（WJ2-007 + SG3-005/006 共 +28）；3 张 x_hint_only 见 K降级审计表",
+  "P3b：C 层高信号缺口 **0**（7 批 86 单元已全部 commit）；INDEX 已清空待批",
   "P7：make p7-ready-lint 当前 NOT READY（6.9/6.10/6.3）"
  ],
  "blocked_by": [

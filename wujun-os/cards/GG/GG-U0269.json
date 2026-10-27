@@ -2,21 +2,25 @@
   "unit_id": "GG-U0269",
   "book_code": "GG",
   "title": "第162封信丨“大苹果”里的袖珍名校——哥伦比亚大学（上）",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0269-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0269-K01",
+      "speaker": "吴军本人",
+      "claim": "哥伦比亚大学地处纽约、研究导向且鼓励学生主动找科研与海外交换，与本科学院/工学院分流及资源位置形成与普林斯顿、耶鲁不同的路径。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

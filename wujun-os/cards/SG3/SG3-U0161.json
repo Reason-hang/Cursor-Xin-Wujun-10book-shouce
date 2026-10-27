@@ -2,21 +2,25 @@
   "unit_id": "SG3-U0161",
   "book_code": "SG3",
   "title": "第133 封信丨怎样把学习历史和解决现实问题联系起来？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG3-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG3-U0161-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG3-U0161-K01",
+      "speaker": "吴军本人",
+      "claim": "政权靠控制力与向心力维系，离心力与外力破坏则致衰亡；可类比企业管理。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D08-2"
+      ],
+      "capability_tags": [
+        "沟",
+        "思"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

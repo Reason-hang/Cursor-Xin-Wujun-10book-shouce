@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0098",
   "book_code": "WJ2",
   "title": "第079封信｜我在创业训练营上的讲座（2）：投资从大学时已经开始了",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0098-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-WJ2-U0098-K01",
+      "speaker": "吴军本人",
+      "claim": "政治正确若压过岗位标准，会损害波音、谷歌等制造与科技企业；经营者应把盈利与产品安全置于过头DEI之上。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D08-2",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

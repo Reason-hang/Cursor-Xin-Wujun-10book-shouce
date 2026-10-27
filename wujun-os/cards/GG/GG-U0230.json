@@ -2,21 +2,25 @@
   "unit_id": "GG-U0230",
   "book_code": "GG",
   "title": "来信补充丨中美大学本科课程教育的差异",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0230-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0230-K01",
+      "speaker": "吴军本人",
+      "claim": "中美本科差异体现在选课自由、通识与专才结构、评分可比性与学术氛围等，大学生应重技能与基础课并通过交流开拓视野，而非只盯分数。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D02-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "SG3-U0160",
   "book_code": "SG3",
   "title": "第132 封信丨怎样理解帝国与王朝的兴衰？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-SG3-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-SG3-U0160-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-SG3-U0160-K01",
+      "speaker": "吴军本人",
+      "claim": "王朝兴衰主因是地理、经济、制度等客观因素，非仅明君昏君个人品德。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-1",
+        "D03-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

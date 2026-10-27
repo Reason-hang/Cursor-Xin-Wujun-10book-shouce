@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0035",
   "book_code": "WJ2",
   "title": "第027封信｜我们能从历史中学到什么？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0035-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0035-K01",
+      "speaker": "吴军本人",
+      "claim": "认识历史的偶然性才能宠辱不惊；个人努力常被时代抖动淹没，宜感恩所处时代，以“看得开”过好日常。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

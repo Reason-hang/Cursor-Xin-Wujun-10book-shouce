@@ -2,21 +2,25 @@
   "unit_id": "GG-U0266",
   "book_code": "GG",
   "title": "第161封信丨耶鲁大学的精神",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0266-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0266-K01",
+      "speaker": "吴军本人",
+      "claim": "耶鲁坚持鲜明办学特色与价值观，以课外互动与宽松学业留空间培养担当与独立思考，毕业生应领导社会而非只求舒适就业。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D01-3"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "GG-U0264",
   "book_code": "GG",
   "title": "第159封信丨为什么普林斯顿大学是一所值得上的大学？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0264-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0264-K01",
+      "speaker": "吴军本人",
+      "claim": "普林斯顿以袖珍规模、通识与严格独立工作能力著称，专业要么不做要做就争第一，十个第十不如一个第一。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D02-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

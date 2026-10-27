@@ -2,21 +2,25 @@
   "unit_id": "GG-U0356",
   "book_code": "GG",
   "title": "来信补充丨美国的通识教育如何培养写作能力？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0356-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0356-K01",
+      "speaker": "吴军本人",
+      "claim": "美国通识写作靠流水账、突出中心思想到结构证据的三阶练习，重逻辑与真实结论而非辞藻；学习应找有经验者学系统方法，物理重在概念关系而非当数学演算。",
+      "type": "方法",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-2",
+        "D05-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

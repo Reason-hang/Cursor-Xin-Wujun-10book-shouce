@@ -2,21 +2,25 @@
   "unit_id": "WJ2-U0034",
   "book_code": "WJ2",
   "title": "第026封信｜中国在世界历史中的地位如何？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-WJ2-006",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-WJ2-U0034-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X4：来信默认→C",
-      "type": "判断",
-      "disposition": "X4",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-WJ2-U0034-K01",
+      "speaker": "吴军本人",
+      "claim": "孔子代表东方人文主义，科举是以考试择优的文官制度创新；二者贡献须与后世外儒内法、统治术曲解区分开来。",
+      "type": "原理",
+      "disposition": "K",
+      "pillar_hints": [
+        "D01-2",
+        "D06-2"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

@@ -2,21 +2,25 @@
   "unit_id": "GG-U0228",
   "book_code": "GG",
   "title": "第136封信丨美国高等教育的转型：吉尔曼和艾略特的奇迹",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0228-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
-      "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "card_id": "P3b-GG-U0228-K01",
+      "speaker": "吴军本人",
+      "claim": "吉尔曼与艾略特以工商捐赠、通识与专才并重、终身学习与原创研究及服务社会等实干路线，把哈佛等校从烂摊子办成世界一流样板。",
+      "type": "案例",
+      "disposition": "K",
+      "pillar_hints": [
+        "D02-3",
+        "D05-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }

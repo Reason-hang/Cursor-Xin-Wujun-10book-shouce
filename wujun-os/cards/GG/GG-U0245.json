@@ -2,21 +2,25 @@
   "unit_id": "GG-U0245",
   "book_code": "GG",
   "title": "第146封信丨国外的大学真的是教授治校么？",
-  "batch": "P3c-triage",
-  "disposition_unit": "X",
-  "layer": "C",
+  "batch": "B-P3b-GG-005",
+  "disposition_unit": "K",
+  "layer": "B",
   "cards": [
     {
-      "card_id": "P3c-GG-U0245-X01",
-      "speaker": "—",
-      "claim": "分诊排除 X5：来信默认→C",
+      "card_id": "P3b-GG-U0245-K01",
+      "speaker": "吴军本人",
+      "claim": "美国「教授治校」实质是系级教授管好研究与教学以提效率，校级权力集中是规模使然，不宜脱离社会条件简单套用于中国。",
       "type": "判断",
-      "disposition": "X5",
-      "pillar_hints": [],
-      "capability_tags": [],
+      "disposition": "K",
+      "pillar_hints": [
+        "D06-2",
+        "D01-1"
+      ],
+      "capability_tags": [
+        "思",
+        "做"
+      ],
       "stable": "稳定"
     }
-  ],
-  "triage_rule": "来信默认→C",
-  "note": "C层壳；x_candidate=Y"
+  ]
 }
