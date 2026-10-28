@@ -20,7 +20,7 @@ make restore-check
 make p6-build && make p7-preflight && make p7-acceptance-audit && make pack && make test
 ```
 
-说明：`wujun-os/ledger/P7_阶段验收前一键命令.md`、`P6_阶段验收_用户动作清单.md`。K 冻结 **532**（含 SG1×39）。
+说明：`wujun-os/ledger/P7_阶段验收前一键命令.md`、`P6_阶段验收_用户动作清单.md`。K 冻结 **663**（含 SG1 高信号 48 等；历史 532/493 见 `P4_K冻结差量_待批复.md`）。
 
 ## AC-6 快照（机械项）
 
