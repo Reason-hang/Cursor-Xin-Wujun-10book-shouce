@@ -3,7 +3,8 @@
  "pack_version": "1.2",
  "updated": "2026-10-28",
  "phase": "P3 单元处置率 100%（cards）；P7 人审用户延后",
- "step": "P3b C层高信号 7 批已完结；冻结 K=663；主链 P5 深化；P7 人审用户延后",
+ "step": "P5 Goal 工程侧收口：663 K、50 M §9、变体 stub；gates/test/deliver-audit PASS；P7 人审/召回仅登记",
+ "next_ticket": "用户 U-01～05 → p7-closeout（M4 v1.0 六件套）；或 batches 深抽 U-11",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-27）",
@@ -39,8 +40,7 @@
   "unsaved": [],
   "note": "来信A层补批 6 批 + meta-shell 45；全单元有卡"
  },
- "last_ticket": "B-P3b-SG3-006",
- "next_ticket": "P5：drafts/p5 章稿与 663 K 映射深化（或用户恢复 P7）",
+ "last_ticket": "P5-Goal-工程侧机械链收口",
  "open_items": [
   "★1–★6：已按你「开始」视同默认同意；有异议请报编号",
   "G4 缺号 SG3 答读者问 48 待定性",
@@ -52,7 +52,8 @@
   "P3：单元处置 1742/1742（p3-disposition-audit）；来信 A 层 6 批已收口",
   "P4：K 冻结 **663**（WJ2-007 + SG3-005/006 共 +28）；3 张 x_hint_only 见 K降级审计表",
   "P3b：C 层高信号缺口 **0**（7 批 86 单元已全部 commit）；INDEX 已清空待批",
-  "P7：make p7-ready-lint 当前 NOT READY（6.9/6.10/6.3）"
+  "P5：50 张 M 卡 §9 落地映射无「—」（进度台账_P5v1_2026-10-28）",
+  "待审跳过：ledger/WJ-OS_待用户审核跳过登记_2026-10-28.md（U-01～U-12）"
  ],
  "blocked_by": [
   "P7：AC-6.9/6.10/6.3 用户延后（非 Agent 阻塞，见 P7_用户延后登记.md）"

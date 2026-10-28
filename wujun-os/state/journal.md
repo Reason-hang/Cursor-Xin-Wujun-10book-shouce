@@ -35,3 +35,9 @@
 | J-031 | 2026-10-28 | **B-P3b-WJ2-007**（4）+ **SG3-005**（14）+ **SG3-006**（10）manifest→commit→lint；三批合计 **28** 张 K+锚点；`p4-assign-pillars` / `p4-aggregate-l3` / `p4-freeze-k` **663**；`p3b-gap-plan` 缺口 **0** | C 层高信号补批完结；建议 P5 深化或 P7 待用户 |
 | J-032 | 2026-10-28 | P5 assemble v0.9 + P6 report/bidir 刷新；`ledger/P3b_C层高信号_完工登记_2026-10-28.md` | `next_ticket`→P5 深化 |
 | J-033 | 2026-10-28 | 用户换窗：交接文档 **V2 v2.1** 全量更新；停止 Goal 自动推进 | handover V2 + git push |
+| J-034 | 2026-10-28 | 用户「开始」P5 深化：D06/D01/D02 主归属 K 章内 gap→0（364）；`K_主归属挂接补全`+M 出处；`p5-assemble`+`p6-report/bidir`；pack 2500 文件 | `ledger/P5_K映射深化_机械审计_2026-10-28.md`；next→D03–D10 |
+| J-035 | 2026-10-28 | D02 批 2 收束 + INDEX/章末口径统一；主手册 dup lint 去重表述；`make gates` 复绿 | 三柱 primary gap=0 |
+| J-036 | 2026-10-28 | P5 续：D03–D10 补挂 **52** K；**D01–D10 primary 663 gap=0**；assemble+P6+pack+gates | 审计 md 更新 |
+| J-037 | 2026-10-28 | P5 v1.0 批 1：三柱 **落地映射/变体/场景工具**；`P5_v1.0_三柱深加工登记`；冲突表 C-08→D10=A | M2 验证待用户 |
+| J-038 | 2026-10-28 | P5 批 2：**18+ 张 M 卡 §9 补映射→50 张全闭合**；`WJ-OS_待用户审核跳过登记`；进度台账_P5v1；gates PASS | P7 NOT READY 已登记 |
+| J-039 | 2026-10-28 | `/goal` 收口复验：`make test`/`make gates` 全 PASS（verify 2510/0 改动）；`make deliver-audit` fail=0；变体 dup 修复后稳定；`WJ-OS_工程侧收尾边界` 定稿 | 工程侧无可推进项；下一张工单→U-01～05 或 batches |
